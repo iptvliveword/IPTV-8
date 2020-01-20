@@ -4,146 +4,138 @@
 
 #EXTM3U
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Indonesian" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/3/3f/CTV_Banten.png/200px-CTV_Banten.png" tvg-country="ID" tvg-url="" group-title="Indonesia",CTV Banten
+#EXTINF:-1 tvg-logo="http://aditv.co.id/wp-content/uploads/2019/02/logo-aditv-5.png" group-title="Indonesia", ADiTV
+http://aditv.onlivestreaming.net/aditv/livestream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/g7dkBVq/images.jpg" group-title="Indonesia", Ahsan TV
+http://119.82.224.75:1935/live/ahsantv/chunk.m3u8
+
+#EXTINF:0 tvg-logo="http://images2.useetv.com/logo_antv_big1.png" group-title="Indonesia", Antv 1
+http://210.210.155.35/session/7fd33922-46b1-11e9-b863-c81f66f89318/qwr9ew/s/s102/01.m3u8
+
+#EXTINF:0 tvg-logo="http://images2.useetv.com/logo_antv_big1.png" group-title="Indonesia", Antv 2
+http://202.80.222.170/000001/2/ch14061215034900095272/1001.m3u8?
+
+#EXTINF:-1 tvg-logo="http://www.arematv.id/wp-content/uploads/2016/09/logo5.png" group-title="Indonesia", Arema TV
+http://wowza58.indostreamserver.com:1935/arematv/live/chunklist_w425722557.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/b/b9/BaliTV_2014.png" group-title="Indonesia", Bali TV
+http://202.80.222.171/000001/2/ch00000090990000001729/index.m3u8?virtualDomain=000001.live_hls.zte.com
+
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/c/c1/Baraya_TV.png/revision/latest?cb=20180920095655" group-title="Indonesia", Baraya TV
+http://stream1.ninmedia.tv/barayatv/rtmp.stream_360p/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.tikilive.com/public/files/shows/226/226513/48133-294x165-FFFFFF.jpg" group-title="Indonesia", Bayu TV
+http://wms.klikhost.com/bayutv/live/chunklist_w54273383.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/3/3f/CTV_Banten.png/200px-CTV_Banten.png" group-title="Indonesia", CTV Banten
 http://103.23.201.170:1935/live/livestream/playlist.m3u8
+
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Indonesian" tvg-logo="https://i.imgur.com/PJyf6oq.png" tvg-country="ID" tvg-url="" group-title="Indonesia", DMI Channel
 http://stream1.ninmedia.tv/dmitv/udp.stream_360p/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.indosiar.com/assets/logo.png" group-title="Indonesia",Indosiar
-https://liveanevia.mncnow.id/live/eds/Indosiar/sa_hls/Indosiar.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Indonesian" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/d/dd/RCTI_logo_2015.svg/800px-RCTI_logo_2015.svg.png" tvg-country="ID" tvg-url="" group-title="Indonesia",RCTI
-https://livetvhooq.akamaized.net/d182c52b34984076be9817e526e2bb5e/ap-southeast-1/5493668622001/profile_0/chunklist.m3u8?hdnts=st=1536005902~exp=9007200790746893~acl=/d182c52b34984076be9817e526e2bb5e/*/profile_0/chunklist.m3u8*~hmac=d3f38106d3b48f97b8cd3ff97e7e6d25a3f843a0875815c231a14b29bdd3ef34
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Indonesian" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/d/dd/RCTI_logo_2015.svg/800px-RCTI_logo_2015.svg.png" tvg-country="ID" tvg-url="" group-title="Indonesia",RCTI HD
-https://live.rctiplus.id/rctiplus/rcti_720p.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/2/20/TvOne_logo_2012.svg/800px-TvOne_logo_2012.svg.png" group-title="Indonesia",TVONE
-https://livetvhooq.akamaized.net:443/205606ce940f479dafb9ba6d71d61139/ap-southeast-1/5493668622001/profile_2/chunklist.m3u8?hdnts=st=1573597436~exp=9007200828338427~acl=/205606ce940f479dafb9ba6d71d61139/*/profile_2/chunklist.m3u8*~hmac=4ee84b00deb7c571a099059b60b98fea70033a603996d9091fe00244acd56f79
-
-#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_antv_big1.png" group-title="Indonesia", ANTV
-http://id2.indostreamingtv.com/live/antv/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Indonesian" tvg-logo="https://upload.wikimedia.org/wikipedia/id/e/e5/SCTV_Logo.png" tvg-country="ID" tvg-url="" group-title="Indonesia", SCTV
-http://id1.indostreamingtv.com/live/sctv/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Indonesian" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/69/MNCTV_logo.png" tvg-country="ID" tvg-url="" group-title="Indonesia",MNCTV 1
-https://livetvhooq.akamaized.net/3127bcd58c9149b298b664b1ec828285/ap-southeast-1/5493668622001/profile_0/chunklist.m3u8?hdnts=st=1536005897~exp=9007200790746888~acl=/3127bcd58c9149b298b664b1ec828285/*/profile_0/chunklist.m3u8*~hmac=99928fa4d986fe186b165d47ed653d126327c06e772b228dbf2b4387beda9502
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Indonesian" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/69/MNCTV_logo.png" tvg-country="ID" tvg-url="" group-title="Indonesia",MNCTV 2
-http://id6.indostreamingtv.com/live/mnctv/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/id/MNCNews.id.png" group-title="Indonesia",MNC News
-https://liveanevia.mncnow.id/live/eds/MNCNews/sa_hls/MNCNews.m3u8
-
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/id/MNCSports.id.png" group-title="Indonesia",MNC Sports
-https://liveanevia.mncnow.id/live/eds/MNCSports/sa_hls/MNCSports.m3u8
-
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/id/MNCShop.id.png" group-title="Indonesia",MNC Shop Trendy
-https://liveanevia.mncnow.id/live/eds/MNCShop/sa_hls/MNCShop.m3u8
-
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/id/MNCShop.id.png" group-title="Indonesia",MNC Shop Smart
-https://liveanevia.mncnow.id/live/eds/MNCShopSmart/sa_hls/MNCShopSmart.m3u8
-
-#EXTINF:-1 tvg-logo="https://mncchannels.com/timthumb.php?zc=3&w=378&h=129&src=/app/webroot/files/logo/1434682767_logo_COMEDY-CHANNEL.png" group-title="Indonesia",MNC Comedy
-https://liveanevia.mncnow.id/live/eds/ComedyChannel/sa_hls/ComedyChannel.m3u8
-
-#EXTINF:-1 tvg-logo="https://mncchannels.com/timthumb.php?zc=3&w=378&h=129&src=/app/webroot/files/logo/1434682537_logo_MOVIE-CHANNEL.png" group-title="Indonesia",MNC Movie
-https://liveanevia.mncnow.id/live/eds/MovieChannel/sa_hls/MovieChannel.m3u8
-
-#EXTINF:-1 tvg-logo="https://mncchannels.com/timthumb.php?zc=3&w=378&h=129&src=/app/webroot/files/logo/1442313368_logo_SOCCER-CHANNEL.png" group-title="Indonesia",MNC Soccer
-https://liveanevia.mncnow.id/live/eds/SoccerChannel/sa_hls/SoccerChannel.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Indonesian" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/6/62/Trans_TV_2013.svg/800px-Trans_TV_2013.svg.png" tvg-country="ID" tvg-url="" group-title="Indonesia", Trans TV
-https://video.detik.com/transtv/smil:transtv.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Indonesian" tvg-logo="https://i.imgur.com/cpSiuF1.png" tvg-country="ID" tvg-url="" group-title="Indonesia", Trans7
-https://video.detik.com/trans7/smil:trans7.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Indonesian" tvg-logo="https://i.imgur.com/6yIpjUJ.png" tvg-country="ID" tvg-url="" group-title="Indonesia", NET.
-http://id2.indostreamingtv.com/live/nettv/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Indonesian" tvg-logo="https://upload.wikimedia.org/wikipedia/id/3/37/Logo_Global_TV_2012.png" tvg-country="ID" tvg-url="" group-title="Indonesia", Global TV
-http://id6.indostreamingtv.com/live/tv1/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Indonesian" tvg-logo="https://upload.wikimedia.org/wikipedia/id/3/37/Logo_Global_TV_2012.png" tvg-country="ID" tvg-url="" group-title="Indonesia", Global TV HD
-https://livetvhooq.akamaized.net/23cf552372cb459795ca683f9cc306d8/ap-southeast-1/5493668622001/profile_1/chunklist.m3u8?hdnts=st=1536005897~exp=9007200790746888~acl=/23cf552372cb459795ca683f9cc306d8/*/profile_1/chunklist.m3u8*~hmac=41e55cd90f1806ca59b56a1c266cc150ab4d70047b87019fc7db29c07c678d42
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Indonesian" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/MTV_Logo_2010.svg/800px-MTV_Logo_2010.svg.png" tvg-country="ID" tvg-url="" group-title="Indonesia",MTV HD
-http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/master.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Indonesian" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/c/c1/LogoMetroTVsince2010.svg/800px-LogoMetroTVsince2010.svg.png" tvg-country="ID" tvg-url="" group-title="Indonesia",Metro TV
-http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/chunklist_w2006790992_b1492000_sleng.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Indonesian" tvg-logo="https://upload.wikimedia.org/wikipedia/id/b/b9/BaliTV_2014.png" tvg-country="ID" tvg-url="" group-title="Indonesia",Bali TV
-http://202.80.222.171/000001/2/ch00000090990000001729/index.m3u8?virtualDomain=000001.live_hls.zte.com
-
-#EXTINF:-1 tvg-language="Indonesian" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/6/62/MNC_HomeLiving.jpeg" tvg-country="ID" tvg-url="" group-title="Indonesia", Home & Living
-http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:homelivinghd/chunklist_b2288000.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.arematv.id/wp-content/uploads/2016/09/logo5.png" group-title="Indonesia",Arema TV
-http://wowza58.indostreamserver.com:1935/arematv/live/chunklist_w425722557.m3u8
-
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/DmaMDCBU8AAfd45.png" group-title="Indonesia",RRI Net
-http://36.89.47.217:11935/rrinet/live/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/3/3f/CTV_Banten.png/200px-CTV_Banten.png" group-title="Indonesia",CTV Banten
-http://103.23.201.170:1935/live/livestream/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/c/c1/Baraya_TV.png/revision/latest?cb=20180920095655" group-title="Indonesia",Baraya TV
-http://stream1.ninmedia.tv/barayatv/rtmp.stream_360p/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.tikilive.com/public/files/shows/226/226513/48133-294x165-FFFFFF.jpg" group-title="Indonesia",Bayu TV
-http://wms.klikhost.com/bayutv/live/chunklist_w54273383.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Indonesian" tvg-logo="https://i.imgur.com/4SW04fg.png" tvg-country="ID" tvg-url="" group-title="Indonesia",JAKTV
-http://202.80.222.169:80/000001/2/ch00000090990000001695/index.m3u8?virtualDomain=000001.live_hls.zte.com
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Indonesian" tvg-logo="https://i.postimg.cc/3r4RxmbC/inewstv.png" tvg-country="ID" tvg-url="" group-title="Indonesia",iNews TV
-http://202.80.222.171:80/000001/2/ch14041511541532132975/index.m3u8?virtualDomain=000001.live_hls.zte.com
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Indonesian" tvg-logo="https://i.postimg.cc/8z2Bwxzt/beritasatu.png" tvg-country="ID" tvg-url="" group-title="Indonesia",Berita Satu
-http://202.80.222.130/000001/2/ch00000090990000001683/index.m3u8?virtualDomain=000001.live_hls.zte.com
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Indonesian" tvg-logo="https://i.postimg.cc/nV9mS0NW/kompastv.png" tvg-country="ID" tvg-url="" group-title="Indonesia", Kompas TV
-http://202.80.222.130/000001/2/ch00000090990000001730/index.m3u8?virtualDomain=000001.live_hls.zte.com
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Indonesian" tvg-logo="https://i.postimg.cc/fb172pW8/rajawalitv.png" tvg-country="ID" tvg-url="" group-title="Indonesia", Rajawali TV
-http://202.80.222.130/000001/2/ch00000090990000001716/index.m3u8?virtualDomain=000001.live_hls.zte.com
-
-#EXTINF:-1 tvg-language="Indonesian" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/5a/Rajawali_Televisi.svg/375px-Rajawali_Televisi.svg.png" tvg-country="ID" group-title="Indonesia", RTV
-http://202.80.222.171:80/000001/2/ch00000090990000001716/1001.m3u8?virtualDomain=000001.live_hls.zte.com&IASHttpSessionId=OTT2198020181031055334464619
-
-#EXTINF:-1 tvg-language="Indonesian" tvg-logo="https://i.imgur.com/Gw8JvF4.png" tvg-country="ID" group-title="Indonesia", Saling Sapa TV
-http://stream1.ninmedia.tv/salingsapa/rtmp.stream_360p/playlist.m3u8
-
-#EXTINF:-1 tvg-language="Indonesian" tvg-logo="https://i.postimg.cc/PJn5RzwG/tvri.png" tvg-country="ID" tvg-url="" group-title="Indonesia", TVRI
-http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRINasional)/index.m3u8
-
-#EXTINF:-1 tvg-language="Indonesian" tvg-logo="https://i.postimg.cc/PJn5RzwG/tvri.png" tvg-country="ID" tvg-url="" group-title="Indonesia", TVRI Sport
-http://210.210.155.35/qwr9ew/s/s11/01.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Indonesian" tvg-logo="https://i.ibb.co/g7dkBVq/images.jpg" tvg-country="ID" tvg-url="" group-title="Indonesia", Ahsan TV
-http://119.82.224.75:1935/live/ahsantv/chunk.m3u8
-
-#EXTINF:-1  tvg-language="Indonesian" tvg-logo="https://i.postimg.cc/hGcg87rw/elshintatv.png" tvg-country="ID" group-title="Indonesia", Elshinta TV 
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/hGcg87rw/elshintatv.png" group-title="Indonesia", Elshinta TV 
 http://45.126.83.51/qwr9ew/s/s10/01.m3u8
 
-#EXTINF:-1 tvg-logo="http://aditv.co.id/wp-content/uploads/2019/02/logo-aditv-5.png" group-title="Indonesia",ADiTV
-http://aditv.onlivestreaming.net/aditv/livestream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/3/37/Logo_Global_TV_2012.png" group-title="Indonesia", Global TV
+http://id6.indostreamingtv.com/live/tv1/index.m3u8
 
-#EXTINF:-1 tvg-language="Indonesian" tvg-logo="https://i.imgur.com/CUgQtCo.jpg" tvg-country="ID" group-title="Indonesia",Karaoke Channel
-http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:karaokech/chunklist_b2288000.m3u8?fluxustv.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/3/37/Logo_Global_TV_2012.png" group-title="Indonesia", Global TV HD
+https://livetvhooq.akamaized.net/23cf552372cb459795ca683f9cc306d8/ap-southeast-1/5493668622001/profile_1/chunklist.m3u8?hdnts=st=1536005897~exp=9007200790746888~acl=/23cf552372cb459795ca683f9cc306d8/*/profile_1/chunklist.m3u8*~hmac=41e55cd90f1806ca59b56a1c266cc150ab4d70047b87019fc7db29c07c678d42
 
-#EXTINF:-1 tvg-language="Indonesian" tvg-logo="https://upload.wikimedia.org/wikipedia/id/8/8e/JTV_%282012%29.svg" group-title="Indonesia",JTV Surabaya
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/6/62/MNC_HomeLiving.jpeg" group-title="Indonesia", Home & Living
+http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:homelivinghd/chunklist_b2288000.m3u8
+
+#EXTINF:0 tvg-logo="http://images2.useetv.com/logo_indosiar_big1.png" group-title="Indonesia", Indosiar
+http://202.80.222.179/000001/2/ch15051810235326945512/index.m3u8?virtualDomain=000001.live_hls.zte.com
+
+#EXTINF:0 tvg-logo="http://images2.useetv.com/logo_indosiar_big1.png" group-title="Indonesia", Indosiar HD
+http://id2.indostreamingtv.com/live/tv111/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4SW04fg.png" group-title="Indonesia", JAKTV
+http://202.80.222.169:80/000001/2/ch00000090990000001695/index.m3u8?virtualDomain=000001.live_hls.zte.com
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/8/8e/JTV_%282012%29.svg" group-title="Indonesia", JTV Surabaya
 http://202.80.222.175/000001/2/ch00000090990000001731/index.m3u8?virtualDomain=000001.live_hls.zte.com
 
-#EXTINF:-1 tvg-language="Indonesian" tvg-logo="https://i.imgur.com/VwHUMHe.png" tvg-country="ID" group-title="Indonesia",Tahfizh TV
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/nV9mS0NW/kompastv.png" group-title="Indonesia", Kompas TV
+http://202.80.222.130/000001/2/ch00000090990000001730/index.m3u8?virtualDomain=000001.live_hls.zte.com
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/c/c1/LogoMetroTVsince2010.svg/800px-LogoMetroTVsince2010.svg.png"  group-title="Indonesia", Metro TV
+http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/chunklist_w2006790992_b1492000_sleng.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/69/MNCTV_logo.png" group-title="Indonesia", MNCTV 1
+https://livetvhooq.akamaized.net/3127bcd58c9149b298b664b1ec828285/ap-southeast-1/5493668622001/profile_0/chunklist.m3u8?hdnts=st=1536005897~exp=9007200790746888~acl=/3127bcd58c9149b298b664b1ec828285/*/profile_0/chunklist.m3u8*~hmac=99928fa4d986fe186b165d47ed653d126327c06e772b228dbf2b4387beda9502
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/69/MNCTV_logo.png" group-title="Indonesia", MNCTV 2
+http://id6.indostreamingtv.com/live/mnctv/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/id/MNCNews.id.png" group-title="Indonesia", MNC News
+https://liveanevia.mncnow.id/live/eds/MNCNews/sa_hls/MNCNews.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/id/MNCSports.id.png" group-title="Indonesia", MNC Sports
+https://liveanevia.mncnow.id/live/eds/MNCSports/sa_hls/MNCSports.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/id/MNCShop.id.png" group-title="Indonesia", MNC Shop Trendy
+https://liveanevia.mncnow.id/live/eds/MNCShop/sa_hls/MNCShop.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/id/MNCShop.id.png" group-title="Indonesia", MNC Shop Smart
+https://liveanevia.mncnow.id/live/eds/MNCShopSmart/sa_hls/MNCShopSmart.m3u8
+
+#EXTINF:-1 tvg-logo="https://mncchannels.com/timthumb.php?zc=3&w=378&h=129&src=/app/webroot/files/logo/1434682767_logo_COMEDY-CHANNEL.png" group-title="Indonesia", MNC Comedy
+https://liveanevia.mncnow.id/live/eds/ComedyChannel/sa_hls/ComedyChannel.m3u8
+
+#EXTINF:-1 tvg-logo="https://mncchannels.com/timthumb.php?zc=3&w=378&h=129&src=/app/webroot/files/logo/1434682537_logo_MOVIE-CHANNEL.png" group-title="Indonesia", MNC Movie
+https://liveanevia.mncnow.id/live/eds/MovieChannel/sa_hls/MovieChannel.m3u8
+
+#EXTINF:-1 tvg-logo="https://mncchannels.com/timthumb.php?zc=3&w=378&h=129&src=/app/webroot/files/logo/1442313368_logo_SOCCER-CHANNEL.png" group-title="Indonesia", MNC Soccer
+https://liveanevia.mncnow.id/live/eds/SoccerChannel/sa_hls/SoccerChannel.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/MTV_Logo_2010.svg/800px-MTV_Logo_2010.svg.png" group-title="Indonesia", MTV HD
+http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6yIpjUJ.png" group-title="Indonesia", NET.
+http://id2.indostreamingtv.com/live/nettv/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/fb172pW8/rajawalitv.png" group-title="Indonesia", Rajawali TV
+http://202.80.222.130/000001/2/ch00000090990000001716/index.m3u8?virtualDomain=000001.live_hls.zte.com
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/d/dd/RCTI_logo_2015.svg/800px-RCTI_logo_2015.svg.png"  group-title="Indonesia", RCTI
+https://livetvhooq.akamaized.net/d182c52b34984076be9817e526e2bb5e/ap-southeast-1/5493668622001/profile_0/chunklist.m3u8?hdnts=st=1536005902~exp=9007200790746893~acl=/d182c52b34984076be9817e526e2bb5e/*/profile_0/chunklist.m3u8*~hmac=d3f38106d3b48f97b8cd3ff97e7e6d25a3f843a0875815c231a14b29bdd3ef34
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/d/dd/RCTI_logo_2015.svg/800px-RCTI_logo_2015.svg.png" tvg-country="ID" tvg-url="" group-title="Indonesia", RCTI HD
+https://live.rctiplus.id/rctiplus/rcti_720p.m3u8
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/DmaMDCBU8AAfd45.png" group-title="Indonesia", RRI Net
+http://36.89.47.217:11935/rrinet/live/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/5a/Rajawali_Televisi.svg/375px-Rajawali_Televisi.svg.png" group-title="Indonesia", RTV
+http://202.80.222.171:80/000001/2/ch00000090990000001716/1001.m3u8?virtualDomain=000001.live_hls.zte.com&IASHttpSessionId=OTT2198020181031055334464619
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/e/e5/SCTV_Logo.png" group-title="Indonesia", SCTV
+http://id1.indostreamingtv.com/live/sctv/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VwHUMHe.png" group-title="Indonesia", Tahfizh TV
 http://119.235.249.58:1935/tahfidztv/live/playlist.m3u8
 
-#EXTINF:-1 tvg-language="Indonesian" tvg-logo="https://i.imgur.com/dqvXrhd.jpg" group-title="Indonesia", The Indonesia Channel
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dqvXrhd.jpg" group-title="Indonesia", The Indonesia Channel
 http://202.93.133.3:1935/svr2/tic.com.stream_720p/chunklist_w752720676.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cpSiuF1.png" group-title="Indonesia", Trans 7
+https://video.detik.com/trans7/smil:trans7.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/6/62/Trans_TV_2013.svg/800px-Trans_TV_2013.svg.png" group-title="Indonesia", Trans TV
+https://video.detik.com/transtv/smil:transtv.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/2/20/TvOne_logo_2012.svg/800px-TvOne_logo_2012.svg.png" group-title="Indonesia", TV One
+https://livetvhooq.akamaized.net:443/205606ce940f479dafb9ba6d71d61139/ap-southeast-1/5493668622001/profile_2/chunklist.m3u8?hdnts=st=1573597436~exp=9007200828338427~acl=/205606ce940f479dafb9ba6d71d61139/*/profile_2/chunklist.m3u8*~hmac=4ee84b00deb7c571a099059b60b98fea70033a603996d9091fe00244acd56f79
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/PJn5RzwG/tvri.png" group-title="Indonesia", TVRI
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRINasional)/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/PJn5RzwG/tvri.png" group-title="Indonesia", TVRI Sport
+http://210.210.155.35/qwr9ew/s/s11/01.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XUVOX9K.png" group-title="Indonesia", Zee Bioskop (Opt-1)
 http://210.210.155.35/qwr9ew/s/s32/01.m3u8?fluxustv.m3u8
@@ -156,150 +148,159 @@ http://210.210.155.35/session/031c454a-7d85-11e8-820c-c81f66f89318/qwr9ew/s/s32/
 
 ###NINMEDIA
 
-#EXTINF:-1 tvg-logo="https://ninmedia.tv/wp-content/uploads/2019/02/cropped-Ninmedia-Edit-183x42.png" group-title="NINMEDIA",KITANESIA
+#EXTINF:-1 tvg-logo="https://ninmedia.tv/wp-content/uploads/2019/02/cropped-Ninmedia-Edit-183x42.png" group-title="NINMEDIA", KITANESIA
 http://stream1.ninmedia.tv/kitanesia/udp.stream_360p/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://ninmedia.tv/wp-content/uploads/2019/02/cropped-Ninmedia-Edit-183x42.png" group-title="NINMEDIA",MALEO
+#EXTINF:-1 tvg-logo="https://ninmedia.tv/wp-content/uploads/2019/02/cropped-Ninmedia-Edit-183x42.png" group-title="NINMEDIA", MALEO
 http://stream1.ninmedia.tv/maleo/udp.stream_360p/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://ninmedia.tv/wp-content/uploads/2019/02/cropped-Ninmedia-Edit-183x42.png" group-title="NINMEDIA",INSPIRA TV
+#EXTINF:-1 tvg-logo="https://ninmedia.tv/wp-content/uploads/2019/02/cropped-Ninmedia-Edit-183x42.png" group-title="NINMEDIA", INSPIRA TV
 http://stream1.ninmedia.tv/inspiratv/udp.stream_360p/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://ninmedia.tv/wp-content/uploads/2019/02/cropped-Ninmedia-Edit-183x42.png" group-title="NINMEDIA",BMW TV
+#EXTINF:-1 tvg-logo="https://ninmedia.tv/wp-content/uploads/2019/02/cropped-Ninmedia-Edit-183x42.png" group-title="NINMEDIA", BMW TV
 http://stream1.ninmedia.tv/bmwtv/udp.stream_360p/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://ninmedia.tv/wp-content/uploads/2019/02/cropped-Ninmedia-Edit-183x42.png" group-title="NINMEDIA",TABALONG TV
+#EXTINF:-1 tvg-logo="https://ninmedia.tv/wp-content/uploads/2019/02/cropped-Ninmedia-Edit-183x42.png" group-title="NINMEDIA", TABALONG TV
 http://stream1.ninmedia.tv/tabalongtv/udp.stream_360p/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://ninmedia.tv/wp-content/uploads/2019/02/cropped-Ninmedia-Edit-183x42.png" group-title="NINMEDIA",AREK TV SURABAYA
+#EXTINF:-1 tvg-logo="https://ninmedia.tv/wp-content/uploads/2019/02/cropped-Ninmedia-Edit-183x42.png" group-title="NINMEDIA", AREK TV SURABAYA
 http://stream2.ninmedia.tv/arektv/arek_360p/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://ninmedia.tv/wp-content/uploads/2019/02/cropped-Ninmedia-Edit-183x42.png" group-title="NINMEDIA",RUMAH TV
+#EXTINF:-1 tvg-logo="https://ninmedia.tv/wp-content/uploads/2019/02/cropped-Ninmedia-Edit-183x42.png" group-title="NINMEDIA", RUMAH TV
 http://stream2.ninmedia.tv/rumahtv/rtmp.stream_360p/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://ninmedia.tv/wp-content/uploads/2019/02/cropped-Ninmedia-Edit-183x42.png" group-title="NINMEDIA",TV DESA
+#EXTINF:-1 tvg-logo="https://ninmedia.tv/wp-content/uploads/2019/02/cropped-Ninmedia-Edit-183x42.png" group-title="NINMEDIA", TV DESA
 http://stream1.ninmedia.tv/tvdesa/udp.stream_360p/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://ninmedia.tv/wp-content/uploads/2019/02/cropped-Ninmedia-Edit-183x42.png" group-title="NINMEDIA",RCTV
+#EXTINF:-1 tvg-logo="https://ninmedia.tv/wp-content/uploads/2019/02/cropped-Ninmedia-Edit-183x42.png" group-title="NINMEDIA", RCTV
 http://stream1.ninmedia.tv/rctv/rtmp.stream_360p/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://ninmedia.tv/wp-content/uploads/2019/02/cropped-Ninmedia-Edit-183x42.png" group-title="NINMEDIA",JAMBI TV
+#EXTINF:-1 tvg-logo="https://ninmedia.tv/wp-content/uploads/2019/02/cropped-Ninmedia-Edit-183x42.png" group-title="NINMEDIA", JAMBI TV
 http://stream1.ninmedia.tv/jambitv/rtmp.stream_360p/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://ninmedia.tv/wp-content/uploads/2019/02/cropped-Ninmedia-Edit-183x42.png" group-title="NINMEDIA",RADAR TV LAMPUNG
+#EXTINF:-1 tvg-logo="https://ninmedia.tv/wp-content/uploads/2019/02/cropped-Ninmedia-Edit-183x42.png" group-title="NINMEDIA", RADAR TV LAMPUNG
 http://stream1.ninmedia.tv/radartvlampung/udp.stream_360p/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://ninmedia.tv/wp-content/uploads/2019/02/cropped-Ninmedia-Edit-183x42.png" group-title="NINMEDIA",PAL TV
+#EXTINF:-1 tvg-logo="https://ninmedia.tv/wp-content/uploads/2019/02/cropped-Ninmedia-Edit-183x42.png" group-title="NINMEDIA", PAL TV
 http://stream1.ninmedia.tv/paltv/rtmp.stream_360p/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://ninmedia.tv/wp-content/uploads/2019/02/cropped-Ninmedia-Edit-183x42.png" group-title="NINMEDIA",OSHOP
+#EXTINF:-1 tvg-logo="https://ninmedia.tv/wp-content/uploads/2019/02/cropped-Ninmedia-Edit-183x42.png" group-title="NINMEDIA", OSHOP
 http://stream1.ninmedia.tv/oshop/udp.stream_360p/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://ninmedia.tv/wp-content/uploads/2019/02/cropped-Ninmedia-Edit-183x42.png" group-title="NINMEDIA",NABAWI TV
+#EXTINF:-1 tvg-logo="https://ninmedia.tv/wp-content/uploads/2019/02/cropped-Ninmedia-Edit-183x42.png" group-title="NINMEDIA", NABAWI TV
 http://stream2.ninmedia.tv/nabawitv/nabawitv_360p/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://ninmedia.tv/wp-content/uploads/2019/02/cropped-Ninmedia-Edit-183x42.png" group-title="NINMEDIA",BE TV
+#EXTINF:-1 tvg-logo="https://ninmedia.tv/wp-content/uploads/2019/02/cropped-Ninmedia-Edit-183x42.png" group-title="NINMEDIA", BE TV
 http://stream1.ninmedia.tv/betv/rtmp.stream_360p/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://ninmedia.tv/wp-content/uploads/2019/02/cropped-Ninmedia-Edit-183x42.png" group-title="NINMEDIA",RB TV
+#EXTINF:-1 tvg-logo="https://ninmedia.tv/wp-content/uploads/2019/02/cropped-Ninmedia-Edit-183x42.png" group-title="NINMEDIA", RB TV
 http://stream1.ninmedia.tv/rbtv/rtmp.stream_360p/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://ninmedia.tv/wp-content/uploads/2019/02/cropped-Ninmedia-Edit-183x42.png" group-title="NINMEDIA",DMI TV
+#EXTINF:-1 tvg-logo="https://ninmedia.tv/wp-content/uploads/2019/02/cropped-Ninmedia-Edit-183x42.png" group-title="NINMEDIA", DMI TV
 http://stream1.ninmedia.tv/dmitv/udp.stream_360p/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://ninmedia.tv/wp-content/uploads/2019/02/cropped-Ninmedia-Edit-183x42.png" group-title="NINMEDIA",SALINGSAPA
+#EXTINF:-1 tvg-logo="https://ninmedia.tv/wp-content/uploads/2019/02/cropped-Ninmedia-Edit-183x42.png" group-title="NINMEDIA", SALING SAPA TV
 http://stream1.ninmedia.tv/salingsapa/rtmp.stream_360p/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://ninmedia.tv/wp-content/uploads/2019/02/cropped-Ninmedia-Edit-183x42.png" group-title="NINMEDIA",NU CHANNEL
+#EXTINF:-1 tvg-logo="https://ninmedia.tv/wp-content/uploads/2019/02/cropped-Ninmedia-Edit-183x42.png" group-title="NINMEDIA", NU CHANNEL
 http://stream1.ninmedia.tv/nuchannel/udp.stream_360p/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://ninmedia.tv/wp-content/uploads/2019/02/cropped-Ninmedia-Edit-183x42.png" group-title="NINMEDIA",RRI NET
+#EXTINF:-1 tvg-logo="https://ninmedia.tv/wp-content/uploads/2019/02/cropped-Ninmedia-Edit-183x42.png" group-title="NINMEDIA", RRI NET
 http://stream1.ninmedia.tv/rrinet/udp.stream_360p/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://ninmedia.tv/wp-content/uploads/2019/02/cropped-Ninmedia-Edit-183x42.png" group-title="NINMEDIA",GPR TV
+#EXTINF:-1 tvg-logo="https://ninmedia.tv/wp-content/uploads/2019/02/cropped-Ninmedia-Edit-183x42.png" group-title="NINMEDIA", GPR TV
 http://stream1.ninmedia.tv/gprtv/udp.stream_360p/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://ninmedia.tv/wp-content/uploads/2019/02/cropped-Ninmedia-Edit-183x42.png" group-title="NINMEDIA",MI TV
+#EXTINF:-1 tvg-logo="https://ninmedia.tv/wp-content/uploads/2019/02/cropped-Ninmedia-Edit-183x42.png" group-title="NINMEDIA", MI TV
 http://stream2.ninmedia.tv/mitv/rtmp.stream_360p/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://ninmedia.tv/wp-content/uploads/2019/02/cropped-Ninmedia-Edit-183x42.png" group-title="NINMEDIA",TRIBRATA TV
+#EXTINF:-1 tvg-logo="https://ninmedia.tv/wp-content/uploads/2019/02/cropped-Ninmedia-Edit-183x42.png" group-title="NINMEDIA", TRIBRATA TV
 http://stream1.ninmedia.tv/tribratatv/udp.stream_360p/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://ninmedia.tv/wp-content/uploads/2019/02/cropped-Ninmedia-Edit-183x42.png" group-title="NINMEDIA",POP MUSIK
+#EXTINF:-1 tvg-logo="https://ninmedia.tv/wp-content/uploads/2019/02/cropped-Ninmedia-Edit-183x42.png" group-title="NINMEDIA", POP MUSIK
 http://stream1.ninmedia.tv/popmusik/udp.stream_360p/playlist.m3u8
 
 ###News
 
-#EXTINF:-1 tvg-logo="" group-title="News", 8NEWS
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/peppapedia/images/2/20/CHANNEL_8_news_%282013-present.png/revision/latest?cb=20180908104711" group-title="News", 8NEWS
 https://stream-02.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHVaykDJY_3KUuyNMkfDOocg)/dm/3/x6qud17/s/live-3.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="News", ALJAZEERA
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/4/43/AlJazeera.png" group-title="News", Al Jazeera
 http://aljazeera-eng-hd-live.hls.adaptive.level3.net/aljazeera/english2/index1296.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="News", ALJAZEERA ENG FHD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/4/43/AlJazeera.png" group-title="News", Al Jazeera ENG FHD
 http://45.126.83.51/qwr9ew/s/s17/index2.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/e/ed/Arirang.png" tvg-language="Indonesian" group-title="News", Arirang Shout Korea
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/e/ed/Arirang.png" group-title="News", Arirang Shout Korea
 http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="News", BBC NEWS
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f4/BBC_News_%282008%29.svg" group-title="News", BBC NEWS
 http://122.38.74.172:9981/stream/channelid/1321864709?ticket=62D2A323D4A2350E8BCEB3E893C43D728D2A7C1C&profile=pass
 
-#EXTINF:-1 tvg-logo="" group-title="News", BLOOMBERG 2
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/e/e7/BeritaSatu.png" group-title="News", Berita Satu
+http://202.80.222.130/000001/2/ch00000090990000001683/index.m3u8?virtualDomain=000001.live_hls.zte.com
+
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/id/e/e7/BeritaSatu.png" group-title="News", Berita Satu HD
+http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsnew/playlist.m3u8 
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/56/Bloomberg_logo.svg" group-title="News", BLOOMBERG 2
 https://liveproduseast.global.ssl.fastly.net/btv/desktop/us_live.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="News", BLOOMBERG ASIA
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/56/Bloomberg_logo.svg" group-title="News", BLOOMBERG ASIA
 http://45.126.83.51/uq2663/h/h03/index2.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="News", CCTV 4
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c0/CCTV.svg" group-title="News", CCTV 4
 http://45.126.83.51/qwr9ew/s/s19/01.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="News", CNN
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/83/CNA_new_logo.svg" group-title="News", Channel NewsAsia
+http://45.126.83.51/uq2663/h/h29/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/8/8b/Cnn.svg" group-title="News", CNN
 http://122.38.74.172:9981/stream/channelid/64128475?ticket=3F3E5280533C40F343D520ACA7D7C17ACA7C4544&profile=pass
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Indonesian" tvg-logo="https://i.postimg.cc/J4FL2h8M/cnnindonesia.png" tvg-country="ID" tvg-url="" group-title="News", CNN Indonesia
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/e/eb/CNN_Indonesia.svg" group-title="News", CNN Indonesia
 https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Indonesian" tvg-logo="https://upload.wikimedia.org/wikipedia/id/3/35/CNBC_Indonesia.png" tvg-country="ID" tvg-url="" group-title="News", CNBC Indonesia
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/3/35/CNBC_Indonesia.png"" group-title="News", CNBC Indonesia
 https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8e/DW_%28TV%29_Logo_2012.png" tvg-language="Indonesian" tvg-country="ID" group-title="News", DW TV Asia
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8e/DW_%28TV%29_Logo_2012.png" group-title="News", DW TV Asia
 https://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/index_1_av-p.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="News", EURONEWS TV
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/46/Euronews_2016_logo.svg" group-title="News", EURONEWS TV
 http://45.126.83.51/qwr9ew/s/s15/index2.m3u8
 
-#EXTINF:1 tvg-logo="" group-title="News", FRANCE24
+#EXTINF:1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/6/65/FRANCE_24_logo.svg" group-title="News", FRANCE24
 http://f24hls-i.akamaihd.net/hls/live/221193/F24_EN_LO_HLS/master_900.m3u8
 
-#EXTINF:-1 tvg-language="Indonesian" tvg-logo="https://i.imgur.com/vMpr2r6.jpg" tvg-country="ID" group-title="News", Jakarta Globe
-http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsenglish/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/d/d6/INews_TV.png" group-title="News", iNews TV
+http://202.80.222.171:80/000001/2/ch14041511541532132975/index.m3u8?virtualDomain=000001.live_hls.zte.com
 
-#EXTINF:-1 tvg-logo="" group-title="News", NEW ASIA CHANNEL
-http://45.126.83.51/uq2663/h/h29/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/1/15/Jakarta_Globe.png" group-title="News", Jakarta Globe
+http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsenglish/playlist.m3u8
 
 #EXTINF:1 tvg-logo="" group-title="News", PALESTINE TODAY
 http://live.paltoday.tv:1935/paltv/live/gmswf.m3u8
 
-#EXTINF:1 tvg-logo="" group-title="News", SKY NEWS
+#EXTINF:1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b4/Sky-news-logo.png" group-title="News", Sky News
 http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/04.m3u8
 
-#EXTINF:1 tvg-logo="" group-title="News", TRT WORLD
+#EXTINF:1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/TRT_World_logosu.png" group-title="News", Trt World
 http://trtcanlitv-lh.akamaihd.net/i/TRTWORLD_1@321783/master.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="News", TV3(HW+)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/f/f5/TV3_%28Malaysia%29.svg" group-title="News", TV3 (HW+)
 https://dl.dropbox.com/s/5e4k9czqgql8p25/TV3.m3u8?dl=0
 
-#EXTINF:-1 tvg-logo="" group-title="News", TV9(HW+)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/40/Tv9_Telugu.gif" group-title="News", TV9 (HW+)
 https://stream-01.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHULNAoYWDohb5iPuIeXIYtE)/dm/3/x6qqja6/s/live-3.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="News", TV 5 MONDE
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/TV5Monde_Logo.svg" group-title="News", TV 5 Monde
 http://45.126.83.51/qwr9ew/s/s24/index2.m3u8
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1784749061/01_metro_blackberry_01_copy.jpg" group-title="News", TVR Parlemen
 http://103.16.220.69:1935/golive/livestream/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="News", Weather Nation
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e2/WeatherNation_logo.png" group-title="News", Weather Nation TV
 http://cdnapi.kaltura.com/p/931702/sp/93170200/playManifest/entryId/1_oorxcge2/format/applehttp/protocol/http/uiConfId/28428751/a.m3
 
 ###Religi
@@ -1012,16 +1013,19 @@ http://slive.ytn.co.kr:1935/dmb/ydlive_20140419_1/playlist.m3u8
 
 ###Knowledge
 
-#EXTINF:-1 tvg-logo="" group-title="Knowledge", Animal Planet
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/20/2018_Animal_Planet_logo.svg" group-title="Knowledge", Animal Planet
 http://203.153.218.28:9981/stream/channelid/1943600623?ticket=694FA36A0D756D8572C705243A10521FAF796351&profile=pass
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2019_Discovery_logo.svg/800px-2019_Discovery_logo.svg.png" group-title="Knowledge", Discovery Channel      
-http://edge.linknetott.swiftserve.com/channelgroup1/cg013production/ch29/02.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1b/Blue_Ocean_Network_logo.png" group-title="Knowledge", Blue Ocean Network TV
+http://188.35.9.5:10007/stolen/122v/parasite.install
 
-#EXTINF:-1,tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2019_Discovery_logo.svg/800px-2019_Discovery_logo.svg.png" group-title="Knowledge", Discovery Channel (Backup)
+#EXTINF:-1,tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2019_Discovery_logo.svg/800px-2019_Discovery_logo.svg.png" group-title="Knowledge", Discovery Channel 
 http://203.153.218.28:9981/stream/channelid/1151931232?ticket=D05F5F5AB713CBADFBFABB642E4F37D5004BB751&profile=pass
 
-#EXTINF:-1 tvg-logo="" group-title="Knowledge", Docubox
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2019_Discovery_logo.svg/800px-2019_Discovery_logo.svg.png" group-title="Knowledge", Discovery Channel (Backup)
+http://edge.linknetott.swiftserve.com/channelgroup1/cg013production/ch29/02.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/DocuBox_HD_logo.png" group-title="Knowledge", Docubox
 http://livecdnh3.tvanywhere.ae/hls/docubox/05.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/2da7b7_f4d86a831d784aecb4983d1e62c22a66~mv2.gif" group-title="Knowledge", Fish Channel
@@ -1033,16 +1037,16 @@ http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:foodiee/chunklist_b2288
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/0/07/History_channel_us.png" tvg-language="Indonesian"  group-title="Knowledge", History Channel
 http://203.153.218.28:9981/stream/channelid/1868154562?ticket=21CAD98B63EE6B1D16AFD5B33F7C68F48FA445CD&profile=pass
 
-#EXTINF:-1 logo="" group-title="Knowledge", History Channel 2
+#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/en/b/b3/History2_Canada.png" group-title="Knowledge", History Channel 2
 http://livecdnh1.tvanywhere.ae/hls/h2/05.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Knowledge", National Geographic
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fc/Natgeologo.svg" group-title="Knowledge", National Geographic
 http://livecdnh1.tvanywhere.ae/hls/nat_geo/05.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Knowledge", National Geographic (Backup)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fc/Natgeologo.svg" group-title="Knowledge", National Geographic (Backup)
 http://livecdnh1.tvanywhere.ae/hls/nat_geo/05.m3u8?IWAK-PEYEK.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Knowledge", National Geographic People
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9f/New_NatGeo_People_logo.svg" group-title="Knowledge", National Geographic People
 http://livecdnh1.tvanywhere.ae/hls/nat_geo_people/05.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/f/f6/NatGeo_Wild.png" group-title="Knowledge", National Geographic Wild
@@ -1054,25 +1058,25 @@ http://iphone-streaming.ustream.tv/uhls/6540154/streams/live/iphone/playlist.m3u
 #EXTINF:-1 tvg-logo="https://i.imgur.com/VX4uHSO.png" group-title="Knowledge", NASA TV Media
 http://iphone-streaming.ustream.tv/uhls/10414700/streams/live/iphone/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Knowledge", NHK WORLD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7b/NHK_World.svg" group-title="Knowledge", Nhk World Japan TV 
 http://45.126.83.51/uq2663/h/h23/index.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Knowledge", OCEAN TV
-http://188.35.9.5:10007/stolen/122v/parasite.install
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcR_NQzkcFezQ43TjlpI-V91ywrmRV_-5oq7CZRwYzxukHSyRTES" group-title="Knowledge", Outdoor Channel
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/eb/Outdoor_Channel_2017.png" group-title="Knowledge", Outdoor Channel
 https://stitcher.pluto.tv/stitch/hls/channel/5c393cad2de254456f7ef8c2/master.m3u8?deviceType=&deviceMake=&deviceVersion=&deviceId=&appVersion=&deviceDNT=0&deviceModel=&embedPartner=pluto.tv&sid=b37cef12f9heq1mq8ah9ia4h70
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcR_NQzkcFezQ43TjlpI-V91ywrmRV_-5oq7CZRwYzxukHSyRTES" group-title="Knowledge", Outdoor Channel (Backup)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/eb/Outdoor_Channel_2017.png" group-title="Knowledge", Outdoor Channel (Backup)
 https://livetvhooq.akamaized.net/4333904e5f68426cae808a645e882206/eu-central-1/5493668622001/profile_2/chunklist.m3u8?hdnts=st=1576672231~exp=9007200831413222~acl=/4333904e5f68426cae808a645e882206/*/profile_2/chunklist.m3u8*~hmac=d22ed12147e6fe5936f8198fcf71838cb4651880f2ac0f4fdea39fb2b8a054b7
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_ruangtrampil_small.png?v=2.0.1.16" group-title="Knowledge", Ruang Terampil
 https://livetvhooq.akamaized.net/b1b6d552c80f4ef78bd4c10bfb32268d/eu-central-1/5493668622001/profile_2/chunklist.m3u8?hdnts=st=1574876064~exp=9007200829617055~acl=/b1b6d552c80f4ef78bd4c10bfb32268d/*/profile_2/chunklist.m3u8*~hmac=43e732720209b4ede047d32a879e517cc1f2b74fc30d7793054e461b394dfe57
 
-#EXTINF:-1 group-title="Knowledge", TechStorm
-https://cdn-accedo-01.akamaized.net:443/Content/DASH/Live/channel(f4802587-5d0c-4181-a873-bf9de86cecf6)/manifest.mpd
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e2/TS-Logo.png" group-title="Knowledge", TechStorm TV
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000161/1024.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Knowledge", TLC
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e2/TS-Logo.png" group-title="Knowledge", TechStorm TV (Backup)
+http://premium-iptv.link:7899/abcd1234/abcd1234/49983
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/74/TLC_Logo.svg" group-title="Knowledge", TLC
 http://203.153.218.28:9981/stream/channelid/391618553?ticket=08323DCACE84958A87EA829F012E919CA861DF74&profile=pass
 
 ###Sport
