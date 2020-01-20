@@ -79,7 +79,7 @@ http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/chunklist_w2006790992
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Indonesian" tvg-logo="https://upload.wikimedia.org/wikipedia/id/b/b9/BaliTV_2014.png" tvg-country="ID" tvg-url="" group-title="Indonesia",Bali TV
 http://202.80.222.171/000001/2/ch00000090990000001729/index.m3u8?virtualDomain=000001.live_hls.zte.com
 
-#EXTINF:-1 tvg-language="Indonesian" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/6/62/MNC_HomeLiving.jpeg" tvg-country="ID" tvg-url="" group-title="Entertainment",Home & Living
+#EXTINF:-1 tvg-language="Indonesian" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/6/62/MNC_HomeLiving.jpeg" tvg-country="ID" tvg-url="" group-title="Indonesia", Home & Living
 http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:homelivinghd/chunklist_b2288000.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.arematv.id/wp-content/uploads/2016/09/logo5.png" group-title="Indonesia",Arema TV
@@ -923,10 +923,10 @@ http://zaman-now.com/﻿zxtvxz﻿/Awesome
 #EXTINF:-1 tvg-logo="" group-title="Entertainment", Asian Food Channel
 http://203.153.218.28:9981/stream/channelid/1092664456?ticket=E20984982529618B739BCAB7412D568D65147A93&profile=pass
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/chLWFqA.png" group-title="Entertainment",Blue Ant Extreme 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/chLWFqA.png" group-title="Entertainment", Blue Ant Extreme 
 http://210.210.155.35:80/session/7dade102-65b9-11e9-a2e4-c81f66f89318/dr9445/h/h15/02.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/chLWFqA.png" group-title="Entertainment",Blue Ant Extreme (Backup)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/chLWFqA.png" group-title="Entertainment", Blue Ant Extreme (Backup)
 http://45.126.83.51/dr9445/h/h15/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d3/Blue_ant_extreme_logo.png" group-title="Entertainment" tvg-language="Indonesian", Blue Ant Extreme
@@ -935,7 +935,7 @@ http://203.153.218.28:9981/stream/channelid/1299824667?ticket=EDA811CE90A26AD414
 #EXTINF:-1 tvg-logo="" group-title="Entertainment", CHOSUN TV
 http://122.38.74.172:9981/stream/channelid/227207716?ticket=95DE6E90A05C751A298DFE5E72E74385C83F61E8&profile=pass
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/AP5JfCM.png" group-title="Entertainment",D ONE
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AP5JfCM.png" group-title="Entertainment", D ONE
 http://122.38.74.172:9981/stream/channelid/402678709?ticket=AE885FAFBF450E2E4C7545F751850266F0B47879&profile=pass
 
 #EXTINF:-1 tvg-logo="" group-title="Entertainment", DA VINCI
