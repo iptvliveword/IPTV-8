@@ -127,7 +127,7 @@ http://210.210.155.35/qwr9ew/s/s11/01.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Indonesian" tvg-logo="https://i.ibb.co/g7dkBVq/images.jpg" tvg-country="ID" tvg-url="" group-title="Indonesia", Ahsan TV
 http://119.82.224.75:1935/live/ahsantv/chunk.m3u8
 
-#EXTINF:-1  tvg-language="Indonesian" tvg-logo="https://i.postimg.cc/hGcg87rw/elshintatv.png" tvg-country="ID"
+#EXTINF:-1  tvg-language="Indonesian" tvg-logo="https://i.postimg.cc/hGcg87rw/elshintatv.png" tvg-country="ID" group-title="Indonesia", Elshinta TV 
 http://45.126.83.51/qwr9ew/s/s10/01.m3u8
 
 #EXTINF:-1 tvg-logo="http://aditv.co.id/wp-content/uploads/2019/02/logo-aditv-5.png" group-title="Indonesia",ADiTV
@@ -325,7 +325,7 @@ http://202.80.222.130/000001/2/ch00000090990000001706/index.m3u8?virtualDomain=0
 #EXTINF:-1 tvg-logo="https://dhammaweb.tv/wp-content/uploads/2018/08/cropped-dhammatv-3.png" group-title="Religi", Dhamma
 https://media.maxindo.net.id/dhamma/dhamma.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Religi, DMI TV
+#EXTINF:-1 tvg-logo="" group-title="Religi", DMI TV
 http://stream1.ninmedia.tv/dmitv/udp.stream_360p/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Religi", INSAN TV
