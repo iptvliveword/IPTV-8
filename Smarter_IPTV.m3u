@@ -148,16 +148,16 @@ http://202.80.222.175/000001/2/ch00000090990000001731/index.m3u8?virtualDomain=0
 #EXTINF:-1 tvg-language="Indonesian" tvg-logo="https://i.imgur.com/VwHUMHe.png" tvg-country="ID" group-title="Indonesia",Tahfizh TV
 http://119.235.249.58:1935/tahfidztv/live/playlist.m3u8
 
-#EXTINF:-1 tvg-language="Indonesian" tvg-logo="https://i.imgur.com/dqvXrhd.jpg" group-title="Indonesia",The Indonesia Channel
+#EXTINF:-1 tvg-language="Indonesian" tvg-logo="https://i.imgur.com/dqvXrhd.jpg" group-title="Indonesia", The Indonesia Channel
 http://202.93.133.3:1935/svr2/tic.com.stream_720p/chunklist_w752720676.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/XUVOX9K.png" group-title="Indonesia,Zee Bioskop (Opt-1)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XUVOX9K.png" group-title="Indonesia", Zee Bioskop (Opt-1)
 http://210.210.155.35/qwr9ew/s/s32/01.m3u8?fluxustv.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/XUVOX9K.png" group-title="Indonesia,Zee Bioskop (Opt-2)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XUVOX9K.png" group-title="Indonesia", Zee Bioskop (Opt-2)
 http://45.126.83.51/qwr9ew/s/s32/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/XUVOX9K.png" group-title="Indonesia,Zee Bioskop (Opt-3)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XUVOX9K.png" group-title="Indonesia", Zee Bioskop (Opt-3)
 http://210.210.155.35/session/031c454a-7d85-11e8-820c-c81f66f89318/qwr9ew/s/s32/index1.m3u8
 
 ###NINMEDIA
@@ -405,7 +405,7 @@ http://210.210.155.35/qwr9ew/s/s50/index2.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/NqhClyl.png" group-title="KIDS", Animax
 http://210.210.155.35/session/83bc2526-da69-11e8-881b-c81f66f89318/dr9445/h/h144/index2.m3u8
 
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/884675389859090432/ZZ_PwKWt_400x400.jpg" group-title="KIDS",Aniplus
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/884675389859090432/ZZ_PwKWt_400x400.jpg" group-title="KIDS", Aniplus
 https://cdn-accedo-01.akamaized.net:443/Content/DASH/Live/channel(386e35b2-14f8-4368-92d7-010d78deaf75)/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/y1LQk44.png" group-title="KIDS", Aniplus (HD)
@@ -423,7 +423,7 @@ http://livecdnh3.tvanywhere.ae/hls/boomerang/index.m3u8?fluxustv.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/800px-Cartoon_Network_2010_logo.svg.png" tvg-country="ID" tvg-id="9836fd0e31a19540234d0fe226ec84af" tvg-language="Indonesian" group-title="KIDS", Cartoon Network
 http://203.153.218.28:9981/stream/channelid/251475608?ticket=5B6244F9555D96BA8A9DF1BBBA2BA2F8BDB05A86&profile=pass
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/800px-Cartoon_Network_2010_logo.svg.png" tvg-id="9836fd0e31a19540234d0fe226ec84af" group-title="KIDS",Cartoon Network (Backup)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/800px-Cartoon_Network_2010_logo.svg.png" tvg-id="9836fd0e31a19540234d0fe226ec84af" group-title="KIDS", Cartoon Network (Backup)
 http://203.153.218.28:9981/stream/channelid/251475608?ticket=3CBFB27E68B1DFEAB62E7781784EE2C7BFA92754&profile=pass
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/800px-Cartoon_Network_2010_logo.svg.png" group-title="KIDS", Cartoon Network HD
@@ -447,7 +447,7 @@ http://ebsonair.ebs.co.kr:1935/ebsutablet500k/tablet500k/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="KIDS", GONGMAX_TV
 http://51.254.215.79/appflux/gongmax/GONGMAX/gongmax_1280/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/FcqwsaK.png" group-title="KIDS",JimJam
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FcqwsaK.png" group-title="KIDS", JimJam
 http://83.167.253.110:5000/live/jimjam/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/mD4VqZT/download.jpg" group-title="KIDS", Miao Mi
@@ -471,7 +471,7 @@ http://95.170.215.118/hls/m3u8/Nickelodeon-JR.m3u8|User-Agent=Lavf/56.15.102
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Nickelodeon_2009_logo.svg/800px-Nickelodeon_2009_logo.svg.png" group-title="KIDS", Nickelodeon Junior ID
 http://203.153.218.28:9981/stream/channelid/648970596?ticket=72A19F89119921817ADF08AEBFF2D7E0009D1A20&profile=pass
 
-#EXTINF:-1 tvg-logo="" group-title="KIDS",RAI GLUP
+#EXTINF:-1 tvg-logo="" group-title="KIDS", Rai Glup
 http://b2everyrai-lh.akamaihd.net/i/raigulp_1@66350/master.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="KIDS", Rai Yoyo
@@ -533,7 +533,7 @@ http://45.126.83.51/qwr9ew/s/s33/index2.m3u8
 #EXTINF:-1 tvg-language="Indonesian" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/a/af/CMC_English_full_color_black_text_2.jpg/800px-CMC_English_full_color_black_text_2.jpg" group-title="Movie", Celestial Movie HD
 http://210.210.155.35/session/31580704-c313-11e8-86db-c81f66f89318/qwr9ew/s/s33/01.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/de/Cineworld.svg/800px-Cineworld.svg.png" group-title="Movie",Cinema World SD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/de/Cineworld.svg/800px-Cineworld.svg.png" group-title="Movie", Cinema World SD
 http://210.210.155.35/session/56af31fa-28a6-11e9-a164-b9debc2bdb03/uq2663/h/h04/01.m3u8
 
 #EXTINF: -1 tvg-logo="https://static.iptv-epg.com/rs/CineStarFantasy.rs.png" group-title="Movie", CINESTAR FANTASY
@@ -542,7 +542,7 @@ http://cableserver1.cableguy.pro:82/live?cId=430&uId=2255&deviceUser=roggiemkd&d
 #EXTINF: -1 tvg-logo="https://static.iptv-epg.com/rs/CineStarTV.rs.png" group-title="Movie", CINESTAR TV
 http://cableserver1.cableguy.pro:82/live?cId=428&uId=2255&deviceUser=roggiemkd&devicePass=k5rM0tOjM5Lh9B3s
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/de/Cineworld.svg/800px-Cineworld.svg.png" tvg-language="Indonesian"  tvg-country="ID" tvg-url="" group-title="Movie", Cinema World (Backup)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/de/Cineworld.svg/800px-Cineworld.svg.png" tvg-language="Indonesian"  tvg-country="ID" tvg-url="" group-title="Movie", Cinemax
 http://203.153.218.28:9981/stream/channelid/255605374?ticket=8419D5E6A24EE915F246B23011407540BE9B0E50&profile=pass
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/de/Cineworld.svg/800px-Cineworld.svg.png" group-title="Movie", Cinema World HD
@@ -1091,20 +1091,32 @@ http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass5
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT", Armenia TV (AM)
 http://ott-cdn.ucom.am/s4/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_bein1_small1.png?v=2.0.0.13" group-title="SPORT",BEIN SPORTS 1 ID HD
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_bein1_small1.png?v=2.0.0.13" group-title="SPORT", BEIN SPORTS 1 ID HD
 https://www.livedoomovie.com/02_epl1_720p/chunklist.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_bein2_small1.png?v=2.0.0.13" group-title="SPORT",BEIN SPORTS 2 ID HD
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_bein2_small1.png?v=2.0.0.13" group-title="SPORT", BEIN SPORTS 2 ID HD
 http://www.livedoomovie.com/02_epl2_720p/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/08/ar-bein3.jpg" group-title="SPORT", BEIN SPORTS 3 ID
+https://www.livedoomovie.com/02_epl3_720p/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/08/ar-bein4.jpg" group-title="SPORT", BEIN SPORTS 4 ID
+https://www.livedoomovie.com/02_epl4_720p/chunklist.m3u8
 
 #EXTINF: -1 tvg-logo="" group-title="SPORT", Boxing
 https://edge5.xmediaget.com/hls-live/xmlive/_definst_/2806283/2806283.m3u8?refId=1
 
-#EXTINF:-1 tvg-logo="" group-title="SPORT" ,BTSPORT 1
+#EXTINF:-1 tvg-logo="" group-title="SPORT" , BTSPORT 1
 http://sportbox.ws/lba/MjAwZDUyYmYwMzhiZjZjZTFiYWM4NzM3YzE2ZTQ5YzM=/g2/btuk1.m3u8?token=MjAwZDUyYmYwMzhiZjZjZTFiYWM4NzM3YzE2ZTQ5YzM=&id=ZmE2YzhhZjk3NmZlYjc5NTRhYmY4YTczYWRiMDBkNWE=&vip=1574769335&dip=MDc3Y2U2YWEyMjIyM2QyZGYwYTQ5MmJmYzM2NzFhYjY=&pip=49.49.208.63&hip=YzA4MzhhMjhkYjE3YWFkMGE4YWExMWM4NzU4ZDQ4ZTc=
  
 #EXTINF:-1 tvg-logo="" group-title="SPORT", BTSPORT 3
 http://goool7.ws/lba/ZDRmM2IxODI1N2ViMmVkOWY2OGI3ZTgyNTA5MGQxZGE=/g2/3btsporteu.m3u8?token=ZDRmM2IxODI1N2ViMmVkOWY2OGI3ZTgyNTA5MGQxZGE=&id=ZmU4NTk2ODQzYzU3NDMzMjIyOTQ4NmQyNjRhZmUzZmY=&vip=1574769513&dip=YzU0YTJkY2ZlZGI2NjI5MGI5ODc1YmExMjBmNGU1ZmU=&pip=49.49.208.63&hip=YzA4MzhhMjhkYjE3YWFkMGE4YWExMWM4NzU4ZDQ4ZTc=
+
+#EXTINF:-1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/uk-btsport1.jpg" group-title="SPORT", BT Sport 1 HD
+https://www.livedoomovie.com/02_BTSPORTHD_1_720p/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/uk-btsport2.jpg" group-title="SPORT", BT Sport 2 HD
+https://www.livedoomovie.com/02_BTSPORTHD_2_720p/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT", BT SPORT 1 (Extra Server)
 http://95.170.215.120/hls/m3u8/BT-Sport-1HD.m3u8
@@ -1120,6 +1132,24 @@ http://huaweicdn.hb.chinamobile.com/PLTV/2510088/224/3221225906/3.m3u8
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT", DD sportS
 http://103.199.161.254/Content/ddsports/Live/Channel(DDSPORTS)/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="SPORT", Discovery Sport HD (EN)
+http://jiocgehub.jio.ril.com/Dsports_HD/Dsports_HD.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="SPORT", Dubai Racing 1 HD (ARABIC & EN)
+http://dmisvthvll.cdn.mangomolo.com/events/smil:events.smil/chunklist_b1600000.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="SPORT", Dubai Racing 2 HD (ARABIC & EN)
+http://dmithrvll.cdn.mangomolo.com/dubairacing/smil:dubairacing.smil/chunklist_b1600000.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="SPORT", Dubai Sports 1 HD (ARABIC & EN)
+http://dmiftvll.mangomolo.com/dubaisports/smil%3Adubaisports.smil/chunklist_b1750000.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="SPORT", Dubai Sports 2 HD (ARABIC & EN)
+http://dmiftvll.mangomolo.com/dubaisportshd/smil%3Adubaisportshd.smil/chunklist_b2000000.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="SPORT", Dubai Sports 3 HD (ARABIC & EN )
+http://dmiftvll.mangomolo.com/dubaisportshd5/smil%3Adubaisportshd5.smil/chunklist_b2000000.m3u8
 
 #EXTINF:-1 tvg-id="941e4fc50bcb1065bcc9d1affe5c1ec6" group-title="SPORT", CT sport HD
 http://185.150.27.124:9981/stream/channelid/1162813076?profile=pass
@@ -1139,22 +1169,28 @@ http://plexonline.club:25461/live/thecrow1098/sinxxx/30.ts
 #EXTINF: -1 tvg-logo="" group-title="SPORT", Fight Time
 http://plexonline.club:25461/live/thecrow1098/sinxxx/4.ts
 
-#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/5/5c/Golf_Channel.png/revision/latest?cb=20100323073508" group-title="SPORT", GOLF HD
+#EXTINF:-1 tvg-logo="https://edge.thailandworldmasters.com/wp-content/uploads/2013/04/Golf-Channel-Thailand-HD-1.png" group-title="SPORT", Golf Channel HD
 https://www.livedoomovie.com/02_golfhd_720p/chunklist.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_foxsports1_small.png?v=2.0.0.13" group-title="SPORT",FOX SPORTS 1 HD
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_foxsports1_small.png?v=2.0.0.13" group-title="SPORT", Fox Sport 1 HD
 https://www.livedoomovie.com/02_foxsport_720p/chunklist.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_foxsports2_small.png?v=2.0.0.13" group-title="SPORT",FOX SPORTS 2 HD
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_foxsports2_small.png?v=2.0.0.13" group-title="SPORT", Fox Sport 2 HD
 https://www.livedoomovie.com/02_FoxSport2_TH_720p/chunklist.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_foxsports3_small.png?v=2.0.0.13" group-title="SPORT",FOX SPORTS 3 HD
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_foxsports3_small.png?v=2.0.0.13" group-title="SPORT", Fox Sport 3 HD
 https://www.livedoomovie.com/02_FoxSport3_TH_720p/chunklist.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT",Impact Wrestling HD USA
+#EXTINF: -1 tvg-logo = "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcT9S8F3AzeqzCIMmlHn4AZMlOd06zYnRAublIaPitDOAoaUHafi" group-title = "SPORT", Fox Sports
+http://198.255.23.18:2095/streams/56_.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT", Impact Wrestling HD USA
 http://stitcher.pluto.tv/stitch/hls/channel/59b722526996084038c01e1b/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=7&deviceId=-&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
 
-#EXTINF:-1 tvg-logo="https://seeklogo.com/images/N/nba-tv-2017-logo-A32DC8E024-seeklogo.com.png" group-title="SPORT",NBA HD
+#EXTINF:-1 tvg-logo="" group-title="SPORT", Lazio Channel (IT)
+https://1.ip2stream.icu/live/lazio_channel/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/N/nba-tv-2017-logo-A32DC8E024-seeklogo.com.png" group-title="SPORT", NBA HD
 https://www.livedoomovie.com/02_nbahd_720p/chunklist.m3u8
 
 #EXTINF: -1 tvg-logo="" group-title="SPORT", NBA LEAGUE
@@ -1166,17 +1202,35 @@ http://plexonline.club:25461/live/thecrow1098/sinxxx/1504.ts
 #EXTINF: -1 tvg-logo="" group-title="SPORT", NBA LEAGUE 2
 http://plexonline.club:25461/live/thecrow1098/sinxxx/1505.ts
 
-#EXTINF:-1 tvg-id="1baa6ca877e6e775128931191366fc9f" group-title="SPORT",Nova Sport 1 HD
+#EXTINF:-1 tvg-id="1baa6ca877e6e775128931191366fc9f" group-title="SPORT", Nova Sport 1 HD
 http://185.150.27.124:9981/stream/channelid/678210075?profile=pass
 
-#EXTINF:-1 tvg-id="73b8c3673e6516e051ffc057c36f9271" group-title="SPORT",Nova Sport 2 HD
+#EXTINF:-1 tvg-id="73b8c3673e6516e051ffc057c36f9271" group-title="SPORT", Nova Sport 2 HD
 http://185.150.27.124:9981/stream/channelid/1740879987?profile=pass
 
-#EXTINF:-1 tvg-logo="https://www.realmadrid.com/StaticFiles/RealMadridResponsive/images/static/realmadridtv.jpg" group-title="SPORT",REAL MADRID TV
+#EXTINF:-1 tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/07/true-epl-1.jpg" group-title="SPORT", Premier Football HD 1
+https://www.livedoomovie.com/02_PremierHD1_720p/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/07/true-epl-2.jpg" group-title="SPORT", Premier Football HD 2
+https://www.livedoomovie.com/02_PremierHD2_720p/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/07/true-epl-3.jpg" group-title="SPORT", Premier Football HD 3
+https://www.livedoomovie.com/02_PremierHD3_720p/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/07/true-epl-4.jpg" group-title="SPORT", Premier Football HD 4
+https://www.livedoomovie.com/02_PremierHD4_720p/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/07/true-epl-5.jpg" group-title="SPORT", Premier Football HD 5
+https://www.livedoomovie.com/02_PremierHD4_720p/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.realmadrid.com/StaticFiles/RealMadridResponsive/images/static/realmadridtv.jpg" group-title="SPORT", Real Madrid TV
 https://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hweben_1@300662/index_3_av-b.m3u8?sd=10&rebase=on
 
-#EXTINF:-1 tvg-logo="https://seeklogo.com/images/R/red-bull-tv-logo-837623FB07-seeklogo.com.png" group-title="SPORT",REDBULL TV
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/R/red-bull-tv-logo-837623FB07-seeklogo.com.png" group-title="SPORT", RedBull TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.edailysports.com/wp-content/uploads/2019/06/rugby-world-cup-japan-2019.jpg" group-title="SPORT", Rugby World Cup 2019
+https://www.livedoomovie.com/RugbyWorldCup/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT", RTSH Sport
 http://79.106.48.2/live/rtsh_sport_ott_p3/playlist.m3u8
@@ -1190,26 +1244,44 @@ http://92.43.140.204:80/s81/index.m3u8
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT", Setanta Sports 2
 http://92.43.140.200/s82/04.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.sine.tv/images/icon/SkyNetSports1.png" group-title="SPORT TV", SKYNET SPORT HD
+#EXTINF:-1 tvg-logo="http://www.sine.tv/images/icon/SkyNetSports1.png" group-title="SPORT", SkyNet Sport HD
 http://www.livedoomovie.com/03_skynetsporthd_720p/chunklist.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.sine.tv/images/icon/SkyNetSports1.png" group-title="SPORT", SKYNET SPORT 1
+#EXTINF:-1 tvg-logo="http://www.sine.tv/images/icon/SkyNetSports1.png" group-title="SPORT", SkyNet Sport 1
 https://www.livedoomovie.com/03_skynetsport1_480p/chunklist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/af/87/ec/af87ec79eb5ff750d3e207c728cdd23e.png" group-title="SPORT",SKYNET SPORT 2
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/af/87/ec/af87ec79eb5ff750d3e207c728cdd23e.png" group-title="SPORT", SkyNet Sport 2
 https://www.livedoomovie.com/03_skynetsport2_480p/chunklist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/60/d6/d0/60d6d0094336d45d0396350f2648559a.png" group-title="SPORT",SKYNET SPORT 3
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/60/d6/d0/60d6d0094336d45d0396350f2648559a.png" group-title="SPORT", SkyNet Sport 3
 https://www.livedoomovie.com/03_skynetsport3_480p/chunklist.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.we-play.tv/wp-content/uploads/2018/11/skynetsport5.jpg" group-title="SPORT",SKYNET SPORT 5
+#EXTINF:-1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/sd-skynetsports4.png" group-title="SPORT", SkyNet Sport 4
+https://www.livedoomovie.com/03_skynetsport4_480p/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.we-play.tv/wp-content/uploads/2018/11/skynetsport5.jpg" group-title="SPORT", SkyNet Sport 5
 https://www.livedoomovie.com/03_skynetsport5_480p/chunklist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/5d/ac/89/5dac89cb6be153d89c874fef0e86649c.png" group-title="SPORT",SKYNET SPORT 6
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/5d/ac/89/5dac89cb6be153d89c874fef0e86649c.png" group-title="SPORT", SkyNet Sport 6
 https://www.livedoomovie.com/03_skynetsport6_480p/chunklist.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="SPORT", SPORTSMAX
+#EXTINF:-1 tvg-logo="" group-title="SPORT", Sportmax
 http://161.0.157.5/PLTV/88888888/224/3221226766/03.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-sporttv1.jpg" group-title="SPORT", Sport TV 1
+https://www.livedoomovie.com/02_SPORTTV_1_720p/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-sporttv2.jpg" group-title="SPORT", Sport TV 2
+https://www.livedoomovie.com/02_SPORTTV_2_720p/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-sporttv3.jpg" group-title="SPORT", Sport TV 3
+https://www.livedoomovie.com/02_SPORTTV_3_720p/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-sporttv4.jpg" group-title="SPORT", Sport TV 4
+https://www.livedoomovie.com/02_SPORTTV_4_720p/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-sporttv5.jpg" group-title="SPORT", Sport TV 5
+https://www.livedoomovie.com/02_SPORTTV_5_720p/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT", Sony ESPN
 http://103.118.76.229:1935/tvprogram/SONY-ESPN/playlist.m3u8
@@ -1220,19 +1292,31 @@ https://d28avce4cnwu2y.cloudfront.net/v1/manifest/61a556f78e4547c8ab5c6297ea291d
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT", TEN 3
 http://163.172.85.133:8080/TenS/3/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://sport-tv-guide.live/images/tv-station-true-sport-1-1070.png" group-title="SPORT", True Sport 1
+#EXTINF:-1 tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/03/truesportshd.jpg" group-title="SPORT", TrueSport HD 1
 https://www.livedoomovie.com/02_2sporthd1_720p/chunklist.m3u8
 
-#EXTINF:-1 tvg-logo="https://sport-tv-guide.live/images/stations/a1071.png" group-title="SPORT", True Sport 2
+#EXTINF:-1 tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/03/truesportshd2.jpg" group-title="SPORT", TrueSport HD 2 
 https://www.livedoomovie.com/02_2sporthd2_720p/chunklist.m3u8
 
-#EXTINF:-1 tvg-logo="https://sport-tv-guide.live/images/stations/a1072.png" group-title="SPORT", True Sport 3
+#EXTINF:-1 tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/03/truesportshd3.jpg" group-title="SPORT", TrueSport HD 3
 https://www.livedoomovie.com/02_2sporthd3_720p/chunklist.m3u8
 
-#EXTINF:-1 tvg-logo="https://sport-tv-guide.live/images/stations/a1073.png" group-title="SPORT", True Sport 4
+#EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2019/10/28/3f554960-f973-11e9-91cd-2f79be09d2b3_320.png" group-title="SPORT", TrueSport HD 4
 https://www.livedoomovie.com/02_2sporthd4_720p/chunklist.m3u8
 
-#EXTINF:-1 tvg-logo="https://banner2.kisspng.com/20180724/hy/kisspng-logo-tennis-channel-hd-television-channel-tv-logos-5b56da92d4eba7.5492831715324187068721.jpg" group-title="SPORT", Tennis HD
+#EXTINF:-1 tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/03/truesports2.jpg" group-title="SPORT", TrueSport 2
+https://www.livedoomovie.com/02_sport2_480p/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/03/truesports5.jpg" group-title="SPORT", TrueSport 5
+https://www.livedoomovie.com//02_sport5_480p/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/03/truesports6.jpg" group-title="SPORT", TrueSport 6
+https://www.livedoomovie.com/02_sport6_480p/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/03/truesports7.jpg" group-title="SPORT", TrueSport 7
+https://www.livedoomovie.com/02_sport7_480p/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.dprom.tv/public/img/true_tennis_hd.png" group-title="SPORT", True Tennis HD
 https://www.livedoomovie.com/02_TennisHD_720p/chunklist.m3u8
 
 #EXTINF: -1 tvg-logo="" group-title="SPORT", Tennis 1
@@ -1244,7 +1328,7 @@ https://playoutengine.sinclairstoryline.com/playout/f2f8b269-dd85-4434-bdd3-b3a6
 #EXTINF: -1 tvg-logo="" group-title="SPORT", Tennis 3
 http://s2.sports24.win/tennis.m3u8
 
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1111842868908318721/lMvLaebw_400x400.jpg" group-title="SPORT",TVRI SPORTS
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1111842868908318721/lMvLaebw_400x400.jpg" group-title="SPORT", TVRI SPORTS
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRI4)/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/U/ufc-tv-logo-FAC9E3D4D8-seeklogo.com.png" group-title="SPORT", UFC HD
@@ -1253,7 +1337,7 @@ http://78.141.211.61:4000/8
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT", UFC FIGHT PASS
 http://iptv6.premium-stv.com:25461/live/SOURCEUSASNOW/3246569824/1719.ts
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6chO5x2.png" group-title="SPORT",WWE Network
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6chO5x2.png" group-title="SPORT", WWE Network
 http://cdnak19.cast4u.info/channels/4/10804.m3u8?fluxustv.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="ALL BEINSPORT", BEIN SPORT 1 HD
@@ -2306,5 +2390,3 @@ https://hijaben.insomnia247.nl/vod/Maleficent%20Mistress%20of%20Evil.mkv
 
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYTE0Yjc1NzUtMjFjMC00Y2I3LTg3NGYtNGRlMGJhYThjMTJmXkEyXkFqcGdeQXVyNTI4MzE4MDU@._V1_SY1000_CR0,0,674,1000_AL_.jpg" tvg-country="ID" tvg-id="" tvg-name="" tvg-language="Indonesia" group-title="VOD",Shazam (2019)
 https://hijaben.insomnia247.nl/vod/Shazam.mkv
-
-
