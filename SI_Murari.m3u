@@ -441,7 +441,7 @@ http://livecdnh3.tvanywhere.ae/hls/duck/06.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/49/EBS_Logo.svg" group-title="KIDS", EBS KIDS
 http://ebsonair.ebs.co.kr:1935/ebsutablet500k/tablet500k/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d7/GONG.png" group-title="KIDS", GONGMAX_TV
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d7/GONG.png" group-title="KIDS", GongMax TV
 http://51.254.215.79/appflux/gongmax/GONGMAX/gongmax_1280/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/FcqwsaK.png" group-title="KIDS", JimJam
@@ -461,9 +461,6 @@ http://213.174.8.7:9100/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/2/2a/NickToons_TV.svg/revision/latest/scale-to-width-down/200?cb=20091118204932" group-title="KIDS", NickToons
 http://213.252.252.17/live/eds/Nicktoons/HLS_encr/Nicktoons.m3u8
-
-#EXTINF:-1tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Nickelodeon_2009_logo.svg/800px-Nickelodeon_2009_logo.svg.png" group-title="KIDS", Nickelodeon Junior
-http://95.170.215.118/hls/m3u8/Nickelodeon-JR.m3u8|User-Agent=Lavf/56.15.102
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Nickelodeon_2009_logo.svg/800px-Nickelodeon_2009_logo.svg.png" group-title="KIDS", Nickelodeon Junior ID
 http://203.153.218.28:9981/stream/channelid/648970596?ticket=72A19F89119921817ADF08AEBFF2D7E0009D1A20&profile=pass
