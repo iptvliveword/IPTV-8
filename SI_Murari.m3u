@@ -453,10 +453,10 @@ https://d3kw4vhbdpgtqk.cloudfront.net/hls/miaomipcweb/prog_index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/5/59/KidsChannel.png" group-title="KIDS", My Kids
 http://210.210.155.35/qwr9ew/s/s30/index2.m3u8
 
-#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/10/Nick.svg" group-title="KIDS", Nick Asia
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/Nick.png" group-title="KIDS", Nick Asia
 http://203.153.218.28:9981/stream/channelid/648970596?ticket=72A19F89119921817ADF08AEBFF2D7E0009D1A20&profile=pass
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a1/Nick_Jr._logo_2009.svg" group-title="KIDS", Nick JR
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2018/11/nick-jr-logo.png" group-title="KIDS", Nick JR
 http://213.174.8.7:9100/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/2/2a/NickToons_TV.svg/revision/latest/scale-to-width-down/200?cb=20091118204932" group-title="KIDS", NickToons
@@ -1071,17 +1071,47 @@ http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass5
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT", Armenia TV (AM)
 http://ott-cdn.ucom.am/s4/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_bein1_small1.png?v=2.0.0.13" group-title="SPORT", BEIN SPORTS 1 ID HD
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_bein1_small1.png?v=2.0.0.13" group-title="SPORT", Bein Sport 1 HD
 https://www.livedoomovie.com/02_epl1_720p/chunklist.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_bein2_small1.png?v=2.0.0.13" group-title="SPORT", BEIN SPORTS 2 ID HD
-http://www.livedoomovie.com/02_epl2_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_bein1_small1.png?v=2.0.0.13" group-title="SPORT", Bein Sport 1 Indonesia
+http://157.119.56.249:2019/live/gratis/diemdiemaja/131.ts
 
-#EXTINF:-1 tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/08/ar-bein3.jpg" group-title="SPORT", BEIN SPORTS 3 ID
-https://www.livedoomovie.com/02_epl3_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_bein2_small1.png?v=2.0.0.13" group-title="SPORT", Bein Sport 2 Indonesia
+http://157.119.56.249:2019/live/gratis/diemdiemaja/130.ts
 
-#EXTINF:-1 tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/08/ar-bein4.jpg" group-title="SPORT", BEIN SPORTS 4 ID
-https://www.livedoomovie.com/02_epl4_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_bein3_small1.png?v=2.0.0.13" group-title="SPORT", Bein Sport 3 Indonesia
+http://157.119.56.249:2019/live/gratis/diemdiemaja/129.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="WWE Network" tvg-logo="https://www.designersschool.net/wp-content/uploads/2017/05/1.png" group-title="SPORT", BeinSport 1
+http://185.246.209.218:80/philbrousseau@hotmail.com/c6u4UIw55z/29377
+
+#EXTINF:-1 tvg-id="" tvg-name="WWE Network" tvg-logo="https://www.designersschool.net/wp-content/uploads/2017/05/1.png" group-title="SPORT", BeinSport 2
+http://185.246.209.218:80/philbrousseau@hotmail.com/c6u4UIw55z/29376
+
+#EXTINF:-1 tvg-id="" tvg-name="WWE Network" tvg-logo="https://www.designersschool.net/wp-content/uploads/2017/05/1.png" group-title="SPORT", BeinSport 3
+http://185.246.209.218:80/philbrousseau@hotmail.com/c6u4UIw55z/29375
+
+#EXTINF:-1 tvg-id="" tvg-name="WWE Network" tvg-logo="https://www.designersschool.net/wp-content/uploads/2017/05/1.png" group-title="SPORT", BeinSport 4
+http://185.246.209.218:80/philbrousseau@hotmail.com/c6u4UIw55z/29374
+
+#EXTINF:-1 tvg-id="" tvg-name="WWE Network" tvg-logo=https://www.designersschool.net/wp-content/uploads/2017/05/1.png" group-title="SPORT", BeinSport 5
+http://185.246.209.218:80/philbrousseau@hotmail.com/c6u4UIw55z/29373
+
+#EXTINF:-1 tvg-id="" tvg-name="WWE Network" tvg-logo="https://www.designersschool.net/wp-content/uploads/2017/05/1.png" group-title="SPORT", BeinSport 6
+http://185.246.209.218:80/philbrousseau@hotmail.com/c6u4UIw55z/29372
+
+#EXTINF:-1 tvg-id="" tvg-name="WWE Network" tvg-logo="https://www.designersschool.net/wp-content/uploads/2017/05/1.png" group-title="SPORT", BeinSport 7
+http://185.246.209.218:80/philbrousseau@hotmail.com/c6u4UIw55z/29371
+
+#EXTINF:-1 tvg-id="" tvg-name="WWE Network" tvg-logo="https://www.designersschool.net/wp-content/uploads/2017/05/1.png" group-title="SPORT", BeinSport 8
+http://185.246.209.218:80/philbrousseau@hotmail.com/c6u4UIw55z/29370
+
+#EXTINF:-1 tvg-id="" tvg-name="WWE Network" tvg-logo="https://www.designersschool.net/wp-content/uploads/2017/05/1.png" group-title="SPORT", BeinSport 9
+http://185.246.209.218:80/philbrousseau@hotmail.com/c6u4UIw55z/29369
+
+#EXTINF:-1 tvg-id="" tvg-name="WWE Network" tvg-logo="https://www.designersschool.net/wp-content/uploads/2017/05/1.png" group-title="SPORT", BeinSport 10
+http://185.246.209.218:80/philbrousseau@hotmail.com/c6u4UIw55z/29368
 
 #EXTINF: -1 tvg-logo="" group-title="SPORT", Boxing
 https://edge5.xmediaget.com/hls-live/xmlive/_definst_/2806283/2806283.m3u8?refId=1
@@ -1110,6 +1140,9 @@ http://111.40.205.87/PLTV/88888888/224/3221225689/index.m3u8
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT", CCTV 5+ (Backup)
 http://huaweicdn.hb.chinamobile.com/PLTV/2510088/224/3221225906/3.m3u8
 
+#EXTINF:-1 tvg-id="941e4fc50bcb1065bcc9d1affe5c1ec6" group-title="SPORT", CT sport HD
+http://185.150.27.124:9981/stream/channelid/1162813076?profile=pass
+
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT", DD sportS
 http://103.199.161.254/Content/ddsports/Live/Channel(DDSPORTS)/index.m3u8
 
@@ -1131,8 +1164,11 @@ http://dmiftvll.mangomolo.com/dubaisportshd/smil%3Adubaisportshd.smil/chunklist_
 #EXTINF:-1 tvg-logo="" group-title="SPORT", Dubai Sports 3 HD (ARABIC & EN )
 http://dmiftvll.mangomolo.com/dubaisportshd5/smil%3Adubaisportshd5.smil/chunklist_b2000000.m3u8
 
-#EXTINF:-1 tvg-id="941e4fc50bcb1065bcc9d1affe5c1ec6" group-title="SPORT", CT sport HD
-http://185.150.27.124:9981/stream/channelid/1162813076?profile=pass
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/ELEVEN_SPORTS.png/1200px-ELEVEN_SPORTS.png" group-title="SPORT", ELEVEN SPORT 1
+http://wc7.beeyooo.com/tv11.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/ELEVEN_SPORTS.png/1200px-ELEVEN_SPORTS.png" group-title="SPORT" ,ELEVEN SPORT 2
+http://wc6.beeyooo.com/11sp.m3u8
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT", Eurosport 1
 http://95.170.215.118/hls/m3u8/EURO-Sport-1.m3u8
