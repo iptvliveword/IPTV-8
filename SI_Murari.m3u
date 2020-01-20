@@ -515,10 +515,7 @@ http://103.199.161.254/Content/b4umovies/Live/Channel(B4UMovies)/Stream(01)/inde
 #EXTINF:-1 tvg-logo="http://mhdtvworld.com/wp-content/uploads/2019/01/b4u_plus_ae.png" group-title="Movie", B4U Plus
 http://livecdnh3.tvanywhere.ae/hls/b4uplus/04.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Movie", Bioskop Indonesia
-rtp://@239.1.1.226:9332
-
-#EXTINF: -1 tvg-logo="https://blackcinema.blackxperience.com/assets/images/logo.png" group-title="Movie", Black Cinema
+#EXTINF: -1 tvg-logo="" group-title="Movie", Black Cinema
 https://stitcher.pluto.tv/stitch/hls/channel/561c5b0dada51f8004c4d855/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=6e360db0-724b-11e8-be77-bf4d1417b012&deviceId=889540f0-712d-11e8-b9ec-8ba319deeadf&deviceVersion=37.0.2049.0&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.5783&deviceLon=-90.6666&app_name=&appName=&appStoreUrl=&serverSideAds=true
 
 #EXTINF:0 tvg-logo="" group-title="Movie", byuTV
@@ -575,7 +572,7 @@ http://203.153.218.28:9981/stream/channelid/1949182550?ticket=07F04FD978CF0D1626
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/d/df/FOX_Family_Movies_%282017%29.png" group-title="Movie", Fox Family Movies Thai
 https://www.livedoomovie.com/02_FoxFamilyHD_720p/chunklist.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/93/Fox_Movies_%28Asia%29_logo.svg" group-title="Movie", FOX Movies
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/93/Fox_Movies_%28Asia%29_logo.svg" group-title="Movie", Fox Movies
 http://203.153.218.28:9981/stream/channelid/756717990?ticket=B63A8893B7D332F2F7ACFD3C14E761032035F66E&profile=pass
 
 #EXTINF:-1 tvg-logo="https://seeklogo.net/wp-content/uploads/2017/06/fox-movies-logo.png" group-title="Movie", Fox Movies HD Thai
@@ -596,9 +593,6 @@ http://95.170.215.118/hls/m3u8/HBO-2.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.hrvatskitelekom.hr/webresources/images/maxtv-new/programi/hbo3.png" group-title="Movie", HBO 3
 http://95.170.215.118/hls/m3u8/HBO-3.m3u8
-
-#EXTINF:-1 tvg-id="https://upload.wikimedia.org/wikipedia/commons/4/4a/HBO_HD.png" group-title="Movie", HBO HD
-http://157.119.56.249:2019/live/gratis/diemdiemaja/137.ts
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4a/HBO_HD.png" group-title="Movie", HBO HD Thai
 https://www.livedoomovie.com/02_HBOHD_720p/chunklist.m3u8
@@ -621,13 +615,10 @@ http://157.119.56.249:2019/live/gratis/diemdiemaja/136.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fc/HBOHits-ASIA.png" group-title="Movie", HBO Hits Thai
 https://www.livedoomovie.com/02_HBOHit_720p/chunklist.m3u8
 
-#EXTINF:-1 tvg-logo="https://en.wikipedia.org/wiki/HBO_Signature_(Asian_TV_channel)#/media/File:HBO_Signature_Asia.png" tvg-name="HBO SIGNATURE" group-title="Movie", HBO Signature
+#EXTINF:-1 tvg-logo="https://commons.wikimedia.org/wiki/File:HBO_Signature_Asia.png#/media/File:HBO_Signature_Asia.png" tvg-name="HBO SIGNATURE" group-title="Movie", HBO Signature
 http://203.153.218.28:9981/stream/channelid/1197019186?ticket=7BCDB753E026E4EE21551FA26F86591CDF9DA4A9&profile=pass
 
-#EXTINF:-1 tvg-logo="https://en.wikipedia.org/wiki/HBO_Signature_(Asian_TV_channel)#/media/File:HBO_Signature_Asia.png" tvg-name="HBO SIGNATURE" group-title="Movie", HBO Signature (Backup)
-http://203.153.218.26:9981/stream/channelid/2140740959
-
-#EXTINF:-1 tvg-logo="https://en.wikipedia.org/wiki/HBO_Signature_(Asian_TV_channel)#/media/File:HBO_Signature_Asia.png" group-title="Movie", HBO Signature Thai
+#EXTINF:-1 tvg-logo="https://commons.wikimedia.org/wiki/File:HBO_Signature_Asia.png#/media/File:HBO_Signature_Asia.png" group-title="Movie", HBO Signature Thai
 https://www.livedoomovie.com/02_HBOSignature_720p/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/HITS-WWW-Banner1.png/800px-HITS-WWW-Banner1.png" group-title="Movie", Hits
