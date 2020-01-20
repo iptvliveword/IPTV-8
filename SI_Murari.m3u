@@ -405,16 +405,13 @@ http://210.210.155.35/qwr9ew/s/s50/index2.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/NqhClyl.png" group-title="KIDS", Animax
 http://210.210.155.35/session/83bc2526-da69-11e8-881b-c81f66f89318/dr9445/h/h144/index2.m3u8
 
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/884675389859090432/ZZ_PwKWt_400x400.jpg" group-title="KIDS", Aniplus
-https://cdn-accedo-01.akamaized.net:443/Content/DASH/Live/channel(386e35b2-14f8-4368-92d7-010d78deaf75)/manifest.mpd
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/y1LQk44.png" group-title="KIDS", Aniplus (HD)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/y1LQk44.png" group-title="KIDS", Aniplus HD
 http://210.210.155.35/session/0d216142-f3f5-11e8-ab67-89df93dc8d44/dr9445/h/h02/01.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/y1LQk44.png" group-title="KIDS", Aniplus (SD)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/y1LQk44.png" group-title="KIDS", Aniplus SD
 http://45.126.83.51/dr9445/h/h02/index.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="KIDS", Baby Tv
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/45/BabyTV.png" group-title="KIDS", Baby Tv
 http://livecdnh1.tvanywhere.ae:80/hls/baby/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Boomerang_2014_logo.svg/1200px-Boomerang_2014_logo.svg.png" group-title="KIDS", Boomerang
@@ -429,7 +426,7 @@ http://203.153.218.28:9981/stream/channelid/251475608?ticket=3CBFB27E68B1DFEAB62
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/800px-Cartoon_Network_2010_logo.svg.png" group-title="KIDS", Cartoon Network HD
 http://188.35.9.11:21151/udp/185f
 
-#EXTINF:-1,tvg-logo="" group-title="KIDS", Davinci Kids
+#EXTINF:-1,tvg-logo="http://www.da-vinci-learning.com/wp-content/uploads/2018/09/Da_Vinci_Learning_Kids.png" group-title="KIDS", Davinci Kids
 http://213.174.8.7:11111/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Indonesian" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/2014_Disney_Channel_logo.svg/800px-2014_Disney_Channel_logo.svg.png" tvg-country="ID" tvg-url="" group-title="KIDS", Disney Channel
@@ -438,13 +435,13 @@ http://203.153.218.28:9981/stream/channelid/31701170?ticket=02DB3A3E44B8E741CC4D
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/f/f4/Disney_Junior.jpg" group-title="KIDS", Disney Junior
 http://103.47.132.164/PLTV/88888888/224/3221226011/04.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="KIDS", Duck TV
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/53/Ducktv-logo.jpg" group-title="KIDS", Duck TV
 http://livecdnh3.tvanywhere.ae/hls/duck/06.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="KIDS", EBS KIDS
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/49/EBS_Logo.svg" group-title="KIDS", EBS KIDS
 http://ebsonair.ebs.co.kr:1935/ebsutablet500k/tablet500k/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="KIDS", GONGMAX_TV
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d7/GONG.png" group-title="KIDS", GONGMAX_TV
 http://51.254.215.79/appflux/gongmax/GONGMAX/gongmax_1280/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/FcqwsaK.png" group-title="KIDS", JimJam
@@ -453,19 +450,19 @@ http://83.167.253.110:5000/live/jimjam/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/mD4VqZT/download.jpg" group-title="KIDS", Miao Mi
 https://d3kw4vhbdpgtqk.cloudfront.net/hls/miaomipcweb/prog_index.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="KIDS", My Kids
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/5/59/KidsChannel.png" group-title="KIDS", My Kids
 http://210.210.155.35/qwr9ew/s/s30/index2.m3u8
 
-#EXTINF:-1  tvg-logo="" group-title="KIDS", Nick Asia
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/10/Nick.svg" group-title="KIDS", Nick Asia
 http://203.153.218.28:9981/stream/channelid/648970596?ticket=72A19F89119921817ADF08AEBFF2D7E0009D1A20&profile=pass
 
-#EXTINF:-1 tvg-logo="" group-title="KIDS", Nick JR
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a1/Nick_Jr._logo_2009.svg" group-title="KIDS", Nick JR
 http://213.174.8.7:9100/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/2/2a/NickToons_TV.svg/revision/latest/scale-to-width-down/200?cb=20091118204932" group-title="KIDS",NickToons
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/2/2a/NickToons_TV.svg/revision/latest/scale-to-width-down/200?cb=20091118204932" group-title="KIDS", NickToons
 http://213.252.252.17/live/eds/Nicktoons/HLS_encr/Nicktoons.m3u8
 
-#EXTINF:-1tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRoxUX6osBg7wDr2rxjUrsHN1NN80uqwS_mULMMGwWaMdQiTeu_" group-title="KIDS", Nickelodeon Junior
+#EXTINF:-1tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Nickelodeon_2009_logo.svg/800px-Nickelodeon_2009_logo.svg.png" group-title="KIDS", Nickelodeon Junior
 http://95.170.215.118/hls/m3u8/Nickelodeon-JR.m3u8|User-Agent=Lavf/56.15.102
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Nickelodeon_2009_logo.svg/800px-Nickelodeon_2009_logo.svg.png" group-title="KIDS", Nickelodeon Junior ID
@@ -506,7 +503,7 @@ http://aldirect.hls.huya.com/huyalive/30765679-2504742278-10757786168918540288-3
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/6/60/AXN_2015_logo.png" group-title="Movie", AXN
 http://45.126.83.51/dr9445/h/h09/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/6/60/AXN_2015_logo.png" tvg-language="Indonesian" tvg-country="ID" group-title="Movie", AXN ID
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/6/60/AXN_2015_logo.png" tvg-language="Indonesian" tvg-country="ID" group-title="Movie", AXN (Backup)
 http://203.153.218.28:9981/stream/channelid/882386103?ticket=DF543FFEC6C497F485D61A1907E83292A2DB1741&profile=pass
 
 #EXTINF:-1 tvg-logo="http://mhdtvworld.com/wp-content/uploads/2018/12/B4U_MOVIES.png" group-title="Movie", B4U Movies
@@ -560,19 +557,19 @@ http://cableserver1.cableguy.pro:82/live?cId=431&uId=2255&deviceUser=roggiemkd&d
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/First_Media_logo.svg/800px-First_Media_logo.svg.png" group-title="Movie", First Movie
 http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:jgoch/chunklist_b2288000.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/96/FOX_wordmark-orange.svg" group-title="Movie", Fox
+#EXTINF:-1 tvg-logo="http://vignette2.wikia.nocookie.net/outcastdatabase/images/a/ac/Fox_logo.png/revision/latest?cb=20150807073232" group-title="Movie", Fox
 http://203.153.218.28:9981/stream/channelid/1910872088?ticket=1FE514A47371AF385F3866E79BE3A4D04BB182F4&profile=pass
 
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/f/f0/Fox_Action_Movies.png/revision/latest?cb=20190313090329" group-title="Movie", Fox Action Movies Thai
 https://www.livedoomovie.com/02_FoxActionHD_720p/chunklist.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/d/df/FOX_Family_Movies_%282017%29.pngg" group-title="Movie", Fox Family Movies
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/d/df/FOX_Family_Movies_%282017%29.png" group-title="Movie", Fox Family Movies
 http://203.153.218.28:9981/stream/channelid/1949182550?ticket=07F04FD978CF0D1626AA28A8A68A1182729AC6EE&profile=pass
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/d/df/FOX_Family_Movies_%282017%29.png" group-title="Movie", Fox Family Movies Thai
 https://www.livedoomovie.com/02_FoxFamilyHD_720p/chunklist.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/93/Fox_Movies_%28Asia%29_logo.svg" group-title="Movie", Fox Movies
+#EXTINF:-1 tvg-logo="https://seeklogo.net/wp-content/uploads/2017/06/fox-movies-logo.png" group-title="Movie", Fox Movies
 http://203.153.218.28:9981/stream/channelid/756717990?ticket=B63A8893B7D332F2F7ACFD3C14E761032035F66E&profile=pass
 
 #EXTINF:-1 tvg-logo="https://seeklogo.net/wp-content/uploads/2017/06/fox-movies-logo.png" group-title="Movie", Fox Movies HD Thai
@@ -600,17 +597,11 @@ https://www.livedoomovie.com/02_HBOHD_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/HBO_Family_logo.png" tvg-name="HBO FAMILY" group-title="Movie", HBO Family
 http://203.153.218.28:9981/stream/channelid/1316004766?ticket=5F57E6E5C9291700E8B75D86F760C75666701FBB&profile=pass
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/HBO_Family_logo.png" tvg-name="HBO FAMILY" group-title="Movie", HBO Family (Backup)
-http://203.153.218.26:9981/stream/channelid/960201661
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/HBO_Family_logo.png" group-title="Movie", HBO Family Thai
 https://www.livedoomovie.com/02_HBOFamily_720p/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fc/HBOHits-ASIA.png" tvg-id="97187cf98cc3a3d2419955eea35c1bf5" group-title="Movie", HBO Hits
 http://203.153.218.28:9981/stream/channelid/2038175895?ticket=6BFD6BDBFA641B9E326D9F96C522A9CA148626C6&profile=pass
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fc/HBOHits-ASIA.png" tvg-id="97187cf98cc3a3d2419955eea35c1bf5" group-title="Movie", HBO Hits (Backup)
-http://157.119.56.249:2019/live/gratis/diemdiemaja/136.ts
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fc/HBOHits-ASIA.png" group-title="Movie", HBO Hits Thai
 https://www.livedoomovie.com/02_HBOHit_720p/chunklist.m3u8
@@ -705,7 +696,7 @@ http://aldirect.hls.huya.com/huyalive/29169025-2686220018-11537227127170531328-2
 #EXTINF:-1 tvg-logo="https://i.imgur.com/SvRrcXy.png" group-title="Movie", OCN
 http://122.38.74.172:9981/stream/channelid/1674059397?ticket=60A62165CA6EC4DBBF69BA07FAC93856E3F1959D&profile=pass
 
-#EXTINF:-1 tvg-logo="" group-title="Movie", PRIME CANADA
+#EXTINF:-1 tvg-logo="https://commons.wikimedia.org/wiki/File:Amazon_Prime_Logo.svg#/media/File:Amazon_Prime_Logo.svg" group-title="Movie", PRIME CANADA
 http://cdn27.live247stream.com/primecanada/247/primecanada/stream1/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="http://mhdtvworld.com/wp-content/uploads/2018/11/raj_digital_plus-1.png" group-title="Movie", Raj Digital Plus
@@ -732,7 +723,7 @@ http://45.126.83.51/session/aaa8be4e-f1af-11e8-9483-935a8f875426/uq2663/h/h142/0
 #EXTINF:-1 tvg-logo="https://i.imgur.com/SAfu2jz.png" group-title="Movie", Star Movie HD
 http://livecdnh1.TVanywhere.ae:80/hls/star_movies/05.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRa3yHqjVjKNQ3A_HZnmPYJkJwpywm3cf0E_qiY1369XeVrErMS" group-title="Movie", Star World
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/1/13/Starworldlogo.png" group-title="Movie", Star World
 http://livecdnh1.TVanywhere.ae/hls/star_world/05.m3u8?IWAK-PEYEK.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WzyIoRc.png" group-title="Movie" ,Thrill
@@ -759,17 +750,17 @@ https://www.livedoomovie.com/02_WarnerTVHD_720p/chunklist.m3u8
 #EXTINF: -1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_warner_small.png?v=2.0.0.13" tvg-language="Indonesian" group-title="Movie", Warner TV ID
 http://203.207.56.228/live/iptv033.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/X99lmj6.png" group-title="Movie",WOWOW MOVIES
+#EXTINF:-1 tvg-logo="https://i.imgur.com/X99lmj6.png" group-title="Movie", WOWOW MOVIES
 http://192.240.127.34:1935/live/cs27.stream/playlist.m3u8?wowzasessionid=1300220279
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6S9cQR4.jpg" group-title="Movie",Zee Aflam
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6S9cQR4.jpg" group-title="Movie", Zee Aflam
 http://livecdnh3.tvanywhere.ae/hls/zeeaflam/01.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d0/Zee_TV-2018.png" tvg-country="ID" tvg-language="Indonesian" group-title="Movie", Zee TV
 http://170.178.189.66:1935/live/Stream1/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Dragon_Television_%28China%29_logo.svg/1200px-Dragon_Television_%28China%29_logo.svg.png" group-title="Movie", ZING KONG OTT
-http://103.242.13.90:5555/udp/239.4.1.33:10000
+
 
 #EXTINF:-1 tvg-language="Indonesian" tvg-logo="" group-title="Movie", HCtv Movie Jackie Chan
 http://aldirect.hls.huya.com/huyalive/94525224-2460685722-10568564701724147712-2789253838-10057-A-0-1.m3u8
@@ -1006,9 +997,6 @@ http://slive.ytn.co.kr:1935/dmb/ydlive_20140419_1/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Knowledge", Animal Planet
 http://203.153.218.28:9981/stream/channelid/1943600623?ticket=694FA36A0D756D8572C705243A10521FAF796351&profile=pass
 
-#EXTINF:-1,tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2019_Discovery_logo.svg/800px-2019_Discovery_logo.svg.png" group-title="Knowledge", Discovery Channel
-https://delivery.macan.live/stream/id_discoverychannel/index.m3u8?token=mSgcNbMn
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2019_Discovery_logo.svg/800px-2019_Discovery_logo.svg.png" group-title="Knowledge", Discovery Channel      
 http://edge.linknetott.swiftserve.com/channelgroup1/cg013production/ch29/02.m3u8
 
@@ -1024,31 +1012,25 @@ http://161.0.157.8/PLTV/88888888/224/3221226811/index.m3u8
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/3/3c/Foodie.png/revision/latest?cb=20190207074112" group-title="Knowledge", Foodie Channel
 http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:foodiee/chunklist_b2288000.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/0/07/History_channel_us.png" tvg-language="Indonesian"  group-title="Knowledge", History Channel (Backup)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/0/07/History_channel_us.png" tvg-language="Indonesian"  group-title="Knowledge", History Channel
 http://203.153.218.28:9981/stream/channelid/1868154562?ticket=21CAD98B63EE6B1D16AFD5B33F7C68F48FA445CD&profile=pass
 
-#EXTINF:-1 logo="http://tv.dekagon.id/logo/history_us.png" group-title="Knowledge", History Channel 
-https://cvtv.cvalley.net/hls/HistoryHD/HistoryHD.m3u8
-
-#EXTINF:-1 logo="http://tv.dekagon.id/logo/history_us.png" group-title="Knowledge", History Channel 2
+#EXTINF:-1 logo="" group-title="Knowledge", History Channel 2
 http://livecdnh1.tvanywhere.ae/hls/h2/05.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Knowledge", NatGeo
-http://livecdnh1.tvanywhere.ae/hls/nat_geo/04.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="Knowledge", NatGeo People
-http://livecdnh1.tvanywhere.ae/hls/nat_geo_people/05.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/f/f6/NatGeo_Wild.png" group-title="Knowledge", NatGeo Wild
-http://livecdnh1.tvanywhere.ae/hls/nat_geo_wild/04.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/f/f6/NatGeo_Wild.png" group-title="Knowledge", National Geographic
+#EXTINF:-1 tvg-logo="" group-title="Knowledge", National Geographic
 http://livecdnh1.tvanywhere.ae/hls/nat_geo/05.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Knowledge", National Geographic HD
+#EXTINF:-1 tvg-logo="" group-title="Knowledge", National Geographic (Backup)
 http://livecdnh1.tvanywhere.ae/hls/nat_geo/05.m3u8?IWAK-PEYEK.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTupMmB3cw51YJqk8xVO8WZj3yDVr70ayrxkkLS0_SMNT7pR0t6" group-title="Knowledge",NASA TV
+#EXTINF:-1 tvg-logo="" group-title="Knowledge", National Geographic People
+http://livecdnh1.tvanywhere.ae/hls/nat_geo_people/05.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/f/f6/NatGeo_Wild.png" group-title="Knowledge", National Geographic Wild
+http://livecdnh1.tvanywhere.ae/hls/nat_geo_wild/04.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTupMmB3cw51YJqk8xVO8WZj3yDVr70ayrxkkLS0_SMNT7pR0t6" group-title="Knowledge", NASA TV
 http://iphone-streaming.ustream.tv/uhls/6540154/streams/live/iphone/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Knowledge", NHK WORLD
@@ -1057,16 +1039,16 @@ http://45.126.83.51/uq2663/h/h23/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Knowledge", OCEAN TV
 http://188.35.9.5:10007/stolen/122v/parasite.install
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcR_NQzkcFezQ43TjlpI-V91ywrmRV_-5oq7CZRwYzxukHSyRTES" group-title="Knowledge", OUTDOOR CHANNEL
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcR_NQzkcFezQ43TjlpI-V91ywrmRV_-5oq7CZRwYzxukHSyRTES" group-title="Knowledge", Outdoor Channel
 https://stitcher.pluto.tv/stitch/hls/channel/5c393cad2de254456f7ef8c2/master.m3u8?deviceType=&deviceMake=&deviceVersion=&deviceId=&appVersion=&deviceDNT=0&deviceModel=&embedPartner=pluto.tv&sid=b37cef12f9heq1mq8ah9ia4h70
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcR_NQzkcFezQ43TjlpI-V91ywrmRV_-5oq7CZRwYzxukHSyRTES" group-title="Knowledge", OUTDOOR CHANNEL (Backup)
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcR_NQzkcFezQ43TjlpI-V91ywrmRV_-5oq7CZRwYzxukHSyRTES" group-title="Knowledge", Outdoor Channel (Backup)
 https://livetvhooq.akamaized.net/4333904e5f68426cae808a645e882206/eu-central-1/5493668622001/profile_2/chunklist.m3u8?hdnts=st=1576672231~exp=9007200831413222~acl=/4333904e5f68426cae808a645e882206/*/profile_2/chunklist.m3u8*~hmac=d22ed12147e6fe5936f8198fcf71838cb4651880f2ac0f4fdea39fb2b8a054b7
 
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_ruangtrampil_small.png?v=2.0.1.16" group-title="Knowledge",Ruang Terampil
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_ruangtrampil_small.png?v=2.0.1.16" group-title="Knowledge", Ruang Terampil
 https://livetvhooq.akamaized.net/b1b6d552c80f4ef78bd4c10bfb32268d/eu-central-1/5493668622001/profile_2/chunklist.m3u8?hdnts=st=1574876064~exp=9007200829617055~acl=/b1b6d552c80f4ef78bd4c10bfb32268d/*/profile_2/chunklist.m3u8*~hmac=43e732720209b4ede047d32a879e517cc1f2b74fc30d7793054e461b394dfe57
 
-#EXTINF:-1 group-title="Knowledge",TECHSTORM
+#EXTINF:-1 group-title="Knowledge", TechStorm
 https://cdn-accedo-01.akamaized.net:443/Content/DASH/Live/channel(f4802587-5d0c-4181-a873-bf9de86cecf6)/manifest.mpd
 
 #EXTINF:-1 tvg-logo="" group-title="Knowledge", TLC
