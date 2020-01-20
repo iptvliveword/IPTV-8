@@ -299,6 +299,9 @@ http://45.126.83.51/qwr9ew/s/s24/index2.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1784749061/01_metro_blackberry_01_copy.jpg" group-title="News", TVR Parlemen
 http://103.16.220.69:1935/golive/livestream/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="" group-title="News", Weather Nation
+http://cdnapi.kaltura.com/p/931702/sp/93170200/playManifest/entryId/1_oorxcge2/format/applehttp/protocol/http/uiConfId/28428751/a.m3
+
 ###Religi
 
 #EXTINF:-1 tvg-logo="" group-title="Religi", AL-IMAN TV
@@ -463,12 +466,12 @@ http://213.174.8.7:9100/index.m3u8
 http://213.252.252.17/live/eds/Nicktoons/HLS_encr/Nicktoons.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Nickelodeon_2009_logo.svg/800px-Nickelodeon_2009_logo.svg.png" group-title="KIDS", Nickelodeon Junior ID
-http://203.153.218.28:9981/stream/channelid/648970596?ticket=72A19F89119921817ADF08AEBFF2D7E0009D1A20&profile=pass
+http://203.153.218.26:9981/stream/channelid/1474669592?ticket=34A2B30F83B9510A225AD259DCF94B2DFB4E4EE3&profile=pass
 
-#EXTINF:-1 tvg-logo="" group-title="KIDS", Rai Glup
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c1/Rai_Gulp_-_Logo_2017.svg" group-title="KIDS", Rai Gulp
 http://b2everyrai-lh.akamaihd.net/i/raigulp_1@66350/master.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="KIDS", Rai Yoyo
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/01/Rai_Yoyo_-_Logo_2017.svg" group-title="KIDS", Rai Yoyo
 http://b2everyrai-lh.akamaihd.net/i/raiyoyo_1@191405/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/2b/Spacetoon_logo.png" group-title="KIDS", Spacetoon
@@ -512,6 +515,15 @@ http://livecdnh3.tvanywhere.ae/hls/b4uplus/04.m3u8
 #EXTINF: -1 tvg-logo="" group-title="Movie", Black Cinema
 https://stitcher.pluto.tv/stitch/hls/channel/561c5b0dada51f8004c4d855/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=6e360db0-724b-11e8-be77-bf4d1417b012&deviceId=889540f0-712d-11e8-b9ec-8ba319deeadf&deviceVersion=37.0.2049.0&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.5783&deviceLon=-90.6666&app_name=&appName=&appStoreUrl=&serverSideAds=true
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/chLWFqA.png" group-title="Movie", Blue Ant Extreme 
+http://210.210.155.35:80/session/7dade102-65b9-11e9-a2e4-c81f66f89318/dr9445/h/h15/02.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/chLWFqA.png" group-title="Movie", Blue Ant Extreme (Backup)
+http://45.126.83.51/dr9445/h/h15/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d3/Blue_ant_extreme_logo.png" group-title="Entertainment" tvg-language="Indonesian", Blue Ant Extreme
+http://203.153.218.28:9981/stream/channelid/1299824667?ticket=EDA811CE90A26AD414D02B63E0A9171A68A9454C&profile=pass
+
 #EXTINF:0 tvg-logo="" group-title="Movie", byuTV
 https://byubhls-i.akamaihd.net/hls/live/267187/byutvhls/master_4064.m3u8
 
@@ -545,6 +557,9 @@ http://45.126.83.51/dr9445/h/h11/index.m3u8
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/e/e6/Diva_Universal.png/revision/latest?cb=20101001090312" group-title="Movie", DIVA (Backup)
 http://210.210.155.35/uq2663/h/h11/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/e/e6/Diva_Universal.png/revision/latest?cb=20101001090312" group-title="Movie", DIVA ID
+http://biz2.xbin.us:888/uq2663/h/h11/index2.m3u8
+
 #EXTINF: -1 tvg-logo="https://static.iptv-epg.com/cz/EpicDrama.cz.png" group-title="Movie", EPIC DRAMA
 http://cableserver1.cableguy.pro:82/live?cId=466&uId=2255&deviceUser=roggiemkd&devicePass=k5rM0tOjM5Lh9B3s
 
@@ -556,6 +571,9 @@ http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:jgoch/chunklist_b228800
 
 #EXTINF:-1 tvg-logo="http://vignette2.wikia.nocookie.net/outcastdatabase/images/a/ac/Fox_logo.png/revision/latest?cb=20150807073232" group-title="Movie", Fox
 http://203.153.218.28:9981/stream/channelid/1910872088?ticket=1FE514A47371AF385F3866E79BE3A4D04BB182F4&profile=pass
+
+#EXTINF:-1 tvg-logo="http://vignette2.wikia.nocookie.net/outcastdatabase/images/a/ac/Fox_logo.png/revision/latest?cb=20150807073232" group-title="Movie", Fox (Backup)
+http://203.153.218.28:9981/stream/channelid/1910872088?ticket=972D8B718BDDBE34140EA502554535B036289E24&profile=pass
 
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/f/f0/Fox_Action_Movies.png/revision/latest?cb=20190313090329" group-title="Movie", Fox Action Movies Thai
 https://www.livedoomovie.com/02_FoxActionHD_720p/chunklist.m3u8
@@ -600,13 +618,16 @@ https://www.livedoomovie.com/02_HBOFamily_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fc/HBOHits-ASIA.png" tvg-id="97187cf98cc3a3d2419955eea35c1bf5" group-title="Movie", HBO Hits
 http://203.153.218.28:9981/stream/channelid/2038175895?ticket=6BFD6BDBFA641B9E326D9F96C522A9CA148626C6&profile=pass
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fc/HBOHits-ASIA.png" tvg-id="97187cf98cc3a3d2419955eea35c1bf5" group-title="Movie", HBO Hits (Backup)
+http://203.153.218.28:9981/stream/channelid/2038175895?ticket=464FCB103389A10044FB3B935A95CDF9A1D1B68F&profile=pass
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fc/HBOHits-ASIA.png" group-title="Movie", HBO Hits Thai
 https://www.livedoomovie.com/02_HBOHit_720p/chunklist.m3u8
 
-#EXTINF:-1 tvg-logo="https://commons.wikimedia.org/wiki/File:HBO_Signature_Asia.png#/media/File:HBO_Signature_Asia.png" tvg-name="HBO SIGNATURE" group-title="Movie", HBO Signature
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/HBO_Signature_Asia.png" tvg-name="HBO SIGNATURE" group-title="Movie", HBO Signature
 http://203.153.218.28:9981/stream/channelid/1197019186?ticket=7BCDB753E026E4EE21551FA26F86591CDF9DA4A9&profile=pass
 
-#EXTINF:-1 tvg-logo="https://commons.wikimedia.org/wiki/File:HBO_Signature_Asia.png#/media/File:HBO_Signature_Asia.png" group-title="Movie", HBO Signature Thai
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/HBO_Signature_Asia.png" group-title="Movie", HBO Signature Thai
 https://www.livedoomovie.com/02_HBOSignature_720p/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/HITS-WWW-Banner1.png/800px-HITS-WWW-Banner1.png" group-title="Movie", Hits
@@ -632,6 +653,9 @@ http://mn-nl.mncdn.com/ifilm/smil:ifilmfa2.smil/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2UQCl7M.png" group-title="Movie", iFILM 2 HD
 http://mn-nl.mncdn.com/ifilm/smil:ifilmfa2.smil/chunklist_b1096000.m3u8
+
+#EXTINF:-1 tvg-logo="" tvg-id="Lifetime.id" tvg-name="LifeTime" group-title="Movie",LifeTime
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch155)/index.m3u8
 
 #EXTINF: -1 tvg-logo="https://static.iptv-epg.com/za/SuperSportSelect.za.png" group-title="Movie", MAXCRO SELECT (GOLD)
 
@@ -699,14 +723,17 @@ http://cdn27.live247stream.com/primecanada/247/primecanada/stream1/chunks.m3u8
 #EXTINF:-1 tvg-logo="http://mhdtvworld.com/wp-content/uploads/2018/11/raj_digital_plus-1.png" group-title="Movie", Raj Digital Plus
 http://acv.asianetmobiletvplus.com/channels/rajdigital_htfuqchouekpefzxodtbzaojtryxpqkx_hls/rajdigital_htfuqchouekpefzxodtbzaojtryxpqkx_master.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Movie", Rai Premium
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ad/Rai_Premium_-_Logo_2017.svg" group-title="Movie", Rai Premium
 http://b2everyrai-lh.akamaihd.net/i/raipremium_1@181837/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.nowonsocmed.com/iptv/logo/raimovie.png" group-title="Movie", Ray Movie
+#EXTINF:-1 tvg-logo="https://www.nowonsocmed.com/iptv/logo/raimovie.png" group-title="Movie", Rai Movie
 http://b2everyrai-lh.akamaihd.net/i/raimovie_1@67348/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/7/70/REDBYHBO.png/revision/latest?cb=20160516085732" group-title="Movie", Red by HBO
 https://www.livedoomovie.com/02_RedbyHBO_720p/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/7/70/REDBYHBO.png/revision/latest?cb=20160516085732" group-title="Movie", Red by HBO (Backup)
+http://195.181.170.48:25461/nurcholism22@gmail.com/0831zssVb0/29599?token=GkQJUBUMGwpAAgZeAgECBlUCU1VSWAYFC1hQAQYCUAMEU1lSXlcACVAQTkQVREIABV08XlRDCgYLDFtaHRVBRQQUPlgCRgMSWwBSUV4CEklGRApaVUMKBQcNVFYFBwMBUkpDQQ8AGwpAAFBUVBIcRwFIF1JCD1FYbV0HFVhUURRbCBRdCkgbXwxtBgMLUV4BRgpBBhJNEl1BSUBZE2dgFjUDDVoJCRl5DFYNCANDWQRGHEFVWRVCVUZcQFlfQlhaTUQCXhMKTUIbEFhEL3QSSUZVG0NVD0NdXVdAWRNDRxRNRAhCORZcQxZABwcLVUJHXhJTFRxDXVVKZgEMX1lRVRUPDl8VRgMSUxBORAtfXgwQXxFoQAhUFggbUFIHBBZL
 
 #EXTINF:-1 tvg-logo="http://mhdtvworld.com/wp-content/uploads/2018/12/rsz_59bf88822fd6e2c3371ae9eff844f21e_0.png" group-title="Movie",Sur Sagar TV
 http://sursagar24.dyndns.tv:8080/sstv/720p/index.m3u8
@@ -727,7 +754,7 @@ http://livecdnh1.TVanywhere.ae/hls/star_world/05.m3u8?IWAK-PEYEK.m3u8
 http://210.210.155.35/qwr9ew/s/s34/01.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WzyIoRc.png" group-title="Movie" ,Thrill (Backup)
-http://210.210.155.35/session/5fa607b4-c313-11e8-ac17-b82a72d63267/qwr9ew/s/s34/index2.m3u8
+http://210.210.155.35/session/c8a974dc-7e3d-11e8-bf09-b82a72d63267/qwr9ew/s/s34/01.m3u8
 
 #EXTINF: -1 tvg-logo="http://mylastcoupon.com/wp-content/uploads/2017/08/orig_img5540ec0fb5ef2.png" group-title="Movie", The Works
 https://mgm-ssai.akamaized.net/amagi_hls_data_mgmAAAAAA-theworks/CDN/720x404_1425600/index.m3u8
@@ -741,11 +768,14 @@ http://203.207.56.228/live/iptv009.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Movie", WAU
 http://nn2.joj.sk/hls/wau-540.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_warner_small.png?v=2.0.0.13" tvg-language="Indonesian" group-title="Movie", Warner TV HD
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_warner_small.png?v=2.0.0.13" tvg-language="Indonesian" group-title="Movie", Warner TV Thai
 https://www.livedoomovie.com/02_WarnerTVHD_720p/chunklist.m3u8
 
 #EXTINF: -1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_warner_small.png?v=2.0.0.13" tvg-language="Indonesian" group-title="Movie", Warner TV ID
 http://203.207.56.228/live/iptv033.m3u8
+
+#EXTINF: -1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_warner_small.png?v=2.0.0.13" tvg-language="Indonesian" group-title="Movie", Warner TV (Backup)
+http://195.181.170.48:25461/live/amachongz@gmail.com/uRXMe6NlG0/29588?token=GkQJUBUMGwpAUwMCUQkHV11SVAAIAwIGAQxbAQJTVwRQUQBSA1AKUlUQTkQVREIABV08XlRDCgYLD1dSHRVBRQQUPlgCRgMSWgBQUVIIEklGRApaVUMKBQcNUVoEAQEOUUpDQQ8AGwoMRw4KShJVHRBVEVlRDW9QV08LAFQVDlgUCg0dRAtXbwZXDwcIVBJfRgFBGxIIQ0QQA0AgWV5aV0ErDlMPCFwQIV0PCxNeWQYFRApYXhIQd11LEgxDVkBfDghDHUQGUEQQUxYDRApeEAhcTxVTDkVaRksbQQsVd3hDSkNUHhBcXhFbDQhEChIRFxJPFVkSb0ZXShYRVFZZUxNEWxNWRhUSD1MaOQVfXgsBUxdeXw9DFggbU0EdFVlZDw8VXhQ7SVkGEFgIE1xcGA
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/X99lmj6.png" group-title="Movie", WOWOW MOVIES
 http://192.240.127.34:1935/live/cs27.stream/playlist.m3u8?wowzasessionid=1300220279
@@ -920,15 +950,6 @@ http://zaman-now.com/﻿zxtvxz﻿/Awesome
 #EXTINF:-1 tvg-logo="" group-title="Entertainment", Asian Food Channel
 http://203.153.218.28:9981/stream/channelid/1092664456?ticket=E20984982529618B739BCAB7412D568D65147A93&profile=pass
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/chLWFqA.png" group-title="Entertainment", Blue Ant Extreme 
-http://210.210.155.35:80/session/7dade102-65b9-11e9-a2e4-c81f66f89318/dr9445/h/h15/02.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/chLWFqA.png" group-title="Entertainment", Blue Ant Extreme (Backup)
-http://45.126.83.51/dr9445/h/h15/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d3/Blue_ant_extreme_logo.png" group-title="Entertainment" tvg-language="Indonesian", Blue Ant Extreme
-http://203.153.218.28:9981/stream/channelid/1299824667?ticket=EDA811CE90A26AD414D02B63E0A9171A68A9454C&profile=pass
-
 #EXTINF:-1 tvg-logo="" group-title="Entertainment", CHOSUN TV
 http://122.38.74.172:9981/stream/channelid/227207716?ticket=95DE6E90A05C751A298DFE5E72E74385C83F61E8&profile=pass
 
@@ -1027,8 +1048,11 @@ http://livecdnh1.tvanywhere.ae/hls/nat_geo_people/05.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/f/f6/NatGeo_Wild.png" group-title="Knowledge", National Geographic Wild
 http://livecdnh1.tvanywhere.ae/hls/nat_geo_wild/04.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTupMmB3cw51YJqk8xVO8WZj3yDVr70ayrxkkLS0_SMNT7pR0t6" group-title="Knowledge", NASA TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VX4uHSO.png" group-title="Knowledge", NASA TV
 http://iphone-streaming.ustream.tv/uhls/6540154/streams/live/iphone/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VX4uHSO.png" group-title="Knowledge", NASA TV Media
+http://iphone-streaming.ustream.tv/uhls/10414700/streams/live/iphone/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Knowledge", NHK WORLD
 http://45.126.83.51/uq2663/h/h23/index.m3u8
@@ -1083,35 +1107,7 @@ http://157.119.56.249:2019/live/gratis/diemdiemaja/130.ts
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_bein3_small1.png?v=2.0.0.13" group-title="SPORT", Bein Sport 3 Indonesia
 http://157.119.56.249:2019/live/gratis/diemdiemaja/129.ts
 
-#EXTINF:-1 tvg-id="" tvg-name="WWE Network" tvg-logo="https://www.designersschool.net/wp-content/uploads/2017/05/1.png" group-title="SPORT", BeinSport 1
-http://185.246.209.218:80/philbrousseau@hotmail.com/c6u4UIw55z/29377
 
-#EXTINF:-1 tvg-id="" tvg-name="WWE Network" tvg-logo="https://www.designersschool.net/wp-content/uploads/2017/05/1.png" group-title="SPORT", BeinSport 2
-http://185.246.209.218:80/philbrousseau@hotmail.com/c6u4UIw55z/29376
-
-#EXTINF:-1 tvg-id="" tvg-name="WWE Network" tvg-logo="https://www.designersschool.net/wp-content/uploads/2017/05/1.png" group-title="SPORT", BeinSport 3
-http://185.246.209.218:80/philbrousseau@hotmail.com/c6u4UIw55z/29375
-
-#EXTINF:-1 tvg-id="" tvg-name="WWE Network" tvg-logo="https://www.designersschool.net/wp-content/uploads/2017/05/1.png" group-title="SPORT", BeinSport 4
-http://185.246.209.218:80/philbrousseau@hotmail.com/c6u4UIw55z/29374
-
-#EXTINF:-1 tvg-id="" tvg-name="WWE Network" tvg-logo=https://www.designersschool.net/wp-content/uploads/2017/05/1.png" group-title="SPORT", BeinSport 5
-http://185.246.209.218:80/philbrousseau@hotmail.com/c6u4UIw55z/29373
-
-#EXTINF:-1 tvg-id="" tvg-name="WWE Network" tvg-logo="https://www.designersschool.net/wp-content/uploads/2017/05/1.png" group-title="SPORT", BeinSport 6
-http://185.246.209.218:80/philbrousseau@hotmail.com/c6u4UIw55z/29372
-
-#EXTINF:-1 tvg-id="" tvg-name="WWE Network" tvg-logo="https://www.designersschool.net/wp-content/uploads/2017/05/1.png" group-title="SPORT", BeinSport 7
-http://185.246.209.218:80/philbrousseau@hotmail.com/c6u4UIw55z/29371
-
-#EXTINF:-1 tvg-id="" tvg-name="WWE Network" tvg-logo="https://www.designersschool.net/wp-content/uploads/2017/05/1.png" group-title="SPORT", BeinSport 8
-http://185.246.209.218:80/philbrousseau@hotmail.com/c6u4UIw55z/29370
-
-#EXTINF:-1 tvg-id="" tvg-name="WWE Network" tvg-logo="https://www.designersschool.net/wp-content/uploads/2017/05/1.png" group-title="SPORT", BeinSport 9
-http://185.246.209.218:80/philbrousseau@hotmail.com/c6u4UIw55z/29369
-
-#EXTINF:-1 tvg-id="" tvg-name="WWE Network" tvg-logo="https://www.designersschool.net/wp-content/uploads/2017/05/1.png" group-title="SPORT", BeinSport 10
-http://185.246.209.218:80/philbrousseau@hotmail.com/c6u4UIw55z/29368
 
 #EXTINF: -1 tvg-logo="" group-title="SPORT", Boxing
 https://edge5.xmediaget.com/hls-live/xmlive/_definst_/2806283/2806283.m3u8?refId=1
@@ -1170,10 +1166,10 @@ http://wc7.beeyooo.com/tv11.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/ELEVEN_SPORTS.png/1200px-ELEVEN_SPORTS.png" group-title="SPORT" ,ELEVEN SPORT 2
 http://wc6.beeyooo.com/11sp.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT", Eurosport 1
+#EXTINF:-1 tvg-logo="" group-title="SPORT", Eurosport 1
 http://95.170.215.118/hls/m3u8/EURO-Sport-1.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT", Eurosport 2
+#EXTINF:-1 tvg-logo="" group-title="SPORT", Eurosport 2
 http://95.170.215.118/hls/m3u8/EURO-Sport-2.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.fightsports.tv/wp-content/uploads/fightsports280.jpg" group-title="SPORT", Fight Sport
@@ -1185,8 +1181,17 @@ http://plexonline.club:25461/live/thecrow1098/sinxxx/30.ts
 #EXTINF: -1 tvg-logo="" group-title="SPORT", Fight Time
 http://plexonline.club:25461/live/thecrow1098/sinxxx/4.ts
 
-#EXTINF:-1 tvg-logo="https://edge.thailandworldmasters.com/wp-content/uploads/2013/04/Golf-Channel-Thailand-HD-1.png" group-title="SPORT", Golf Channel HD
-https://www.livedoomovie.com/02_golfhd_720p/chunklist.m3u8
+#EXTINF: -1 tvg-logo = "" group-title = "SPORT", Football
+http://109.248.236.41:4433/udp/238.1.1.14:1234
+
+#EXTINF: -1 tvg-logo = "" group-title = "SPORT", Football 1 (1+)
+http://83.246.248.212:81/udp/239.54.7.153:1224
+
+#EXTINF: -1 tvg-logo = "" group-title = "SPORT", Football 1 (UA)
+http://193.93.216.50:8000/play/Football1/index.m3u8
+
+#EXTINF: -1 tvg-logo = "" group-title = "SPORT", Football 2 (UA)
+http://193.93.216.50:8000/play/Football2/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_foxsports1_small.png?v=2.0.0.13" group-title="SPORT", Fox Sport 1 HD
 https://www.livedoomovie.com/02_foxsport_720p/chunklist.m3u8
@@ -1200,7 +1205,13 @@ https://www.livedoomovie.com/02_FoxSport3_TH_720p/chunklist.m3u8
 #EXTINF: -1 tvg-logo = "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcT9S8F3AzeqzCIMmlHn4AZMlOd06zYnRAublIaPitDOAoaUHafi" group-title = "SPORT", Fox Sports
 http://198.255.23.18:2095/streams/56_.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT", Impact Wrestling HD USA
+#EXTINF: -1 tvg-logo = "" group-title = "SPORT", Fox Sports Racing USA
+http://161.0.157.50/PLTV/88888888/224/3221226181/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://edge.thailandworldmasters.com/wp-content/uploads/2013/04/Golf-Channel-Thailand-HD-1.png" group-title="SPORT", Golf Channel HD
+https://www.livedoomovie.com/02_golfhd_720p/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="SPORT", Impact Wrestling HD USA
 http://stitcher.pluto.tv/stitch/hls/channel/59b722526996084038c01e1b/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=7&deviceId=-&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
 
 #EXTINF:-1 tvg-logo="" group-title="SPORT", Lazio Channel (IT)
@@ -1239,11 +1250,26 @@ https://www.livedoomovie.com/02_PremierHD4_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/07/true-epl-5.jpg" group-title="SPORT", Premier Football HD 5
 https://www.livedoomovie.com/02_PremierHD4_720p/chunklist.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.realmadrid.com/StaticFiles/RealMadridResponsive/images/static/realmadridtv.jpg" group-title="SPORT", Real Madrid TV
+#EXTINF:-1 tvg-logo="https://www.realmadrid.com/StaticFiles/RealMadridResponsive/images/static/realmadridtv.jpg" group-title="SPORT", Real Madrid EN
 https://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hweben_1@300662/index_3_av-b.m3u8?sd=10&rebase=on
 
+#EXTINF:-1 tvg-logo="https://www.realmadrid.com/StaticFiles/RealMadridResponsive/images/static/realmadridtv.jpg" group-title="SPORT", Real Madrid ESP
+http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-b.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.realmadrid.com/StaticFiles/RealMadridResponsive/images/static/realmadridtv.jpg" group-title="SPORT", Real Madrid ESP (Backup)
+https://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hwebes_1@300661/index_3_av-b.m3u8
+
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/R/red-bull-tv-logo-837623FB07-seeklogo.com.png" group-title="SPORT", RedBull TV
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8
+
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/R/red-bull-tv-logo-837623FB07-seeklogo.com.png" group-title="SPORT", RedBull TV HD
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
+
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/R/red-bull-tv-logo-837623FB07-seeklogo.com.png" group-title="SPORT", RedBull TV FHD
+https://rbmn-live.akamaized.net/hls/live/622817/BoRB-US/master_6660.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="SPORT", Revn TV USA (Cars)
+http://dcunilive28-lh.akamaihd.net/i/dclive_1@624563/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.edailysports.com/wp-content/uploads/2019/06/rugby-world-cup-japan-2019.jpg" group-title="SPORT", Rugby World Cup 2019
 https://www.livedoomovie.com/RugbyWorldCup/chunklist.m3u8
@@ -1251,10 +1277,10 @@ https://www.livedoomovie.com/RugbyWorldCup/chunklist.m3u8
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT", RTSH Sport
 http://79.106.48.2/live/rtsh_sport_ott_p3/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT", Setanta Sports 1 (Opt-1)
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT", Setanta Sports 1
 http://ott-cdn.ucom.am/s81/03.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT", Setanta Sports 1 (Opt-2)
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT", Setanta Sports 1 (Backup)
 http://92.43.140.204:80/s81/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT", Setanta Sports 2
@@ -1302,8 +1328,17 @@ https://www.livedoomovie.com/02_SPORTTV_5_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT", Sony ESPN
 http://103.118.76.229:1935/tvprogram/SONY-ESPN/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT", Stadium Sports Network
+#EXTINF:-1 tvg-logo="" group-title="SPORT", Stadium Sports Network
 https://d28avce4cnwu2y.cloudfront.net/v1/manifest/61a556f78e4547c8ab5c6297ea291d6350767ca2/Mux/37f5dd6d-5713-4998-8354-8c6675612b42/0.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="SPORT", STAD AFRIC HD (FR)
+https://stadafric.streamakaci.tv/str_stadafric_stadafric/str_stadafric_multi/str_stadafric_stadafric/str_stadafric_player_720p/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="SPORT", SuperTennis HD (IT)
+https://1.ip2stream.icu/live/supertennis/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/0/0a/Super_Soccer_TV.png/revision/latest?cb=20181111072911" group-title="SPORT", SuperSoccer
+http://210.210.155.35/uq2663/h/h20/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT", TEN 3
 http://163.172.85.133:8080/TenS/3/index.m3u8
@@ -1350,44 +1385,39 @@ http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRI4)/index.m3u8
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/U/ufc-tv-logo-FAC9E3D4D8-seeklogo.com.png" group-title="SPORT", UFC HD
 http://78.141.211.61:4000/8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT", UFC FIGHT PASS
+#EXTINF:-1 tvg-logo="" group-title="SPORT", UFC FIGHT PASS
 http://iptv6.premium-stv.com:25461/live/SOURCEUSASNOW/3246569824/1719.ts
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6chO5x2.png" group-title="SPORT", WWE Network
 http://cdnak19.cast4u.info/channels/4/10804.m3u8?fluxustv.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="ALL BEINSPORT", BEIN SPORT 1 HD
-http://tv2iptv.com:8000/Faysal/faysal123/29
-#EXTINF:-1 tvg-logo="" group-title="ALL BEINSPORT", BEIN SPORT 2 HD
-http://tv2iptv.com:8000/Faysal/faysal123/30
-#EXTINF:-1 tvg-logo="" group-title="ALL BEINSPORT", BEIN SPORT 3 HD
-http://tv2iptv.com:8000/Faysal/faysal123/31
+#EXTINF:-1 tvg-logo="" group-title="SPORT", XSport (UA)
+https://94.153.204.1/Content/HLS/Live/Channel(ch0084)/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="SPORT", XSport HD (UA)
+https://94.153.204.1/Content/HLS/Live/Channel(ch0069)/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="" group-title="ALL BEINSPORT", BEIN SPORT 1 EN
+http://sp.inlinetv.ca:1992/B1/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="" group-title="ALL BEINSPORT", BEIN SPORT 2 AR
+http://sp.inlinetv.ca:1992/B2/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="" group-title="ALL BEINSPORT", BEIN SPORT 3 AR
+http://sp.inlinetv.ca:1992/B3/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="" group-title="ALL BEINSPORT", BEIN SPORT 4 AR
-http://tv2iptv.com:8000/Faysal/faysal123/18758
+http://sp.inlinetv.ca:1992/B4/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="" group-title="ALL BEINSPORT", BEIN SPORT 5 AR
-http://tv2iptv.com:8000/Faysal/faysal123/18757
+http://sp.inlinetv.ca:1992/B5/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="" group-title="ALL BEINSPORT", BEIN SPORT 6 AR
-http://tv2iptv.com:8000/Faysal/faysal123/18756
+http://sp.inlinetv.ca:1992/B6/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="" group-title="ALL BEINSPORT", BEIN SPORT 7 AR
-http://tv2iptv.com:8000/Faysal/faysal123/18755
+http://sp.inlinetv.ca:1992/B7/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="" group-title="ALL BEINSPORT", BEIN SPORT 8 AR
-http://tv2iptv.com:8000/Faysal/faysal123/18754 
+http://sp.inlinetv.ca:1992/B8/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="" group-title="ALL BEINSPORT", BEIN SPORT 9 AR
-http://tv2iptv.com:8000/Faysal/faysal123/18753
+http://sp.inlinetv.ca:1992/B9/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="" group-title="ALL BEINSPORT", BEIN SPORT 10 AR
-http://tv2iptv.com:8000/Faysal/faysal123/18752
-#EXTINF:-1 tvg-logo="" group-title="ALL BEINSPORT", BEIN SPORT 11 HD
-http://tv2iptv.com:8000/Faysal/faysal123/1033
-#EXTINF:-1 tvg-logo="" group-title="ALL BEINSPORT", BEIN SPORT 12 HD
-http://tv2iptv.com:8000/Faysal/faysal123/1034
-#EXTINF:-1 tvg-logo="" group-title="ALL BEINSPORT", BEIN SPORT 13 HD
-http://tv2iptv.com:8000/Faysal/faysal123/1035
-#EXTINF:-1 tvg-logo="" group-title="ALL BEINSPORT", BEIN SPORT 14 HD
-http://tv2iptv.com:8000/Faysal/faysal123/1036
-#EXTINF:-1 tvg-logo="" group-title="ALL BEINSPORT", BEIN SPORT 15 HD
-http://tv2iptv.com:8000/Faysal/faysal123/23529
-#EXTINF:-1 tvg-logo="" group-title="ALL BEINSPORT", BEIN SPORT 16 HD
-http://tv2iptv.com:8000/Faysal/faysal123/23528
+http://sp.inlinetv.ca:1992/B10/tracks-v1a1/mono.m3u8
 
 ###24/7 WORLD NEWS
 
@@ -2359,14 +2389,31 @@ http://symc-cdn.violin.co.th:1935/tndedge/whitechannel/chunklist.m3u8
 
 ###VOD
 
-#EXTINF: -1 tvg-logo="" group-title="VOD", Aquaman(2018)
-https://cdn.cloneapi.icu/drive/index.php?id=f2xMKgGyWw%2B99w1AH%2FnB7wdWJrp0JWnunJwKzadAsT7dFMyKU0mj6yZI5ZYVrdMSmR7Q0tC7FSnwLLL4kQicbGA%2FHnF3%2BEMf6sgbo8bWRFld8%2BLAhwkeSC92F7MSxucVkwtuqzPYUflAXyeBLk1R%2BgpGavA7FQKs330LMVzrcciwjBwTdRot59uh2WXukExIU%3D&ref=https%3A%2F%2Fbos21.bid%2Faquaman%2F&res=default
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w185/nN50NGt2yvIcoklrIzF1UIEF4TH.jpg" group-title="VOD", Ada Apa dengan Cinta? 2 (2016)
+https://www.googleapis.com/drive/v3/files/1k56NY2mPzDG-YlPcqTyq0t4gded0EKuD?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
 
-#EXTINF: -1 tvg-logo="" group-title="VOD", AVENGERS: ENDGAME (2019)
+#EXTINF:0 tvg-logo="http://image.azuza.web.id/images/capture-1545700497.jpg" group-title="VOD", Aquaman (2018)
+http://cdn0-a.production.vidio.static6.com/uploads/1573867/ets-cahgalon-820a-b900.mp4.m3u8
+
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w185/7WsyChQLEftFiDOVTGkv3hFpyyt.jpg" group-title="VOD", Avengers: Infinity War (2018)
+https://www.googleapis.com/drive/v3/files/1yhH2MrY0QGE3p05JZapql-2mMWuH37dG?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+
+
+
+#EXTINF: -1 tvg-logo="" group-title="VOD", AVENGERS: EndGame (2019)
 https://stream04.cdncv.net/hls/mfqjy6okxto6sr7qw74uziatxfbhws76mklz76v54pa7bpneuyvm2theph5q/index-v1-a1.m3u8
 
-#EXTINF: -1 tvg-logo="" group-title="VOD", Avengers:Endgame(2019)
+#EXTINF: -1 tvg-logo="" group-title="VOD", Avengers: EndGame(2019)
 https://www.googleapis.com/drive/v3/files/18_FetnajYa5qNM2eRkqlVFGbZRtEjBfb?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w185/sp95sUW1ZCyyPZMU8YOtJfo6rBK.jpg" group-title="VOD", Ayat-Ayat Cinta 2 (2017)
+https://www.googleapis.com/drive/v3/files/1nndae8H9aOzKItZboDdeGWusXlhVBlZ4?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+
+#EXTINF:0 tvg-logo="http://image.azuza.web.id/images/capture-1545700497.jpg" group-title="VOD", Bumblebee (2018)
+http://cdn0-a.production.vidio.static6.com/uploads/1567393/ets-bumb33-6048-b900.mp4.m3u8
+
+#EXTINF:-1  tvg-logo="" group-title="VOD", Bumblebee (2018) (Backup)
+https://doc-14-48-docs.googleusercontent.com/docs/securesc/ha0ro937gcuc7l7deffksulhg5h7mbp1/9il80il3g5hsnuarvc5udsboj7kpe0us/1549022400000/04567170426910008897/*/1ibzLwHa3eVA5XG2s7-f6f9sJKEk1699i?e=view
 
 #EXTINF: -1 tvg-logo="" group-title="VOD", Captain Marvel (2019)
 https://w3.bagicdn.pro/drive//hls/69c90b3db10efca37716e0f58ea4f978/69c90b3db10efca37716e0f58ea4f978.m3u8
@@ -2379,6 +2426,12 @@ https://www.googleapis.com/drive/v3/files/1oSWO6PTNM1nb6TnS6PDXj0C0JdNJqRMG?alt=
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/45/Code_8_2019_poster.jpg" tvg-id="" tvg-name="" tvg-language="Indonesia" tvg-country="ID" tvg-url="" group-title="VOD",Code 8 (2019)
 https://hijaben.insomnia247.nl/vod/Code%208.mkv
+
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w185/dwmQ9FyTbgKd62HVzdg34ep5roM.jpg" group-title="VOD", Danur (2017)
+https://www.googleapis.com/drive/v3/files/1GuT9dgin_72vuRxSMmNsKvwwTyVyxxlD?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+
+#EXTINF:-1  tvg-logo="" group-title="VOD", Den Of Thieves (2018)
+https://upload21.vidoza.net/x4lf7horsnzpvjumxc7euw2e4dggla226fdiova7k5ifyod2qlldkn3o66oa/v.mp4
 
 #EXTINF: -1 tvg-logo="" group-title="VOD", Dreadout(2019)
 https://cdn.clonefile.icu/drive/index.php?id=PNw1sQLyfOUCClVQe6BNbQfvuWQWhzq4Vs24%2FZH2UXT%2Bnh46ODR0zx7yo2Fgyog0%2Fa5KCJafCOqynrbF3g4ESTkgGjmAHE7woZ3NIt43EBQzciaQsJHqHUvtr8nGB6sPn2bjlGAD0PN5abCy7xa2%2Bjtbi3372A%2BGvNHCJs3CTPzciJt4mLyk8jt%2BgmrRfxp1SaGc12%2Bpt4vLODuj1s4XWn&ref=https%3A%2F%2Fwww.duniafilm21.fun%2Fdreadout-2019%2F&res=default
@@ -2395,14 +2448,83 @@ https://gdrivecdn.us/drive/index.php?
 #EXTINF: -1 tvg-logo="" group-title="VOD", Fast & Furious Presents : Hobbs & Shaw (2019)
 https://www.googleapis.com/drive/v3/files/1vUTJDejYeyg4sPklmsPk6RtzA1u-lMEB?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
 
+#EXTINF:0 tvg-logo="https://sogafime.com/wp-content/uploads/2018/08/xxeQmKUso0Ff8O1Rz6FrGxqEAD7-152x228.jpg" group-title="VOD", Galih & Ratna (2017)
+https://www.googleapis.com/drive/v3/files/1ZrcEm6DJKrQaba9WoRCxZP1aotVGbgEV?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+
+#EXTINF:-1  tvg-logo="" group-title="VOD", Gintama 2 Rules Are Made To Be Broken (2018)
+https://fs7.flix555.com/65mrc6hwbuwgmozpipz6iyetd4pe4ecrdpmi5gndussh2fa2aw7qu2t2fvyq/v.mp4
+
 #EXTINF: -1 tvg-logo="" group-title="VOD"", Hellboy (2019)
 https://jurndk12.ostreamcdn.com/hls/u5kjznxmbphlsdgge4vwglyejqupruz6ngbzl3aesplks22syofj3i24rpnq/index-v1-a1.m3u8
 
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BODk3OWJhMTUtMTU2MC00ZjJmLTk2OGYtN2NiZGMxNmY4NzU3L2ltYWdlXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SY1000_CR0,0,670,1000_AL_.jpg" tvg-country="ID" tvg-id="" tvg-name="" tvg-language="Indonesia" group-title="VOD",Indecent Proposal (1993)
+#EXTINF:-1  tvg-logo="" group-title="VOD", Ice Man "The Time Traveler (2018)
+https://str14.vidoza.net/x4lfqgy7rjzpvjumxbpeuvsd6nbdmomn2juy4emww7cxh7gfv4jaximyabya/v.mp4
+
+#EXTINF:-1  tvg-logo="" group-title="VOD", Incredibles 2 (2018)
+https://www3762.playercdn.net/87/3/jLu8jA3vQAanhNxRVAaYZA/1549127945/181023/510FWIDE4NOF0C7W7L6RE.mp4
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BODk3OWJhMTUtMTU2MC00ZjJmLTk2OGYtN2NiZGMxNmY4NzU3L2ltYWdlXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SY1000_CR0,0,670,1000_AL_.jpg" tvg-country="ID" tvg-id="" tvg-name="" tvg-language="Indonesia" group-title="VOD", Indecent Proposal (1993)
 https://hijaben.insomnia247.nl/vod/Indecent.Proposal.1993.mkv
 
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZjJiYTExOTAtNWU0Yi00NzJjLTkwOTgtOTU2NWM1ZjJmYWVhXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_SY1000_SX675_AL_.jpg" tvg-country="ID" tvg-id="" tvg-name="" tvg-language="Indonesia" group-title="VOD",Maleficent Mistress of Evil (2019)
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w185/nb9fc9INMg8kQ8L7sE7XTNsZnUX.jpg" group-title="VOD", Insidious: The Last Key (2018)
+https://www.googleapis.com/drive/v3/files/1px8eLVDzVtnDz5C3ptZcaPt2AfBRw7lp?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w185/c9XxwwhPHdaImA2f1WEfEsbhaFB.jpg" group-title="VOD", Jurassic World: Fallen Kingdom (2018)
+https://www.googleapis.com/drive/v3/files/18hiFiuuQW8IjOWp6VQdJPWZLQ4gPnJ3a?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w185/bXrZ5iHBEjH7WMidbUDQ0U2xbmr.jpg" group-title="VOD", Jumanji: Welcome to the Jungle (2017) 
+https://www.googleapis.com/drive/v3/files/1ycWd64JYv_P93jprbTZAJj4twRWJ9WiO?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+
+#EXTINF:-1  tvg-logo="" group-title="VOD", Hitman (2018)
+https://bond.playercdn.net/87/8/qp2F_GWvQU7miH45hTpY2w/1549128174/181231/210FYPSOX0FOMRQSM2LJL.mp4
+
+#EXTINF:0 tvg-logo="http://image.azuza.web.id/images/capture-1545700497.jpg" group-title="VOD", KINGSMAN The Golden Circle
+https://www.googleapis.com/drive/v3/files/13YSPMp_KEUa7iecQ0FmxVOlKC9LoB-z4?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+
+#EXTINF:-1  tvg-logo="" group-title="VOD", Kuntilanak (2018)
+https://www.googleapis.com/drive/v3/files/ha0ro937gcuc7l7deffksulhg5h7mbp1?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZjJiYTExOTAtNWU0Yi00NzJjLTkwOTgtOTU2NWM1ZjJmYWVhXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_SY1000_SX675_AL_.jpg" tvg-country="ID" tvg-id="" tvg-name="" tvg-language="Indonesia" group-title="VOD", Maleficent Mistress of Evil (2019)
 https://hijaben.insomnia247.nl/vod/Maleficent%20Mistress%20of%20Evil.mkv
 
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYTE0Yjc1NzUtMjFjMC00Y2I3LTg3NGYtNGRlMGJhYThjMTJmXkEyXkFqcGdeQXVyNTI4MzE4MDU@._V1_SY1000_CR0,0,674,1000_AL_.jpg" tvg-country="ID" tvg-id="" tvg-name="" tvg-language="Indonesia" group-title="VOD",Shazam (2019)
+#EXTINF:0 tvg-logo="http://image.azuza.web.id/images/capture-1545700497.jpg" group-title="VOD", MORTAL ENGINES
+http://cdn0-a.production.vidio.static6.com/uploads/1571909/ets-1-20kangmor-a7e4-b900.mp400004.ts
+
+#EXTINF:0 tvg-logo="http://image.azuza.web.id/images/capture-1545700497.jpg" group-title="VOD", MUNAFIK
+http://cdn0-a.production.vidio.static6.com/uploads/1528383/ets-2-20traimuna-9bbb-b1600.mp4.m3u8
+
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w185/1g4s767FX6TZrCfyUe0X24UZHwb.jpg" group-title="VOD", Pengabdi Setan (2017)
+https://www.googleapis.com/drive/v3/files/1holomG35K2jL2c9ZRCIB7IBCjCLgfnyF?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+
+#EXTINF:-1  tvg-logo="" group-title="VOD",replicas (2018)
+https://doc-0c-9o-docs.googleusercontent.com/docs/securesc/ha0ro937gcuc7l7deffksulhg5h7mbp1/m1it5b5pc451pg0uir4npmjmq9ad0k7r/1549022400000/02922176485714899809/*/1jTFsKxI1GfpevdI535JTiSQnp_UDhSXn?e=view
+
+#EXTINF:0 tvg-logo="http://image.azuza.web.id/images/capture-1545700497.jpg" group-title="VOD", ROBIN HOOD
+http://dl8.heyserver.in/film/2019-2/Robin.Hood.2018.720p.WEB-DL.MkvCage.mkv
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYTE0Yjc1NzUtMjFjMC00Y2I3LTg3NGYtNGRlMGJhYThjMTJmXkEyXkFqcGdeQXVyNTI4MzE4MDU@._V1_SY1000_CR0,0,674,1000_AL_.jpg" tvg-country="ID" tvg-id="" tvg-name="" tvg-language="Indonesia" group-title="VOD", Shazam (2019)
 https://hijaben.insomnia247.nl/vod/Shazam.mkv
+
+#EXTINF:0 tvg-logo="https://indomovies88.com/wp-content/uploads/2018/07/5LYSsOPzuP13201qSzMjNxi8FxN-152x228.jpg" group-title="VOD", Skyscraper (2018)
+https://www.googleapis.com/drive/v3/files/1YdrT-WhduFYnK0qtm_7BJ1pwU3MQs4uM?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+
+#EXTINF:-1  tvg-logo="" group-title="VOD", Take Point (2018)
+https://1fiagec.oloadcdn.net/dl/l/N3DWKYWeANnPccBf/moVNo8Q6xZc/tt7156436-take-point-2018-1548776969.mp4?mime=true
+
+#EXTINF:-1  tvg-logo="" group-title="VOD", The Car Road To Revenge (2018)
+https://id.terafile.net/the-car-road-to-revenge-2019-360p.mp4
+
+#EXTINF:-1  tvg-logo="" group-title="VOD", The Legend Of Secret Pass (2019)
+https://id.terafile.net/the-legend-of-secret-pass2019-360p.mp4
+
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w185/xqECHNvzbDL5I3iiOVUkVPJMSbc.jpg" group-title="VOD", The Meg (2018)
+https://www.googleapis.com/drive/v3/files/1BoVh8QUyWJRdqKynEQBHZKDb9Rbc-xSe?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+
+#EXTINF:0 tvg-logo="http://image.azuza.web.id/images/capture-1545700497.jpg" group-title="VOD", THE NIGHT COMES FOR US
+http://cdn0-a.production.vidio.static6.com/uploads/1528364/ets-nightcome-68ae-b1600.mp4.m3u8
+
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w185/ePyN2nX9t8SOl70eRW47Q29zUFO.jpg" group-title="VOD", Tomb Raider (2018)
+https://www.googleapis.com/drive/v3/files/1Blv4t2kZFYP2R1qNnL-I7ISEbcGlvo0U?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+
+#EXTINF:0 tvg-logo="http://image.azuza.web.id/images/capture-1545700497.jpg" group-title="VOD", VENOM
+http://cdn0-a.production.vidio.static6.com/uploads/1528359/ets-sehnom-2877-b900.mp4.m3u8
