@@ -487,7 +487,7 @@ http://45.126.83.51/dr9445/h/h02/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/45/BabyTV.png" group-title="KIDS", Baby TV
 http://livecdnh1.tvanywhere.ae:80/hls/baby/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/6QWMzxGJ/babyfirst.png" group-title="Kids", Baby First
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/6QWMzxGJ/babyfirst.png" group-title="KIDS", Baby First
 http://ms003.happytv.com.tw/live/F9YMztT5DcwWEr1f/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Boomerang_2014_logo.svg/1200px-Boomerang_2014_logo.svg.png" group-title="KIDS", Boomerang
@@ -564,6 +564,69 @@ http://95.170.215.109:80/hls/m3u8/Spacetoon-Backup.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Indonesian" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/e/e3/Spacetoon.png/300px-Spacetoon.png" tvg-country="ID" tvg-url="" group-title="KIDS", Spacetoon ID
 http://210.210.155.35/x6bnqe/s/s80/index2.m3u8
+
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQjMXQ2d2qv8-AWoxKOWboph0KAwgc6qJ7DWL1AZf6w0mCMqIl1" group-title="KIDS",Tom & Jerry TV
+https://ws.flv.nimo.tv/live/su1599512427554r538093ee8e9c2edd24251f82cda6fd16_high.flv?fluxustv.flv
+
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSn99xMsFA0pQ-0_Gc4ltchIQJIpV8q1Nz7DBWvowR06B_m0Vbz" group-title="KIDS",LARVA TV
+http://ws.flv.nimo.tv/live/su1599512427560r1e0b7afba22fec0a5191643a588e9f06_high.flv
+
+#EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRYY5Men-2vHQHXWO851wEfeIw9BSK8ij6WMkXK7Wx1m5HZn8qx" group-title="KIDS", KurdMax Papule
+http://31.14.40.139:1935/liveTrans/Kurmanci/chunklist.m3u8
+
+#EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSdbXOVNW-Ztj62ac9MgKqXW5DKnKfNqaP0hLGVgp0viSYQiOu7" group-title="KIDS", Kuriakos Kids
+http://c2.manasat.com:1935/kkids/kkids3/FluxusTV.m3u8?fluxustv.m3u8
+
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQgp03hzDzxCphKexZrk_kW9TePddS8RE8NafGtHh6j_bHdlpP8" group-title="KIDS",3ABN KIDS TV
+https://moiptvhls-i.akamaihd.net/hls/live/652318/secure/master.m3u8
+
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSxhUqVpo00XIJ5iox8ofbqm0O-Kro5qfREEG6Krw10_zw7gGD9" group-title="KIDS",ToonMax
+http://rr2.dens.tv/s/s50/01.m3u8
+
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcR-raOfRgsXZT7oOYxFllG15-ZcoEDCeQ_eM052aROHzDwh9qZU" group-title="KIDS",Kurokoai Basketball
+http://aldirect.hls.huya.com/huyalive/94525224-2604793726-11187503865995984896-3049003148-10057-A-0-1_1200.m3u8
+
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTJqNAuYEtH1bocPiCtvcnDzIS67pQOtj1F-RvOPP79-63tXMIV" group-title="KIDS", DRAGON BALL KAI TV
+http://ws.flv.nimo.tv/live/su1599512427624rcac6e81bb9277a4fe258348bcfa63c82_high.flv
+
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQcWFjgqQPgMf9QmzkJnXJBuIMpDWfQMTMaJV7mwuMLlRlrIQLt" group-title="KIDS", DRAGON BALL Z TV
+https://ws.flv.nimo.tv/live/su1599512427558r464ce7577525c715f04419095ae6abeb_high.flv
+
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcS6RKVYziFVrkjzX8vCmm9RUpT_hxm7tNRcZVx2e5t6tpx4nR8m" group-title="KIDS", Boruto TV
+http://ws.flv.nimo.tv/live/su1599512427615r0c4ed6161b23b4d2892824141e30f13b_high.flv
+
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRZAP0JO0-GkvS-F2y4TYpYqZ82gSnQgmX5-vY0VLU2Kph3ZdJi" group-title="KIDS", Captain Stubasa 2019 TV
+http://ws.flv.nimo.tv/live/su1599512427630rb9a94d5f0fa60cec1044ec85fbd76da7_high.flv
+
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcT8-0QbwU_pnZvfXmzjGziziVYqEtgzq0uLW40LFpPp5c_CP8W2" group-title="KIDS", DETECTIFE CONAN 1 TV
+http://ws.flv.nimo.tv/live/su1599512427577r176a7daa9302ccecdda91e18ea9be73e_high.flv
+
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQRcpxjgYQy8hCdcTtrhjKekl9A3XlXlVZJ7EqeorXVJ1wTv1S7" group-title="KIDS", DETECTIFE CONAN 2 TV
+http://ws.flv.nimo.tv/live/su1599512427561r32f86ec41ff353df5fd649beb68e6388_high.flv
+
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTMaVEQyf4zZJdkOj2ft61g438KXqcI_Nv8Cmmk37I9K-azdHIg" group-title="KIDS", DETECTIFE CONAN 3 TV
+http://ws.flv.nimo.tv/live/su1599512427572re6b4d2bfbd968a965107eafabdad5184_high.flv
+
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSK9L796tvhaFUJz1jr9_HatWJyluE_DQh6cH8cMRkuzT0_g5wN" group-title="KIDS", DORAEMON SERIES
+http://ws.flv.nimo.tv/live/su1599512427553r467469e0bc83c5de73f4d151682fb530_high.flv?fluxustv.flv
+
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQjauqNv1_JTtt62fuMHpMkeYLqqS3eRWOeHVvL4T9PWAOa7wQQ" group-title="KIDS", DORAEMON MOVIE
+http://ws.flv.nimo.tv/live/su1599512427578r00bac8d56488f6ca2d6915fb95ab88e8_high.flv?fluxustv.flv
+
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQ0OEtUnN-gRkqMJpmh-ZT7mmwxl6gqjD97yB9GZaa02jTrBXpC" group-title="KIDS", HUNTER X HUNTER
+http://ws.flv.nimo.tv/live/su1599512427562r89436fcde4d4278fc2e87c8600d465e1_high.flv
+
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTD98VKg11wqpshxiFOSCVZ4h6IvW7H_1-qT5sdcit8JrFSh4Ek" group-title="KIDS",INUYASHA
+http://ws.flv.nimo.tv/live/su1599512427565r2d969c0672b18115ac596b0bdea6e535_high.flv
+
+#EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQCO6Co25pno__W5dyn5AxGnHyPWiUrst4E6P1w01e5kloBAbMR" group-title="KIDS", TOTALLY SPIES
+http://ws.flv.nimo.tv/live/su1599512427585r47e5a2be5769b2ce776bc4a992c9f6fd_high.flv
+
+#EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQBzp7BGwolru9XytjrckBBty17cJNgo2O57XQkEkMA2v7RtXJH" group-title="KIDS", ONE PIECE TV
+http://ws.flv.nimo.tv/live/su1599512427600r01fea2f56268e5a32e8e1d5c6dad7ede_high.flv
+
+#EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQ0S1bAQA1Xjjfcf_C0agfo0lkMvzsx6G9_bjNXz5O12DC9QCMC" group-title="KIDS", ONE PUNCH MAN
+http://ws.flv.nimo.tv/live/su1599512427559r6319ab6314a165d28a228bf5917d1fe0_high.flv
 
 ###Movie
 
@@ -1721,26 +1784,44 @@ https://94.153.204.1/Content/HLS/Live/Channel(ch0084)/index.m3u8
 https://94.153.204.1/Content/HLS/Live/Channel(ch0069)/index.m3u8
 
 
-#EXTINF:-1 tvg-logo="" group-title="ALL BEINSPORT", BEIN SPORT 1 EN
-http://sp.inlinetv.ca:1992/B1/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="" group-title="ALL BEINSPORT", BEIN SPORT 2 AR
-http://sp.inlinetv.ca:1992/B2/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="" group-title="ALL BEINSPORT", BEIN SPORT 3 AR
-http://sp.inlinetv.ca:1992/B3/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="" group-title="ALL BEINSPORT", BEIN SPORT 4 AR
-http://sp.inlinetv.ca:1992/B4/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="" group-title="ALL BEINSPORT", BEIN SPORT 5 AR
-http://sp.inlinetv.ca:1992/B5/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="" group-title="ALL BEINSPORT", BEIN SPORT 6 AR
-http://sp.inlinetv.ca:1992/B6/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="" group-title="ALL BEINSPORT", BEIN SPORT 7 AR
-http://sp.inlinetv.ca:1992/B7/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="" group-title="ALL BEINSPORT", BEIN SPORT 8 AR
-http://sp.inlinetv.ca:1992/B8/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="" group-title="ALL BEINSPORT", BEIN SPORT 9 AR
-http://sp.inlinetv.ca:1992/B9/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="" group-title="ALL BEINSPORT", BEIN SPORT 10 AR
-http://sp.inlinetv.ca:1992/B10/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="beinsports1.qa" tvg-name="beIN SPORTS 1 FHD" tvg-logo="http://163.172.48.123/logos/LogoEVDTV/BeIN/Sport/HD1.png" group-title="BeIN Sports",beIN SPORTS 1 FHD
+http://liv3e.click:80/7481458234/7481458234/47783
+#EXTINF:-1 tvg-id="beinsports2.qa" tvg-name="beIN SPORTS 2 FHD" tvg-logo="http://163.172.48.123/logos/LogoEVDTV/BeIN/Sport/HD2.png" group-title="BeIN Sports",beIN SPORTS 2 FHD
+http://liv3e.click:80/7481458234/7481458234/47782
+#EXTINF:-1 tvg-id="beinsports3.qa" tvg-name="beIN SPORTS 3 FHD" tvg-logo="http://163.172.48.123/logos/LogoEVDTV/BeIN/Sport/HD3.png" group-title="BeIN Sports",beIN SPORTS 3 FHD
+http://liv3e.click:80/7481458234/7481458234/47781
+#EXTINF:-1 tvg-id="beinsports4.qa" tvg-name="beIN SPORTS 4 FHD" tvg-logo="http://163.172.48.123/logos/LogoEVDTV/BeIN/Sport/HD4.png" group-title="BeIN Sports",beIN SPORTS 4 FHD
+http://liv3e.click:80/7481458234/7481458234/47780
+#EXTINF:-1 tvg-id="beinsports5.qa" tvg-name="beIN SPORTS 5 FHD" tvg-logo="http://163.172.48.123/logos/LogoEVDTV/BeIN/Sport/HD5.png" group-title="BeIN Sports",beIN SPORTS 5 FHD
+http://liv3e.click:80/7481458234/7481458234/47779
+#EXTINF:-1 tvg-id="beinsports6.qa" tvg-name="beIN SPORTS 6 FHD" tvg-logo="http://163.172.48.123/logos/LogoEVDTV/BeIN/Sport/HD6.png" group-title="BeIN Sports",beIN SPORTS 6 FHD
+http://liv3e.click:80/7481458234/7481458234/47778
+#EXTINF:-1 tvg-id="beinsports7.qa" tvg-name="beIN SPORTS 7 FHD" tvg-logo="http://163.172.48.123/logos/LogoEVDTV/BeIN/Sport/HD7.png" group-title="BeIN Sports",beIN SPORTS 7 FHD
+http://liv3e.click:80/7481458234/7481458234/47777
+#EXTINF:-1 tvg-id="beinsports1.qa" tvg-name="beIN SPORTS 1 HD" tvg-logo="http://163.172.48.123/logos/LogoEVDTV/BeIN/Sport/HD1.png" group-title="BeIN Sports",beIN SPORTS 1 HD
+http://liv3e.click:80/7481458234/7481458234/47805
+#EXTINF:-1 tvg-id="beinsports2.qa" tvg-name="beIN SPORTS 2 HD" tvg-logo="http://163.172.48.123/logos/LogoEVDTV/BeIN/Sport/HD2.png" group-title="BeIN Sports",beIN SPORTS 2 HD
+http://liv3e.click:80/7481458234/7481458234/47804
+#EXTINF:-1 tvg-id="beinsports3.qa" tvg-name="beIN SPORTS 3 HD" tvg-logo="http://163.172.48.123/logos/LogoEVDTV/BeIN/Sport/HD3.png" group-title="BeIN Sports",beIN SPORTS 3 HD
+http://liv3e.click:80/7481458234/7481458234/47803
+#EXTINF:-1 tvg-id="beinsports4.qa" tvg-name="beIN SPORTS 4 HD" tvg-logo="http://163.172.48.123/logos/LogoEVDTV/BeIN/Sport/HD4.png" group-title="BeIN Sports",beIN SPORTS 4 HD
+http://liv3e.click:80/7481458234/7481458234/47802
+#EXTINF:-1 tvg-id="beinsports5.qa" tvg-name="beIN SPORTS 5 HD" tvg-logo="http://163.172.48.123/logos/LogoEVDTV/BeIN/Sport/HD5.png" group-title="BeIN Sports",beIN SPORTS 5 HD
+http://liv3e.click:80/7481458234/7481458234/47801
+#EXTINF:-1 tvg-id="beinsports6.qa" tvg-name="beIN SPORTS 6 HD" tvg-logo="http://163.172.48.123/logos/LogoEVDTV/BeIN/Sport/HD6.png" group-title="BeIN Sports",beIN SPORTS 6 HD
+http://liv3e.click:80/7481458234/7481458234/47800
+#EXTINF:-1 tvg-id="beinsports7.qa" tvg-name="beIN SPORTS 7 HD" tvg-logo="http://163.172.48.123/logos/LogoEVDTV/BeIN/Sport/HD7.png" group-title="BeIN Sports",beIN SPORTS 7 HD
+http://liv3e.click:80/7481458234/7481458234/47799
+#EXTINF:-1 tvg-id="beinsports8.qa" tvg-name="beIN SPORTS 8 HD" tvg-logo="http://163.172.48.123/logos/LogoEVDTV/BeIN/Sport/HD8.png" group-title="BeIN Sports",beIN SPORTS 8 HD
+http://liv3e.click:80/7481458234/7481458234/47798
+#EXTINF:-1 tvg-id="beinsports9.qa" tvg-name="beIN SPORTS 9 HD" tvg-logo="http://163.172.48.123/logos/LogoEVDTV/BeIN/Sport/HD9.png" group-title="BeIN Sports",beIN SPORTS 9 HD
+http://liv3e.click:80/7481458234/7481458234/47797
+#EXTINF:-1 tvg-id="beinsports9.qa" tvg-name="beIN SPORTS 10 HD" tvg-logo="http://163.172.48.123/logos/LogoEVDTV/BeIN/Sport/HD10.png" group-title="BeIN Sports",beIN SPORTS 10 HD
+http://liv3e.click:80/7481458234/7481458234/47796
+#EXTINF:-1 tvg-id="beinsports11.qa" tvg-name="beIN SPORTS 11 HD" tvg-logo="http://163.172.48.123/logos/LogoEVDTV/BeIN/Sport/SportsHD11.png" group-title="BeIN Sports",beIN SPORTS 11 HD
+http://liv3e.click:80/7481458234/7481458234/47795
+#EXTINF:-1 tvg-id="beinsports12.qa" tvg-name="beIN SPORTS 12 HD" tvg-logo="http://163.172.48.123/logos/LogoEVDTV/BeIN/Sport/SportsHD12.png" group-title="BeIN Sports",beIN SPORTS 12 HD
+http://liv3e.click:80/7481458234/7481458234/47794
 
 ###24/7 WORLD NEWS
 
@@ -2663,75 +2744,109 @@ https://happywatch99-lh.akamaihd.net/i/live0916_live@704623/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/UPdXRdp.png" group-title="THAILAND",White Channel
 http://symc-cdn.violin.co.th:1935/tndedge/whitechannel/chunklist.m3u8
 
-#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w185/dwmQ9FyTbgKd62HVzdg34ep5roM.jpg" group-title="Video On Demand", Danur (2017)
-https://www.googleapis.com/drive/v3/files/1GuT9dgin_72vuRxSMmNsKvwwTyVyxxlD?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w185/sp95sUW1ZCyyPZMU8YOtJfo6rBK.jpg" group-title="Video On Demand", Ayat-Ayat Cinta 2 (2017)
-https://www.googleapis.com/drive/v3/files/1nndae8H9aOzKItZboDdeGWusXlhVBlZ4?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+#VOD
+
+#EXTINF: -1 group-title="Video On Demand", 10 Minutes Gone (2019)
+https://w3.bagicdn.pro/drive//hls/990fb8a6754c326f63dc80302bbaa510/990fb8a6754c326f63dc80302bbaa510.m3u8
+#EXTINF: -1 group-title="Video On Demand", 6 Underground(2019)
+https://www.googleapis.com/drive/v3/files/13b_vLwMkFVp3W8HgBi21pt6I91uQjVec?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+#EXTINF: -1 group-title="Video On Demand", Abominable(2019)
+https://www.googleapis.com/drive/v3/files/17sDGwtnSLGrlbxUN8xDTbT8oVkBP5PPV?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+#EXTINF: -1 group-title="Video On Demand", AD Astra(2019)
+https://www.googleapis.com/drive/v3/files/1AnoMhojMIk9nM3J56Q8CaSnauP61A31o?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+#EXTINF: -1 group-title="Video On Demand", Aeronauts(2019)
+https://www.googleapis.com/drive/v3/files/1QxXWuBL8KCKXbwJA0LVaB2NiHyuQar98?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+#EXTINF: -1 group-title="Video On Demand", Aladdin (2019)
+https://w3.bagicdn.pro/drive//hls/edc613216de32e6a9d16aa86d4949ba3/edc613216de32e6a9d16aa86d4949ba3.m3u8
+#EXTINF: -1 group-title="Video On Demand", Aladdin (2019)
+https://www.dropbox.com/s/9p9ir5n323ubkod/Aladdin.2019.720p.BluRay-PusatFilm21.com.mp4?dl=1
+#EXTINF: -1 group-title="Video On Demand", Alien : Covenant(2017)
+https://www.googleapis.com/drive/v3/files/1fVuB4camSZcd8y1wVuzQUwPAmc5pIIpT?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
 #EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w185/nN50NGt2yvIcoklrIzF1UIEF4TH.jpg" group-title="Video On Demand", Ada Apa dengan Cinta? 2 (2016)
 https://www.googleapis.com/drive/v3/files/1k56NY2mPzDG-YlPcqTyq0t4gded0EKuD?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:0 tvg-logo="https://sogafime.com/wp-content/uploads/2018/08/xxeQmKUso0Ff8O1Rz6FrGxqEAD7-152x228.jpg" group-title="Video On Demand", Galih & Ratna (2017)
-https://www.googleapis.com/drive/v3/files/1ZrcEm6DJKrQaba9WoRCxZP1aotVGbgEV?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:0 tvg-logo="" group-title="Video On Demand", KINGSMAN the golden circle
-https://www.googleapis.com/drive/v3/files/13YSPMp_KEUa7iecQ0FmxVOlKC9LoB-z4?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w185/sp95sUW1ZCyyPZMU8YOtJfo6rBK.jpg" group-title="Video On Demand", Ayat-Ayat Cinta 2 (2017)
+https://www.googleapis.com/drive/v3/files/1nndae8H9aOzKItZboDdeGWusXlhVBlZ4?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w185/7WsyChQLEftFiDOVTGkv3hFpyyt.jpg" group-title="Video On Demand", Avengers: Infinity War (2018)
+https://www.googleapis.com/drive/v3/files/1yhH2MrY0QGE3p05JZapql-2mMWuH37dG?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+#EXTINF:-1 tvg-logo="" group-title="Video On Demand", Avengers: Infinity War (2018)
+https://www.googleapis.com/drive/v3/files/1yhH2MrY0QGE3p05JZapql-2mMWuH37dG?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
 #EXTINF:0 tvg-logo="" group-title="Video On Demand", AQUAMAN
 http://cdn0-a.production.vidio.static6.com/uploads/1573867/ets-cahgalon-820a-b900.mp4.m3u8
-#EXTINF:0 tvg-logo="" group-title="Video On Demand", VENOM
-http://cdn0-a.production.vidio.static6.com/uploads/1528359/ets-sehnom-2877-b900.mp4.m3u8
 #EXTINF:0 tvg-logo="" group-title="Video On Demand", BUMBLEE
 http://cdn0-a.production.vidio.static6.com/uploads/1567393/ets-bumb33-6048-b900.mp4.m3u8
-#EXTINF:0 tvg-logo="" group-title="Video On Demand", THE NIGHT COMES FOR US
-http://cdn0-a.production.vidio.static6.com/uploads/1528364/ets-nightcome-68ae-b1600.mp4.m3u8
+#EXTINF:-1  tvg-logo="" group-title="Video On Demand", Bumblebee (2018)
+https://doc-14-48-docs.googleusercontent.com/docs/securesc/ha0ro937gcuc7l7deffksulhg5h7mbp1/9il80il3g5hsnuarvc5udsboj7kpe0us/1549022400000/04567170426910008897/*/1ibzLwHa3eVA5XG2s7-f6f9sJKEk1699i?e=view
+#EXTINF:-1 group-title="Video On Demand", Captain Marvel (2019)
+https://w3.bagicdn.pro/drive//hls/69c90b3db10efca37716e0f58ea4f978/69c90b3db10efca37716e0f58ea4f978.m3u8
+#EXTINF:-1 group-title="Video On Demand", Captive State(2019)
+https://cdn.clonefile.icu/drive/index.php?id=yhoaj%2F6%2FSOEs%2FdJSRXbtYAVsj8t3MJBajUHW0YvvGGW6KtS9AKrbiDIS0ASHkgl8nhCq9uZ%2BudMidHP73eWMpSuF9zqhliPFFMCgRS%2B9oi2qmNm%2BkE0VNPj1WHo3e7sTg%3D&ref=&res=720
+#EXTINF:-1 group-title="Video On Demand", Cold Pursuit(2019)
+https://www.googleapis.com/drive/v3/files/1oSWO6PTNM1nb6TnS6PDXj0C0JdNJqRMG?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w185/dwmQ9FyTbgKd62HVzdg34ep5roM.jpg" group-title="Video On Demand", Danur (2017)
+https://www.googleapis.com/drive/v3/files/1GuT9dgin_72vuRxSMmNsKvwwTyVyxxlD?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+#EXTINF:-1 tvg-logo="" group-title="Video On Demand", Den of Thieves (2018)
+https://upload21.vidoza.net/x4lf7horsnzpvjumxc7euw2e4dggla226fdiova7k5ifyod2qlldkn3o66oa/v.mp4
+#EXTINF:-1 group-title="Video On Demand", Dreadout(2019)
+https://cdn.clonefile.icu/drive/index.php?id=PNw1sQLyfOUCClVQe6BNbQfvuWQWhzq4Vs24%2FZH2UXT%2Bnh46ODR0zx7yo2Fgyog0%2Fa5KCJafCOqynrbF3g4ESTkgGjmAHE7woZ3NIt43EBQzciaQsJHqHUvtr8nGB6sPn2bjlGAD0PN5abCy7xa2%2Bjtbi3372A%2BGvNHCJs3CTPzciJt4mLyk8jt%2BgmrRfxp1SaGc12%2Bpt4vLODuj1s4XWn&ref=https%3A%2F%2Fwww.duniafilm21.fun%2Fdreadout-2019%2F&res=default
+#EXTINF:-1 group-title="Video On Demand", Dumbo(2019)
+https://cdn.clonefile.icu/drive/index.php?id=3UqhbCMEm2QSI4Znspu%2BTgWjaEHvfLLRWyVhRTdJdlHQxD6XSebaWIcqWewKF0Fj1b1%2B%2FAE5VOdsYJ%2BvANObFADrDC3UPK8hJRnzx6hv5AHQfJI44CseKWn8OR0VFvDrs%3D&ref=&res=720
+#EXTINF:-1 group-title="Video On Demand", Fantastic Beasts: The Crimes of Grindelwald(2018)
+https://gdrivecdn.us/drive/index.php?id=E7bh4FOWcYbqG4dgwq2DxwHcS3JkR59%2FdkUGLCM%2Bg2VTDZ8HwhiOyoyZstBRWhXuvn4i5mHHiAO6s0URqdoCi%2FseBoDrDez2ZxMSG5FdEB0sPdRZSewiCO0ieVa0738YU%3D&ref=&res=720
+#EXTINF:-1 group-title="Video On Demand", Fast Furious Presents: Hobbs & Shaw (2019)
+https://w3.bagicdn.pro/drive//hls/461c13af16e9c998bca41e33808d83c4/461c13af16e9c998bca41e33808d83c4.m3u8
+#EXTINF:-1 group-title="Video On Demand", Fast&Furious Presents : Hobbs & Shaw(2019)
+https://www.googleapis.com/drive/v3/files/1vUTJDejYeyg4sPklmsPk6RtzA1u-lMEB?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+#EXTINF:0 tvg-logo="https://sogafime.com/wp-content/uploads/2018/08/xxeQmKUso0Ff8O1Rz6FrGxqEAD7-152x228.jpg" group-title="Video On Demand", Galih & Ratna (2017)
+https://www.googleapis.com/drive/v3/files/1ZrcEm6DJKrQaba9WoRCxZP1aotVGbgEV?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+#EXTINF:-1  tvg-logo="" group-title="Video On Demand", Gintama 2 Rules Are Made to be Broken (2018)
+https://fs7.flix555.com/65mrc6hwbuwgmozpipz6iyetd4pe4ecrdpmi5gndussh2fa2aw7qu2t2fvyq/v.mp4
+#EXTINF:-1 tvg-logo="" group-title="Video On Demand", Hitman (2018)
+https://bond.playercdn.net/87/8/qp2F_GWvQU7miH45hTpY2w/1549128174/181231/210FYPSOX0FOMRQSM2LJL.mp4
+#EXTINF:-1 tvg-logo="" group-title="Video On Demand", IceMan The Time Traveler (2018)
+https://str14.vidoza.net/x4lfqgy7rjzpvjumxbpeuvsd6nbdmomn2juy4emww7cxh7gfv4jaximyabya/v.mp4
+#EXTINF:-1  tvg-logo="" group-title="Video On Demand", Incredibles-2 (2018)
+https://www3762.playercdn.net/87/3/jLu8jA3vQAanhNxRVAaYZA/1549127945/181023/510FWIDE4NOF0C7W7L6RE.mp4
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w185/nb9fc9INMg8kQ8L7sE7XTNsZnUX.jpg" group-title="Video On Demand", Insidious: The Last Key (2018)
+https://www.googleapis.com/drive/v3/files/1px8eLVDzVtnDz5C3ptZcaPt2AfBRw7lp?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+#EXTINF:-1 tvg-logo="" group-title="Video On Demand", Jurassic World: Fallen Kingdom (2018)
+https://www.googleapis.com/drive/v3/files/18hiFiuuQW8IjOWp6VQdJPWZLQ4gPnJ3a?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w185/c9XxwwhPHdaImA2f1WEfEsbhaFB.jpg" group-title="Video On Demand", Jurassic World: Fallen Kingdom (2018)
+https://www.googleapis.com/drive/v3/files/18hiFiuuQW8IjOWp6VQdJPWZLQ4gPnJ3a?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+#EXTINF:-1  tvg-logo="" group-title="Video On Demand", Jumanji: Welcome to the Jungle (2017)
+https://www.googleapis.com/drive/v3/files/1ycWd64JYv_P93jprbTZAJj4twRWJ9WiO?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w185/bXrZ5iHBEjH7WMidbUDQ0U2xbmr.jpg" group-title="Video On Demand", Jumanji: Welcome to the Jungle (2017) 
+https://www.googleapis.com/drive/v3/files/1ycWd64JYv_P93jprbTZAJj4twRWJ9WiO?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+#EXTINF:0 tvg-logo="" group-title="Video On Demand", KINGSMAN the golden circle
+https://www.googleapis.com/drive/v3/files/13YSPMp_KEUa7iecQ0FmxVOlKC9LoB-z4?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+#EXTINF:-1  tvg-logo="" group-title="Video On Demand", Kuntilanak (2018)
+https://www.googleapis.com/drive/v3/files/ha0ro937gcuc7l7deffksulhg5h7mbp1?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
 #EXTINF:0 tvg-logo="" group-title="Video On Demand", MORTAL ENGINES
 http://cdn0-a.production.vidio.static6.com/uploads/1571909/ets-1-20kangmor-a7e4-b900.mp400004.ts
 #EXTINF:0 tvg-logo="" group-title="Video On Demand", MUNAFIK
 http://cdn0-a.production.vidio.static6.com/uploads/1528383/ets-2-20traimuna-9bbb-b1600.mp4.m3u8
-#EXTINF:0 tvg-logo="" group-title="Video On Demand", ROBIN HOOD
-http://dl8.heyserver.in/film/2019-2/Robin.Hood.2018.720p.WEB-DL.MkvCage.mkv
-#EXTINF:-1  tvg-logo="" group-title="Video On Demand", Hitman (2018)
-https://bond.playercdn.net/87/8/qp2F_GWvQU7miH45hTpY2w/1549128174/181231/210FYPSOX0FOMRQSM2LJL.mp4
-#EXTINF:-1  tvg-logo="" group-title="Video On Demand", Incredibles-2 (2018)
-https://www3762.playercdn.net/87/3/jLu8jA3vQAanhNxRVAaYZA/1549127945/181023/510FWIDE4NOF0C7W7L6RE.mp4
-#EXTINF:-1  tvg-logo="" group-title="Video On Demand", Gintama 2 Rules Are Made to be Broken (2018)
-https://fs7.flix555.com/65mrc6hwbuwgmozpipz6iyetd4pe4ecrdpmi5gndussh2fa2aw7qu2t2fvyq/v.mp4
-#EXTINF:-1  tvg-logo="" group-title="Video On Demand", Den of Thieves (2018)
-https://upload21.vidoza.net/x4lf7horsnzpvjumxc7euw2e4dggla226fdiova7k5ifyod2qlldkn3o66oa/v.mp4
-#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w185/xqECHNvzbDL5I3iiOVUkVPJMSbc.jpg" group-title="Video On Demand", The Meg (2018)
-https://www.googleapis.com/drive/v3/files/1BoVh8QUyWJRdqKynEQBHZKDb9Rbc-xSe?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w185/c9XxwwhPHdaImA2f1WEfEsbhaFB.jpg" group-title="Video On Demand", Jurassic World: Fallen Kingdom (2018)
-https://www.googleapis.com/drive/v3/files/18hiFiuuQW8IjOWp6VQdJPWZLQ4gPnJ3a?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w185/7WsyChQLEftFiDOVTGkv3hFpyyt.jpg" group-title="Video On Demand", Avengers: Infinity War (2018)
-https://www.googleapis.com/drive/v3/files/1yhH2MrY0QGE3p05JZapql-2mMWuH37dG?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w185/nb9fc9INMg8kQ8L7sE7XTNsZnUX.jpg" group-title="Video On Demand", Insidious: The Last Key (2018)
-https://www.googleapis.com/drive/v3/files/1px8eLVDzVtnDz5C3ptZcaPt2AfBRw7lp?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w185/bXrZ5iHBEjH7WMidbUDQ0U2xbmr.jpg" group-title="Video On Demand", Jumanji: Welcome to the Jungle (2017) 
-https://www.googleapis.com/drive/v3/files/1ycWd64JYv_P93jprbTZAJj4twRWJ9WiO?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w185/ePyN2nX9t8SOl70eRW47Q29zUFO.jpg" group-title="Video On Demand", Tomb Raider (2018)
-https://www.googleapis.com/drive/v3/files/1Blv4t2kZFYP2R1qNnL-I7ISEbcGlvo0U?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1  tvg-logo="" group-title="Video On Demand",Kuntilanak (2018)
-https://www.googleapis.com/drive/v3/files/ha0ro937gcuc7l7deffksulhg5h7mbp1?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
 #EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w185/1g4s767FX6TZrCfyUe0X24UZHwb.jpg" group-title="Video On Demand", Pengabdi Setan (2017)
 https://www.googleapis.com/drive/v3/files/1holomG35K2jL2c9ZRCIB7IBCjCLgfnyF?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:0 tvg-logo="" group-title="Video On Demand", Skyscraper (2018)
-https://www.googleapis.com/drive/v3/files/1YdrT-WhduFYnK0qtm_7BJ1pwU3MQs4uM?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1  tvg-logo="" group-title="Video On Demand", Jurassic World: Fallen Kingdom (2018)
-https://www.googleapis.com/drive/v3/files/18hiFiuuQW8IjOWp6VQdJPWZLQ4gPnJ3a?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1  tvg-logo="" group-title="Video On Demand", Avengers: Infinity War (2018)
-https://www.googleapis.com/drive/v3/files/1yhH2MrY0QGE3p05JZapql-2mMWuH37dG?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1  tvg-logo="" group-title="Video On Demand", Jumanji: Welcome to the Jungle (2017)
-https://www.googleapis.com/drive/v3/files/1ycWd64JYv_P93jprbTZAJj4twRWJ9WiO?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1  tvg-logo="" group-title="Video On Demand", Tomb Raider (2018)
-https://www.googleapis.com/drive/v3/files/1Blv4t2kZFYP2R1qNnL-I7ISEbcGlvo0U?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1  tvg-logo="" group-title="Video On Demand", Pengabdi Setan (2017)
-https://www.googleapis.com/drive/v3/files/1holomG35K2jL2c9ZRCIB7IBCjCLgfnyF?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1  tvg-logo="" group-title="Video On Demand", Bumblebee (2018)
-https://doc-14-48-docs.googleusercontent.com/docs/securesc/ha0ro937gcuc7l7deffksulhg5h7mbp1/9il80il3g5hsnuarvc5udsboj7kpe0us/1549022400000/04567170426910008897/*/1ibzLwHa3eVA5XG2s7-f6f9sJKEk1699i?e=view
-#EXTINF:-1  tvg-logo="" group-title="Video On Demand", Take Point (2018)
-https://1fiagec.oloadcdn.net/dl/l/N3DWKYWeANnPccBf/moVNo8Q6xZc/tt7156436-take-point-2018-1548776969.mp4?mime=true
 #EXTINF:-1  tvg-logo="" group-title="Video On Demand", Replicas (2018)
 https://doc-0c-9o-docs.googleusercontent.com/docs/securesc/ha0ro937gcuc7l7deffksulhg5h7mbp1/m1it5b5pc451pg0uir4npmjmq9ad0k7r/1549022400000/02922176485714899809/*/1jTFsKxI1GfpevdI535JTiSQnp_UDhSXn?e=view
-#EXTINF:-1  tvg-logo="" group-title="Video On Demand", The Car Road to Revenge (2018)
+#EXTINF:0 tvg-logo="" group-title="Video On Demand", ROBIN HOOD
+http://dl8.heyserver.in/film/2019-2/Robin.Hood.2018.720p.WEB-DL.MkvCage.mkv
+#EXTINF:0 tvg-logo="" group-title="Video On Demand", Skyscraper (2018)
+https://www.googleapis.com/drive/v3/files/1YdrT-WhduFYnK0qtm_7BJ1pwU3MQs4uM?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w185/xqECHNvzbDL5I3iiOVUkVPJMSbc.jpg" group-title="Video On Demand", The Meg (2018)
+https://www.googleapis.com/drive/v3/files/1BoVh8QUyWJRdqKynEQBHZKDb9Rbc-xSe?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+#EXTINF:0 tvg-logo="" group-title="Video On Demand", THE NIGHT COMES FOR US
+http://cdn0-a.production.vidio.static6.com/uploads/1528364/ets-nightcome-68ae-b1600.mp4.m3u8
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w185/ePyN2nX9t8SOl70eRW47Q29zUFO.jpg" group-title="Video On Demand", Tomb Raider (2018)
+https://www.googleapis.com/drive/v3/files/1Blv4t2kZFYP2R1qNnL-I7ISEbcGlvo0U?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+#EXTINF:-1 tvg-logo="" group-title="Video On Demand", Tomb Raider (2018)
+https://www.googleapis.com/drive/v3/files/1Blv4t2kZFYP2R1qNnL-I7ISEbcGlvo0U?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+#EXTINF:-1 tvg-logo="" group-title="Video On Demand", Pengabdi Setan (2017)
+https://www.googleapis.com/drive/v3/files/1holomG35K2jL2c9ZRCIB7IBCjCLgfnyF?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+#EXTINF:-1 tvg-logo="" group-title="Video On Demand", Take Point (2018)
+https://1fiagec.oloadcdn.net/dl/l/N3DWKYWeANnPccBf/moVNo8Q6xZc/tt7156436-take-point-2018-1548776969.mp4?mime=true
+#EXTINF:-1 tvg-logo="" group-title="Video On Demand", The Car Road to Revenge (2018)
 https://id.terafile.net/the-car-road-to-revenge-2019-360p.mp4
-#EXTINF:-1  tvg-logo="" group-title="Video On Demand", The Legend of Secret Pass (2019)
+#EXTINF:-1 tvg-logo="" group-title="Video On Demand", The Legend of Secret Pass (2019)
 https://id.terafile.net/the-legend-of-secret-pass2019-360p.mp4
-#EXTINF:-1  tvg-logo="" group-title="Video On Demand", IceMan The Time Traveler (2018)
-https://str14.vidoza.net/x4lfqgy7rjzpvjumxbpeuvsd6nbdmomn2juy4emww7cxh7gfv4jaximyabya/v.mp4
+#EXTINF:0 tvg-logo="" group-title="Video On Demand", VENOM
+http://cdn0-a.production.vidio.static6.com/uploads/1528359/ets-sehnom-2877-b900.mp4.m3u8
