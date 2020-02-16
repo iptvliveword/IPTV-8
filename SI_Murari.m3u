@@ -712,7 +712,7 @@ http://mn-nl.mncdn.com/ifilm/smil:ifilmfa2.smil/chunklist_b1096000.m3u8
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/tvfanon6528/images/5/53/Rai_Premium_%282017-.n.v.%29.png/revision/latest/scale-to-width-down/1000?cb=20170627121832" group-title="Movie", Rai Premium
 http://b2everyrai-lh.akamaihd.net/i/raipremium_1@181837/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.nowonsocmed.com/iptv/logo/raimovie.png" group-title="Movie", Rai Movie
+#EXTINF:-1 tvg-logo="http://www.logovaults.com/stock_thumb/big-rai-movie-OTkwNg==.jpg" group-title="Movie", Rai Movie
 http://b2everyrai-lh.akamaihd.net/i/raimovie_1@67348/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/7/70/REDBYHBO.png/revision/latest?cb=20160516085732" group-title="Movie", Red by HBO
