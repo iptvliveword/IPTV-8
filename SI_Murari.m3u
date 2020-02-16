@@ -1251,32 +1251,44 @@ https://playoutengine.sinclairstoryline.com/playout/9f87522c-5a0e-4ff4-b82c-d556
 #EXTINF:-1 tvg-logo="" group-title="SPORT", Tennis 2
 https://playoutengine.sinclairstoryline.com/playout/f2f8b269-dd85-4434-bdd3-b3a64ca9cd60/g.m3u8
 
-#EXTINF:-1 tvg-logo="http://a7lakora.live/channel/images/be5.png" group-title="BEINSPORT",beinsportHD5
-http://qualitystreamz.guru:25461/Rolling67453/Thunr8463/2578
-#EXTINF:-1 tvg-logo="http://a7lakora.live/channel/images/be6.png" group-title="BEINSPORT",beinsporthd6
-http://qualitystreamz.guru:25461/Rolling67453/Thunr8463/2579
-#EXTINF:-1 tvg-logo="http://a7lakora.live/channel/images/be7.png" group-title="BEINSPORT",beinsport7hd
-http://qualitystreamz.guru:25461/Rolling67453/Thunr8463/2580
-#EXTINF:-1 tvg-logo="http://a7lakora.live/channel/images/be8.png" group-title="BEINSPORT",beinsport8hd
-http://qualitystreamz.guru:25461/Rolling67453/Thunr8463/2581
-#EXTINF:-1 tvg-logo="http://a7lakora.live/channel/images/be9.png" group-title="BEINSPORT",beinsport9hd
-http://qualitystreamz.guru:25461/Rolling67453/Thunr8463/2582
-#EXTINF:-1 tvg-logo="https://i.ibb.co/1dv2cPv/BE10.png" group-title="BEINSPORT",beinsport10hd
-http://qualitystreamz.guru:25461/Rolling67453/Thunr8463/2583
-#EXTINF:-1 tvg-logo="https://i.ibb.co/tKbNsKr/BE12.png" group-title="BEINSPORT",beinsporthd2
+
+#EXTINF:-1 tvg-logo="" group-title="BEINSPORT", beINSPORTS 2 HD
 http://qualitystreamz.guru:25461/Rolling67453/Thunr8463/2574
-#EXTINF:-1 tvg-logo="https://tuguiatv.net/wp-content/uploads/channels/logos/beINSports3.us.png" group-title="BEINSPORT",beinsport 3
+
+#EXTINF:-1 tvg-logo="https://tuguiatv.net/wp-content/uploads/channels/logos/beINSports3.us.png" group-title="BEINSPORT", beINSPORTS 3
 http://qualitystreamz.guru:25461/Rolling67453/Thunr8463/2576
-#EXTINF:-1 tvg-logo="https://tuguiatv.net/wp-content/uploads/channels/logos/beINSports4.us.png" group-title="BEINSPORT",beinsport 4
+
+#EXTINF:-1 tvg-logo="https://tuguiatv.net/wp-content/uploads/channels/logos/beINSports4.us.png" group-title="BEINSPORT", beINSPORTS 4
 http://qualitystreamz.guru:25461/Rolling67453/Thunr8463/2591
-#EXTINF:-1 tvg-logo="https://tuguiatv.net/wp-content/uploads/channels/logos/beINSports5.us.png" group-title="BEINSPORT",beinsport 5
+
+#EXTINF:-1 tvg-logo="https://tuguiatv.net/wp-content/uploads/channels/logos/beINSports5.us.png" group-title="BEINSPORT", beINSPORTS 5
 http://qualitystreamz.guru:25461/Rolling67453/Thunr8463/2590
-#EXTINF:-1 tvg-logo="https://tuguiatv.net/wp-content/uploads/channels/logos/beINSports6.us.png" group-title="BEINSPORT",beinsport 6
+
+#EXTINF:-1 tvg-logo="http://a7lakora.live/channel/images/be5.png" group-title="BEINSPORT", beINSPORTS 5 HD
+http://qualitystreamz.guru:25461/Rolling67453/Thunr8463/2578
+
+#EXTINF:-1 tvg-logo="https://tuguiatv.net/wp-content/uploads/channels/logos/beINSports6.us.png" group-title="BEINSPORT", beINSPORTS 6
 http://qualitystreamz.guru:25461/Rolling67453/Thunr8463/2589
-#EXTINF:-1 tvg-logo="https://tuguiatv.net/wp-content/uploads/channels/logos/beINSports7.us.png" group-title="BEINSPORT",beinsport 7
+
+#EXTINF:-1 tvg-logo="http://a7lakora.live/channel/images/be6.png" group-title="BEINSPORT", beINSPORTS 6 HD
+http://qualitystreamz.guru:25461/Rolling67453/Thunr8463/2579
+
+#EXTINF:-1 tvg-logo="https://tuguiatv.net/wp-content/uploads/channels/logos/beINSports7.us.png" group-title="BEINSPORT", beINSPORTS 7
 http://qualitystreamz.guru:25461/Rolling67453/Thunr8463/2588
-#EXTINF:-1 tvg-logo="https://tuguiatv.net/wp-content/uploads/channels/logos/beINSports8.us.png" group-title="BEINSPORT",beinsport 8
+
+#EXTINF:-1 tvg-logo="http://a7lakora.live/channel/images/be7.png" group-title="BEINSPORT", beINSPORTS 7 HD
+http://qualitystreamz.guru:25461/Rolling67453/Thunr8463/2580
+#EXTINF:-1 tvg-logo="https://tuguiatv.net/wp-content/uploads/channels/logos/beINSports8.us.png" group-title="BEINSPORT", beINSPORTS 8
 http://qualitystreamz.guru:25461/Rolling67453/Thunr8463/2587
+
+#EXTINF:-1 tvg-logo="http://a7lakora.live/channel/images/be8.png" group-title="BEINSPORT", beINSPORTS 8 HD
+http://qualitystreamz.guru:25461/Rolling67453/Thunr8463/2581
+
+#EXTINF:-1 tvg-logo="http://a7lakora.live/channel/images/be9.png" group-title="BEINSPORT", beINSPORTS 9 HD
+http://qualitystreamz.guru:25461/Rolling67453/Thunr8463/2582
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/1dv2cPv/BE10.png" group-title="BEINSPORT", beINSPORTS 10 HD
+http://qualitystreamz.guru:25461/Rolling67453/Thunr8463/2583
 
 
 ###24/7 WORLD NEWS
