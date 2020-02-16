@@ -628,10 +628,10 @@ http://ws.flv.nimo.tv/live/su1599512427559r6319ab6314a165d28a228bf5917d1fe0_high
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/6/60/AXN_2015_logo.png" group-title="Movie", AXN
 http://210.210.155.66/h/h141/02.m3u8
 
-#EXTINF:-1 tvg-logo="http://mhdtvworld.com/wp-content/uploads/2018/12/B4U_MOVIES.png" group-title="Movie", B4U Movies
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/54/B4U_Movies_logo.png" group-title="Movie", B4U Movies
 http://103.199.161.254/Content/b4umovies/Live/Channel(B4UMovies)/Stream(01)/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://mhdtvworld.com/wp-content/uploads/2019/01/b4u_plus_ae.png" group-title="Movie", B4U Plus
+#EXTINF:-1 tvg-logo="https://arabianmarketer.ae/wp-content/uploads/2017/07/B4U-plus-logo.jpg" group-title="Movie", B4U Plus
 http://livecdnh3.tvanywhere.ae/hls/b4uplus/04.m3u8
 
 #EXTINF:-1 tvg-language="Indonesian" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/a/af/CMC_English_full_color_black_text_2.jpg/800px-CMC_English_full_color_black_text_2.jpg" group-title="Movie", Celestial Movie
@@ -655,9 +655,6 @@ http://203.153.218.28:9981/stream/channelid/1910872088?ticket=9527FC229C33A71FBA
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/f/f0/Fox_Action_Movies.png/revision/latest?cb=20190313090329" group-title="Movie", Fox Action Movies Thai
 https://www.livedoomovie.com/02_FoxActionHD_720p/chunklist.m3u8
 
-#EXTINF:-1 tvg-logo="https://media.merchantcircle.com/28137276/FOX%20fire%20logo%20final_full.jpeg" group-title="Movie", Fox Fire Movies
-http://95.170.215.118:80/hls/m3u8/FOX-ACTION-PP-SS-A.m3u8
-
 #EXTINF:-1 tvg-logo="https://assetsmysky.blob.core.windows.net/assetsmysky/production/plans-and-bundles/1562578594_fox-crime-lg.png" group-title="Movie", Fox Crime Movies
 https://liveanevia.mncnow.id/live/eds/FoxCrime/sa_hls/FoxCrime-avc1_2499968=10-mp4a_98800_eng=3.m3u8
 
@@ -669,9 +666,6 @@ http://203.153.218.28:9981/stream/channelid/756717990?ticket=B63A8893B7D332F2F7A
 
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/id/FX.id.png" group-title="Movie", FX 
 https://liveanevia.mncnow.id/live/eds/FX/sa_hls/FX-avc1_2499968=10-mp4a_98800_eng=3.m3u8
-
-#EXTINF:0 tvg-logo="https://i.ibb.co/BCfPHWv/23916751-1993751064204944-6517766588008048417-o.jpg" group-title="Movie", Galaxy Movies
-https://dl.dropbox.com/s/8s2jwrvobrtx05m/Galaxy.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/800px-HBO_logo.svg.png" group-title="Movie", HBO
 http://95.170.215.118/hls/m3u8/HBO.m3u8
@@ -735,9 +729,6 @@ https://liveanevia.mncnow.id/live/eds/WarnerTV/sa_hls/WarnerTV-avc1_1000000=16-m
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/zGsgKkrg/Waku-Waku-Japan.png" group-title="Movie", Waku-Waku Japan
 https://liveanevia.mncnow.id/live/eds/WakuWakuJapan/sa_hls/WakuWakuJapan-avc1_2499968=11-mp4a_98800_eng=3.m3u8
-
-#EXTINF:0 tvg-logo="https://mncchannels.com/timthumb.php?zc=3&w=378&h=129&src=/app/webroot/files/logo/1577787251_logo_Vision%20Prime-01.png" group-title="Movie", Vision Prime
-http://66.42.109.249:1234/gopentvfree/KJH21YT1mAS9123KJhajkg1i9382/133
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XUVOX9K.png" group-title="Movie", Zee Bioskop 
 https://livetvhooq.akamaized.net/ed9f674616594d96bbe00f93ab8d7672/eu-central-1/5493668622001/profile_3/chunklist.m3u8?hdnts=st=1576169705~exp=9007200830910696~acl=/ed9f674616594d96bbe00f93ab8d7672/*/profile_3/chunklist.m3u8*~hmac=c464efdac528cb4b0e4c27ada7a0480ce7bce6030e39ab45e36833b4bc9b9fbd
