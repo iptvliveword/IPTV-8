@@ -709,10 +709,10 @@ http://mn-nl.mncdn.com/ifilm/smil:ifilmfa2.smil/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2UQCl7M.png" group-title="Movie", iFILM 2 HD
 http://mn-nl.mncdn.com/ifilm/smil:ifilmfa2.smil/chunklist_b1096000.m3u8
 
-#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/tvfanon6528/images/5/53/Rai_Premium_%282017-.n.v.%29.png/revision/latest/scale-to-width-down/1000?cb=20170627121832" group-title="Movie", Rai Premium
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Rai_Premium_HD_-_Logo_2017.svg/1280px-Rai_Premium_HD_-_Logo_2017.svg.png" group-title="Movie", Rai Premium
 http://b2everyrai-lh.akamaihd.net/i/raipremium_1@181837/master.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.logovaults.com/stock_thumb/big-rai-movie-OTkwNg==.jpg" group-title="Movie", Rai Movie
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Rai_Movie_HD_-_Logo_2017.svg/1280px-Rai_Movie_HD_-_Logo_2017.svg.pngg" group-title="Movie", Rai Movie
 http://b2everyrai-lh.akamaihd.net/i/raimovie_1@67348/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/7/70/REDBYHBO.png/revision/latest?cb=20160516085732" group-title="Movie", Red by HBO
@@ -1250,6 +1250,34 @@ https://playoutengine.sinclairstoryline.com/playout/9f87522c-5a0e-4ff4-b82c-d556
 
 #EXTINF:-1 tvg-logo="" group-title="SPORT", Tennis 2
 https://playoutengine.sinclairstoryline.com/playout/f2f8b269-dd85-4434-bdd3-b3a64ca9cd60/g.m3u8
+
+#EXTINF:-1 tvg-logo="http://a7lakora.live/channel/images/be5.png" group-title="BEINSPORT",beinsportHD5
+http://qualitystreamz.guru:25461/Rolling67453/Thunr8463/2578
+#EXTINF:-1 tvg-logo="http://a7lakora.live/channel/images/be6.png" group-title="BEINSPORT",beinsporthd6
+http://qualitystreamz.guru:25461/Rolling67453/Thunr8463/2579
+#EXTINF:-1 tvg-logo="http://a7lakora.live/channel/images/be7.png" group-title="BEINSPORT",beinsport7hd
+http://qualitystreamz.guru:25461/Rolling67453/Thunr8463/2580
+#EXTINF:-1 tvg-logo="http://a7lakora.live/channel/images/be8.png" group-title="BEINSPORT",beinsport8hd
+http://qualitystreamz.guru:25461/Rolling67453/Thunr8463/2581
+#EXTINF:-1 tvg-logo="http://a7lakora.live/channel/images/be9.png" group-title="BEINSPORT",beinsport9hd
+http://qualitystreamz.guru:25461/Rolling67453/Thunr8463/2582
+#EXTINF:-1 tvg-logo="https://i.ibb.co/1dv2cPv/BE10.png" group-title="BEINSPORT",beinsport10hd
+http://qualitystreamz.guru:25461/Rolling67453/Thunr8463/2583
+#EXTINF:-1 tvg-logo="https://i.ibb.co/tKbNsKr/BE12.png" group-title="BEINSPORT",beinsporthd2
+http://qualitystreamz.guru:25461/Rolling67453/Thunr8463/2574
+#EXTINF:-1 tvg-logo="https://tuguiatv.net/wp-content/uploads/channels/logos/beINSports3.us.png" group-title="BEINSPORT",beinsport 3
+http://qualitystreamz.guru:25461/Rolling67453/Thunr8463/2576
+#EXTINF:-1 tvg-logo="https://tuguiatv.net/wp-content/uploads/channels/logos/beINSports4.us.png" group-title="BEINSPORT",beinsport 4
+http://qualitystreamz.guru:25461/Rolling67453/Thunr8463/2591
+#EXTINF:-1 tvg-logo="https://tuguiatv.net/wp-content/uploads/channels/logos/beINSports5.us.png" group-title="BEINSPORT",beinsport 5
+http://qualitystreamz.guru:25461/Rolling67453/Thunr8463/2590
+#EXTINF:-1 tvg-logo="https://tuguiatv.net/wp-content/uploads/channels/logos/beINSports6.us.png" group-title="BEINSPORT",beinsport 6
+http://qualitystreamz.guru:25461/Rolling67453/Thunr8463/2589
+#EXTINF:-1 tvg-logo="https://tuguiatv.net/wp-content/uploads/channels/logos/beINSports7.us.png" group-title="BEINSPORT",beinsport 7
+http://qualitystreamz.guru:25461/Rolling67453/Thunr8463/2588
+#EXTINF:-1 tvg-logo="https://tuguiatv.net/wp-content/uploads/channels/logos/beINSports8.us.png" group-title="BEINSPORT",beinsport 8
+http://qualitystreamz.guru:25461/Rolling67453/Thunr8463/2587
+
 
 ###24/7 WORLD NEWS
 
