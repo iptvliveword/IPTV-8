@@ -964,29 +964,14 @@ http://slive.ytn.co.kr:1935/dmb/ydlive_20140419_1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/Animal_Planet.png" group-title="Knowledge", Animal Planet
 http://203.153.218.28:9981/stream/channelid/1943600623?ticket=694FA36A0D756D8572C705243A10521FAF796351&profile=pass
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/44/BBC_Earth_logo.png" group-title="Knowledge", BBC Earth
-https://liveanevia.mncnow.id/live/eds/BBCEarth/sa_hls/BBCEarth-avc1_1000000=10-mp4a_98800_eng=5.m3u8
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1b/Blue_Ocean_Network_logo.png" group-title="Knowledge", Blue Ocean Network TV
 http://188.35.9.5:10007/stolen/122v/parasite.install
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/CGTN_Documentary_logo.png" group-title="Knowledge", CGTN Documentary
-http://210.210.155.35/qwr9ew/s/s20/index.m3u8
 
 #EXTINF:-1,tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2019_Discovery_logo.svg/800px-2019_Discovery_logo.svg.png" group-title="Knowledge", Discovery Channel 
 http://203.153.218.28:9981/stream/channelid/1151931232?ticket=D05F5F5AB713CBADFBFABB642E4F37D5004BB751&profile=pass
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2019_Discovery_logo.svg/800px-2019_Discovery_logo.svg.png" group-title="Knowledge", Discovery Channel (Backup)
-http://edge.linknetott.swiftserve.com/channelgroup1/cg013production/ch29/02.m3u8
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/DocuBox_HD_logo.png" group-title="Knowledge", Docubox
 http://livecdnh3.tvanywhere.ae/hls/docubox/05.m3u8
-
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/2da7b7_f4d86a831d784aecb4983d1e62c22a66~mv2.gif" group-title="Knowledge", Fish Channel
-http://161.0.157.8/PLTV/88888888/224/3221226811/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/3/3c/Foodie.png/revision/latest?cb=20190207074112" group-title="Knowledge", Foodie Channel
-http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:foodiee/chunklist_b2288000.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/0/07/History_channel_us.png" tvg-language="Indonesian"  group-title="Knowledge", History Channel
 http://203.153.218.28:9981/stream/channelid/1868154562?ticket=21CAD98B63EE6B1D16AFD5B33F7C68F48FA445CD&profile=pass
@@ -1029,30 +1014,6 @@ https://livetvhooq.akamaized.net/8eb1108c494240ef94c5c8ae7e572c29/eu-central-1/5
 
 ###Sport
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/7PTzTtQx/ad-sport-1.png" group-title="SPORT", Ad Sports 1 SD
-http://adtv.ercdn.net:80/adsport1/adsport1.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/7PTzTtQx/ad-sport-1.png" group-title="SPORT", Ad Sports 1 HD
-http://adtv.ercdn.net/adsport1/adsport1_720p.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/cCY8y68K/ad-sport-2.png" group-title="SPORT", Ad Sports 2 SD
-http://adtv.ercdn.net/adsport2/adsport2.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/cCY8y68K/ad-sport-2.png" group-title="SPORT", Ad Sports 2 HD
-http://adtv.ercdn.net/adsport2/adsport2_720p.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/tC3VBZjw/ad-sport-3.png" group-title="SPORT", Ad Sports 3 SD
-https://tvae.ercdn.net/adsport3/adsport3.m3u8?v=856623187
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/tC3VBZjw/ad-sport-3.png" group-title="SPORT", Ad Sports 3 HD
-http://adtv.ercdn.net/adsport3/adsport3_720p.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYMDjjZn/ad-sport-4.png" group-title="SPORT", Ad Sports 4 SD
-https://tvae.ercdn.net/adsport4/adsport4.m3u8?v=839379210
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYMDjjZn/ad-sport-4.png" group-title="SPORT", Ad Sports 4 HD
-http://adtv.ercdn.net/adsport4/adsport4_720p.m3u8
-
 #EXTINF:-1 tvg-logo="" group-title="SPORT", Al Kass Sports 1
 http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass1
 
@@ -1089,38 +1050,17 @@ http://95.170.215.101/hls/m3u8/Bein-Sport-HD1.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_bein1_small1.png?v=2.0.0.13" group-title="SPORT", beIN Sports 1 HD
 https://www.livedoomovie.com/02_epl1_720p/chunklist.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_bein1_small1.png?v=2.0.0.13" group-title="SPORT", beIN Sports 1 Indonesia
-http://157.119.56.249:2019/live/gratis/diemdiemaja/131.ts
-
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_bein2_small1.png?v=2.0.0.13" group-title="SPORT", beIN Sports 2 HD
 https://www.livedoomovie.com/02_epl2_720p/chunklist.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_bein3_small1.png?v=2.0.0.13" group-title="SPORT", beIN Sports 3 Indonesia
-http://157.119.56.249:2019/live/gratis/diemdiemaja/129.ts
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/QCHGT2CG/bein-sport-extra.png" group-title="SPORT", BeinSport Xtra 
 https://bein-xtra-roku.amagi.tv/ssai/amagi_hls_data_beinAAAAA-beinxtra/CDN/1920x1080_5640800/index.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="SPORT", Boxing
-https://edge5.xmediaget.com/hls-live/xmlive/_definst_/2806283/2806283.m3u8?refId=1
-
-#EXTINF:-1 tvg-logo="" group-title="SPORT" , BTSPORT 1
-http://sportbox.ws/lba/MjAwZDUyYmYwMzhiZjZjZTFiYWM4NzM3YzE2ZTQ5YzM=/g2/btuk1.m3u8?token=MjAwZDUyYmYwMzhiZjZjZTFiYWM4NzM3YzE2ZTQ5YzM=&id=ZmE2YzhhZjk3NmZlYjc5NTRhYmY4YTczYWRiMDBkNWE=&vip=1574769335&dip=MDc3Y2U2YWEyMjIyM2QyZGYwYTQ5MmJmYzM2NzFhYjY=&pip=49.49.208.63&hip=YzA4MzhhMjhkYjE3YWFkMGE4YWExMWM4NzU4ZDQ4ZTc=
- 
-#EXTINF:-1 tvg-logo="" group-title="SPORT", BTSPORT 3
-http://goool7.ws/lba/ZDRmM2IxODI1N2ViMmVkOWY2OGI3ZTgyNTA5MGQxZGE=/g2/3btsporteu.m3u8?token=ZDRmM2IxODI1N2ViMmVkOWY2OGI3ZTgyNTA5MGQxZGE=&id=ZmU4NTk2ODQzYzU3NDMzMjIyOTQ4NmQyNjRhZmUzZmY=&vip=1574769513&dip=YzU0YTJkY2ZlZGI2NjI5MGI5ODc1YmExMjBmNGU1ZmU=&pip=49.49.208.63&hip=YzA4MzhhMjhkYjE3YWFkMGE4YWExMWM4NzU4ZDQ4ZTc=
-
 #EXTINF:-1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/uk-btsport1.jpg" group-title="SPORT", BT Sport 1 HD
 https://www.livedoomovie.com/02_BTSPORTHD_1_720p/chunklist.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/uk-btsport1.jpg" group-title="SPORT", BT Sport 1 HD (Backup)
-https://sportbox.ws/lba/123/g2/btuk1.m3u8
-
 #EXTINF:-1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/uk-btsport2.jpg" group-title="SPORT", BT Sport 2 HD
 https://www.livedoomovie.com/02_BTSPORTHD_2_720p/chunklist.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/uk-btsport2.jpg" group-title="SPORT", BT Sport 2 HD (Backup)
-https://sportbox.ws/lba/123/g3/ukbt2sport.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/uk-btsport1.jpg" group-title="SPORT", BT SPORT 1 (Extra Server)
 http://95.170.215.120/hls/m3u8/BT-Sport-1HD.m3u8
@@ -1133,15 +1073,6 @@ https://dl.dropbox.com/s/vcda69kz7mnio6e/Champ1.m3u8?dl=0
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/9FWd9Y3z/champions-tv-2.png" group-title="SPORT", Champions tv 2
 https://dl.dropbox.com/s/znpvtme2xmrlij2/Champ2.m3u8?dl=0
-
-#EXTINF:-1 tvg-logo="" group-title="SPORT", CCTV 5+
-http://111.40.205.87/PLTV/88888888/224/3221225689/index.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="SPORT", CCTV 5+ (Backup)
-http://huaweicdn.hb.chinamobile.com/PLTV/2510088/224/3221225906/3.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="SPORT", CT sport HD
-http://185.150.27.124:9981/stream/channelid/1162813076?profile=pass
 
 #EXTINF:-1 tvg-logo="" group-title="SPORT", DD sportS
 http://103.199.161.254/Content/ddsports/Live/Channel(DDSPORTS)/index.m3u8
@@ -1158,19 +1089,10 @@ http://dmisvthvll.cdn.mangomolo.com/events/smil:events.smil/chunklist_b1600000.m
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/QCLHbsnj/dubai-racing.png" group-title="SPORT", Dubai Racing 2 HD (ARABIC & EN)
 http://dmithrvll.cdn.mangomolo.com/dubairacing/smil:dubairacing.smil/chunklist_b1600000.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/QCLHbsnj/dubai-racing.png" group-title="SPORT", Dubai Sports 1 HD (ARABIC & EN)
-http://dmiftvll.mangomolo.com/dubaisports/smil%3Adubaisports.smil/chunklist_b1750000.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/QCLHbsnj/dubai-racing.png" group-title="SPORT", Dubai Sports 2 HD (ARABIC & EN)
-http://dmiftvll.mangomolo.com/dubaisportshd/smil%3Adubaisportshd.smil/chunklist_b2000000.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/QCLHbsnj/dubai-racing.png" group-title="SPORT", Dubai Sports 3 HD (ARABIC & EN )
-http://dmiftvll.mangomolo.com/dubaisportshd5/smil%3Adubaisportshd5.smil/chunklist_b2000000.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/RVXcLJ9d/Egg-Network.png" group-title="SPORT", Egg Network
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/de/EGG_Network_Logo_used_since_2016.png" group-title="SPORT", Egg Network
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch319)/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/RVXcLJ9d/Egg-Network.png" group-title="SPORT", Egg Network (Backup)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/de/EGG_Network_Logo_used_since_2016.png" group-title="SPORT", Egg Network (Backup)
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch319)/02.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/ELEVEN_SPORTS.png/1200px-ELEVEN_SPORTS.png" group-title="SPORT", ELEVEN SPORT 1
@@ -1185,65 +1107,20 @@ http://95.170.215.118/hls/m3u8/EURO-Sport-1.m3u8
 #EXTINF:-1 tvg-logo="" group-title="SPORT", Eurosport 2
 http://95.170.215.118/hls/m3u8/EURO-Sport-2.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.fightsports.tv/wp-content/uploads/fightsports280.jpg" group-title="SPORT", Fight Sport
-http://cdnak19.cast4u.info/channels/4/10804.m3u8?fluxustv.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="SPORT", Fight Box
-http://plexonline.club:25461/live/thecrow1098/sinxxx/30.ts
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/05m6NMbj/fight-sport.png" ggroup-title="SPORT", Fight Sports ID
-https://liveanevia.mncnow.id/live/eds/FightSports/sa_hls/FightSports-avc1_2499968=10-mp4a_98800_eng=5.m3u8
-
-#EXTINF:-1tvg-logo="https://i.imgur.com/wB9CkPG.jpg" tvg-language="English"  group-title="SPORT", Fight Sports
-http://210.210.155.35/uq2663/h/h05/index.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="SPORT", Fight Time
-http://plexonline.club:25461/live/thecrow1098/sinxxx/4.ts
-
-#EXTINF:-1 tvg-logo="" group-title="SPORT", Football
-http://109.248.236.41:4433/udp/238.1.1.14:1234
-
-#EXTINF:-1 tvg-logo="" group-title="SPORT", Football 1 (1+)
-http://83.246.248.212:81/udp/239.54.7.153:1224
-
-#EXTINF:-1 tvg-logo="" group-title="SPORT", Football 1 (UA)
-http://193.93.216.50:8000/play/Football1/index.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="SPORT", Football 2 (UA)
-http://193.93.216.50:8000/play/Football2/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_foxsports1_small.png?v=2.0.0.13" group-title="SPORT", Fox Sport 1 HD
 https://www.livedoomovie.com/02_foxsport_720p/chunklist.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_foxsports1_small.png?v=2.0.0.13" group-title="SPORT", Fox Sport 1 ID
-https://liveanevia.mncnow.id/live/eds/FOXSports/sa_hls/FOXSports-avc1_2499968=10-mp4a_98800_eng=3.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_foxsports2_small.png?v=2.0.0.13" group-title="SPORT", Fox Sport 2 HD
 https://www.livedoomovie.com/02_FoxSport2_TH_720p/chunklist.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_foxsports2_small.png?v=2.0.0.13" group-title="SPORT", Fox Sport 2 ID
-https://liveanevia.mncnow.id/live/eds/FoxSports2/sa_hls/FoxSports2-avc1_2499968=10-mp4a_98800_eng=3.m3u8
-
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_foxsports3_small.png?v=2.0.0.13" group-title="SPORT", Fox Sport 3 HD
 https://www.livedoomovie.com/02_FoxSport3_TH_720p/chunklist.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_foxsports3_small.png?v=2.0.0.13" group-title="SPORT", Fox Sport 3 ID
-https://liveanevia.mncnow.id/live/eds/FoxSports3/sa_hls/FoxSports3-avc1_2499968=10-mp4a_98800_eng=5.m3u8
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcT9S8F3AzeqzCIMmlHn4AZMlOd06zYnRAublIaPitDOAoaUHafi" group-title="SPORT", Fox Sports
-http://198.255.23.18:2095/streams/56_.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Kxem8ae.jpg" tvg-url="http://i.mjh.nz/nzau/epg.xml.gz" tvg-language="English" group-title="SPORT", Fox Sports News
 https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master1280x720.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="SPORT", Fox Sports Racing USA
-http://161.0.157.50/PLTV/88888888/224/3221226181/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://edge.thailandworldmasters.com/wp-content/uploads/2013/04/Golf-Channel-Thailand-HD-1.png" group-title="SPORT", Golf Channel HD
 https://www.livedoomovie.com/02_golfhd_720p/chunklist.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="SPORT", Impact Wrestling HD USA
-http://stitcher.pluto.tv/stitch/hls/channel/59b722526996084038c01e1b/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=7&deviceId=-&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
 
 #EXTINF:-1 tvg-logo="" group-title="SPORT", Lazio Channel (IT)
 https://1.ip2stream.icu/live/lazio_channel/chunks.m3u8
