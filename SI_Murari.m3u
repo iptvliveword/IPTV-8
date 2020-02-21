@@ -460,20 +460,11 @@ http://wowza58.indostreamserver.com:1935/wesaltv/live/chunklist_w1050078582.m3u8
 
 ###KIDS
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/jCYDqv4t/3-ABN-Kids.png" group-title="KIDS",3ABN Kids
-https://moiptvhls-i.akamaihd.net/hls/live/652318/secure/master.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="KIDS", 50
-http://210.210.155.35/qwr9ew/s/s50/index2.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/NqhClyl.png" group-title="KIDS", Animax
 https://liveanevia.mncnow.id/live/eds/Animax/sa_hls/Animax-avc1_2499968=11-mp4a_98800_eng=3.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/y1LQk44.png" group-title="KIDS", Aniplus HD
-http://210.210.155.35/dr9445/h/h02/01.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/y1LQk44.png" group-title="KIDS", Aniplus SD
-http://45.126.83.51/dr9445/h/h02/index.m3u8
+https://cdn-accedo-01.akamaized.net:443/Content/DASH/Live/channel(386e35b2-14f8-4368-92d7-010d78deaf75)/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/45/BabyTV.png" group-title="KIDS", Baby TV
 http://livecdnh1.tvanywhere.ae:80/hls/baby/index.m3u8
@@ -857,8 +848,8 @@ http://livecdnh2.tvanywhere.ae/hls/wanasah/04.m3u8
 #EXTINF:-1 tvg-logo="https://hrchannel.com/images/Watermark_HR_channel.png" group-title="Entertainment", +HR Channel
 http://mediaworks-i.akamaihd.net/hls/live/220435/3812193411001/3news_live/master_1500.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/PJK26R4J/Asian-food.png" group-title="Entertainment", Asian Food Channel
-https://liveanevia.mncnow.id/live/eds/AFC/sa_hls/AFC-avc1_2499968=6-mp4a_98800_eng=3.m3u8
+#EXTINF:-1 tvg-logo="https://logos-download.com/wp-content/uploads/2017/03/AFC_Asian_Food_Channel_logo.png" group-title="Entertainment", Asian Food Channel
+
 
 #EXTINF:-1 tvg-logo="https://www.freepnglogos.com/uploads/cbs-png-logo/cbs-company-png-logo-2.png" group-title="Entertainment", CBS
 http://161.0.157.50/PLTV/88888888/224/3221227041/index.m3u8
