@@ -853,35 +853,12 @@ http://livecdnh2.tvanywhere.ae/hls/wanasah/04.m3u8
 
 ###Entertainment
 
-#EXTINF:-1 tvg-logo="" group-title="Entertainment", &TV
-http://pockettv.xyz/api/zee.m3u8?c=andtvhd
 
-#EXTINF:-1 tvg-logo="" group-title="Entertainment", 9COLOR
-http://122.38.74.172:9981/stream/channelid/453759449?ticket=6EC0712FACCBA3D6CE6901B4D2D6B89C2B3C7B0D&profile=pass
-
-#EXTINF:-1  tvg-logo="https://i.pinimg.com/originals/b4/60/b6/b460b602af2cc59b945811a87e9eb405.jpg" group-title="Entertainment", AFC
-https://delivery.macan.live/stream/id_animalplanet/index.m3u8?token=mSgcNbMn
-
-#EXTINF:-1 tvg-logo="" group-title="Entertainment", ANU
+#EXTINF:-1 tvg-logo="https://hrchannel.com/images/Watermark_HR_channel.png" group-title="Entertainment", +HR Channel
 http://mediaworks-i.akamaihd.net/hls/live/220435/3812193411001/3news_live/master_1500.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/AP5JfCM.png" group-title="Entertainment", ARTE
-http://122.38.74.172:9981/stream/channelid/356829017?ticket=6497F479EFEBBE78A7CDBAAA93E57B751B51C92A&profile=pass
-
-#EXTINF:-1 tvg-logo="" group-title="Entertainment", ASIAN
-http://122.38.74.172:9981/stream/channelid/1795735664?ticket=0D8264495D434C902C4C7741AE9BACDA344E977E&profile=pass
-
-#EXTINF:-1 tvg-logo="" group-title="Entertainment", AWESOME
-http://zaman-now.com/﻿zxtvxz﻿/Awesome
-
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/PJK26R4J/Asian-food.png" group-title="Entertainment", Asian Food Channel
-http://203.153.218.28:9981/stream/channelid/1092664456?ticket=E20984982529618B739BCAB7412D568D65147A93&profile=pass
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/PJK26R4J/Asian-food.png" group-title="Entertainment", Asian Food Channel ID
-https://liveanevia.mncnow.id/live/eds/AFC/sa_hls/AFC-avc1_1000000=6-mp4a_98800_eng=3.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/TzC7csd.png" tvg-url="https://iptvx.one/epg/epg.xml.gz" group-title="Entertainment", Вкусное ТВ
-http://live.planeta-online.tv:1935/public/channel_133/playlist.m3u8
+https://logos-download.com/wp-content/uploads/2017/03/AFC_Asian_Food_Channel_logo.png
 
 #EXTINF:-1 tvg-logo="https://www.freepnglogos.com/uploads/cbs-png-logo/cbs-company-png-logo-2.png" group-title="Entertainment", CBS
 http://161.0.157.50/PLTV/88888888/224/3221227041/index.m3u8
@@ -889,23 +866,8 @@ http://161.0.157.50/PLTV/88888888/224/3221227041/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/71/Crime_and_Investigation_logo.png" group-title="Entertainment", Crime & Investigation
 https://liveanevia.mncnow.id/live/eds/CrimeInvestigation/sa_hls/CrimeInvestigation-avc1_1000000=10-mp4a_98800_eng=3.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Entertainment", CHOSUN TV
-http://122.38.74.172:9981/stream/channelid/227207716?ticket=95DE6E90A05C751A298DFE5E72E74385C83F61E8&profile=pass
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/AP5JfCM.png" group-title="Entertainment", D ONE
-http://122.38.74.172:9981/stream/channelid/402678709?ticket=AE885FAFBF450E2E4C7545F751850266F0B47879&profile=pass
-
 #EXTINF:-1 tvg-logo="" group-title="Entertainment", DA VINCI
 http://45.126.83.51/uq2663/h/h01/index.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="Entertainment", DOG TV
-http://122.38.74.172:9981/stream/channelid/1813263966?ticket=36755D16C810E90D136BE27E854FDF3F808A5DEA&profile=pass
-
-#EXTINF:-1 tvg-logo="" group-title="Entertainment", DRAMAX
-http://122.38.74.172:9981/stream/channelid/330335261?ticket=6474AED7A2A694AC0F1B38465F5750246419CBFF&profile=pass
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/iGxIDsI.png" group-title="Entertainment", E CHANNEL
-http://122.38.74.172:9981/stream/channelid/208654416?ticket=BDE93A518093351D629B3A9AA01F6D7BAFF97D76&profile=pass
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/qvRLCxf4/Fashion-tv.png" group-title="Entertainment", Fashion TV Teens
 http://fash1043.cloudycdn.services/slive/ftv_pg13_adaptive.smil/chunklist.m3u8
@@ -916,46 +878,37 @@ http://fash1043.cloudycdn.services/slive/_definst_/ftv_paris_adaptive.smil/chunk
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/qvRLCxf4/Fashion-tv.png" group-title="Entertainment", Fashion TV Midnight
 http://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.smil/chunklist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/FMy8rhc.png" group-title="Entertainment", Foodie Channel
-http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:foodiee/chunklist_b2288000.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WY2deTP.png" group-title="Entertainment", Fox Life
 http://sireclipsfoxru-vh.akamaihd.net/i/mpx/FIC_SIRE_Fox/831/336/Sneak_Peek~~111704~12~21~en~~1_ru_42787397,100_mp4_video_1920x0_4016000_primary_audio_6,099_mp4_video_1280x0_2432000_primary_audio_5,098_mp4_video_1280x0_1800000_primary_audio_4,097_mp4_video_960x0_1200000_primary_audio_3,096_mp4_video_640x0_568000_primary_audio_2,095_mp4_video_480x0_400000_primary_audio_1,.mp4.csmil/index_0_av.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ft8edTx.png" group-title="Entertainment", HealthMedia
 https://livestream.5centscdn.com/cls092118/8f8400b79584fa2a1315aa5e7612d4f3.sdp/index.m3u8
 
-#EXTINF:-1 tvg-language="Indonesian" tvg-logo="https://pbs.twimg.com/profile_images/378800000140413879/2363d730cb9aebf952ae08af7f29cf9f_400x400.jpeg" group-title="Entertainment", J'go FMP
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/378800000140413879/2363d730cb9aebf952ae08af7f29cf9f_400x400.jpeg" group-title="Entertainment", J'go FMP
 http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:jgoch/chunklist_b2288000.m3u8
 
-#EXTINF:-1 tvg-language="Indonesian" tvg-logo="https://upload.wikimedia.org/wikipedia/id/c/c8/K-drama_logo.jpg" tvg-country="ID" group-title="Entertainment", K Drama
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/c/c8/K-drama_logo.jpg" group-title="Entertainment", K Drama
 http://210.210.155.35/qwr9ew/s/s42/index2.m3u8
 
-#EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/aotg/k-plus/pos/k-plus_300.png" tvg-country="ID" tvg-url="" group-title="Entertainment", K+
+#EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/aotg/k-plus/pos/k-plus_300.png" group-title="Entertainment", K+
 http://210.210.155.35/uq2663/h/h08/01.m3u8?fluxustv.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Entertainment", Life Style
 http://210.210.155.35/uq2663/h/h28/index1.m3u8
 
-#EXTINF:-1 tvg-language="Indonesian" tvg-logo="https://es.m.wikipedia.org/wiki/Max_Prime#/media/Archivo%3AMax_Prime_2012_logo.svg" group-title="Entertainment", Max Prime
+#EXTINF:-1 tvg-logo="https://es.m.wikipedia.org/wiki/Max_Prime#/media/Archivo%3AMax_Prime_2012_logo.svg" group-title="Entertainment", Max Prime
 http://161.0.157.9/PLTV/88888888/224/3221226834/01.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Entertainment", OPRAH
 http://188.35.9.5:10007/stolen/221v/parasite.install
 
-#EXTINF:-1 tvg-logo="" group-title="Entertainment", OCEAN
-http://188.35.9.5:10007/stolen/122v/parasite.install
-
 #EXTINF:-1 tvg-logo="" group-title="Entertainment", ROTANA DRAMA
 http://livecdnh3.tvanywhere.ae/hls/rotmas/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_ruangtrampil_small.png?v=2.0.1.16" group-title="Knowledge", Ruang Terampil
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_ruangtrampil_small.png?v=2.0.1.16" group-title="Entertainment", Ruang Terampil
 https://livetvhooq.akamaized.net/b1b6d552c80f4ef78bd4c10bfb32268d/eu-central-1/5493668622001/profile_2/chunklist.m3u8?hdnts=st=1574876064~exp=9007200829617055~acl=/b1b6d552c80f4ef78bd4c10bfb32268d/*/profile_2/chunklist.m3u8*~hmac=43e732720209b4ede047d32a879e517cc1f2b74fc30d7793054e461b394dfe57
 
-#EXTINF:-1 tvg-logo="" group-title="Entertainment", SATELITE TV
-http://188.35.9.5:10007/stolen/244w/parasite.install
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Indonesian" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/86/Sony_GEM_logo.jpg" tvg-country="ID" tvg-url="" group-title="Entertainment", Sony Gem TV Asia
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/86/Sony_GEM_logo.jpg" group-title="Entertainment", Sony Gem TV Asia
 http://210.210.155.35/uq2663/h/h19/index2.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Entertainment", YTN DNB
@@ -1001,6 +954,12 @@ http://45.126.83.51/uq2663/h/h23/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/eb/Outdoor_Channel_2017.png" group-title="Knowledge", Outdoor Channel
 https://livetvhooq.akamaized.net/4333904e5f68426cae808a645e882206/eu-central-1/5493668622001/profile_2/chunklist.m3u8?hdnts=st=1576672231~exp=9007200831413222~acl=/4333904e5f68426cae808a645e882206/*/profile_2/chunklist.m3u8*~hmac=d22ed12147e6fe5936f8198fcf71838cb4651880f2ac0f4fdea39fb2b8a054b7
+
+#EXTINF:-1 tvg-logo="" group-title="Knowledge", OCEAN
+http://188.35.9.5:10007/stolen/122v/parasite.install
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e2/TS-Logo.png" group-title="Knowledge", TechStorm TV
+https://cdn-accedo-01.akamaized.net:443/Content/DASH/Live/channel(f4802587-5d0c-4181-a873-bf9de86cecf6)/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/TLC-Logo_2016.png" group-title="Knowledge", TLC
 http://203.153.218.28:9981/stream/channelid/391618553?ticket=08323DCACE84958A87EA829F012E919CA861DF74&profile=pass
