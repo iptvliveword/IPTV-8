@@ -634,10 +634,10 @@ http://103.199.161.254/Content/b4umovies/Live/Channel(B4UMovies)/Stream(01)/inde
 #EXTINF:-1 tvg-logo="https://arabianmarketer.ae/wp-content/uploads/2017/07/B4U-plus-logo.jpg" group-title="Movie", B4U Plus
 http://livecdnh3.tvanywhere.ae/hls/b4uplus/04.m3u8
 
-#EXTINF:-1 tvg-language="Indonesian" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/a/af/CMC_English_full_color_black_text_2.jpg/800px-CMC_English_full_color_black_text_2.jpg" group-title="Movie", Celestial Movie
-http://45.126.83.51/qwr9ew/s/s33/index2.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/a/af/CMC_English_full_color_black_text_2.jpg/800px-CMC_English_full_color_black_text_2.jpg" group-title="Movie", Celestial Movie
+https://anevia115.mncnow.id:443/live/eds/CelestialMovie/sa_hls/CelestialMovie-avc1_2499968=7-mp4a_66000_eng=2.m3u8
 
-#EXTINF:-1 tvg-language="Indonesian" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/a/af/CMC_English_full_color_black_text_2.jpg/800px-CMC_English_full_color_black_text_2.jpg" group-title="Movie", Celestial Movie (Backup)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/a/af/CMC_English_full_color_black_text_2.jpg/800px-CMC_English_full_color_black_text_2.jpg" group-title="Movie", Celestial Movie (Backup)
 http://210.210.155.35/session/31580704-c313-11e8-86db-c81f66f89318/qwr9ew/s/s33/01.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/611-cinemax.png" group-title="Movie", Cinemax
@@ -714,9 +714,6 @@ http://b2everyrai-lh.akamaihd.net/i/raimovie_1@67348/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/7/70/REDBYHBO.png/revision/latest?cb=20160516085732" group-title="Movie", Red by HBO
 https://www.livedoomovie.com/02_RedbyHBO_720p/chunklist.m3u8
-
-#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/7/70/REDBYHBO.png/revision/latest?cb=20160516085732" group-title="Movie", Red by HBO (Backup)
-http://195.181.170.48:25461/nurcholism22@gmail.com/0831zssVb0/29599?token=GkQJUBUMGwpAAgZeAgECBlUCU1VSWAYFC1hQAQYCUAMEU1lSXlcACVAQTkQVREIABV08XlRDCgYLDFtaHRVBRQQUPlgCRgMSWwBSUV4CEklGRApaVUMKBQcNVFYFBwMBUkpDQQ8AGwpAAFBUVBIcRwFIF1JCD1FYbV0HFVhUURRbCBRdCkgbXwxtBgMLUV4BRgpBBhJNEl1BSUBZE2dgFjUDDVoJCRl5DFYNCANDWQRGHEFVWRVCVUZcQFlfQlhaTUQCXhMKTUIbEFhEL3QSSUZVG0NVD0NdXVdAWRNDRxRNRAhCORZcQxZABwcLVUJHXhJTFRxDXVVKZgEMX1lRVRUPDl8VRgMSUxBORAtfXgwQXxFoQAhUFggbUFIHBBZL
 
 #EXTINF:0 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/7/7e/Thrill_logo.png/revision/latest/scale-to-width-down/240?cb=20170606050150" group-title="Movie", Thrill
 http://210.210.155.35/qwr9ew/s/s34/02.m3u8?token=regieaerlays.m3u8
