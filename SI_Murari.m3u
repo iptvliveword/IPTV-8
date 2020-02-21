@@ -1034,11 +1034,32 @@ http://173.236.10.10:1935/dgrau/dgrau/live.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/cqdjHHR.png" tvg-url="http://195.154.221.171/epg/guidearab.xml.gz" group-title="SPORT", beIN Sports HD AR
 http://95.170.215.120/hls/m3u8/Bein-Sport-HD-IMH-NGC.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_bein1_small1.png?v=2.0.0.13" group-title="SPORT", beIN Sports 1 HD
-https://www.livedoomovie.com/02_epl1_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_bein1_small1.png?v=2.0.0.13" group-title="SPORT", beIN Sports 1
+http://51.15.8.16:8081/arbiarb/beinsports1/chunks.m3u8?
 
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_bein2_small1.png?v=2.0.0.13" group-title="SPORT", beIN Sports 2 HD
-https://www.livedoomovie.com/02_epl2_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_bein2_small1.png?v=2.0.0.13" group-title="SPORT", beIN Sports 2
+http://51.15.8.16:8081/arbiarb/beinsports2/chunks.m3u8?
+
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_bein3_small1.png?v=2.0.0.13" group-title="SPORT", beIN Sports 3
+http://51.15.8.16:8081/arbiarb/beinsports3/chunks.m3u8?
+
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_bein4_small1.png?v=2.0.0.13" group-title="SPORT", beIN Sports 4
+http://51.15.8.16:8081/arbiarb/beinsports4/chunks.m3u8?
+
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_bein5_small1.png?v=2.0.0.13" group-title="SPORT", beIN Sports 5
+http://51.15.8.16:8081/arbiarb/beinsports5/chunks.m3u8?
+
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_bein6_small1.png?v=2.0.0.13" group-title="SPORT", beIN Sports 6
+http://51.15.8.16:8081/arbiarb/beinsports6/chunks.m3u8?
+
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_bein7_small1.png?v=2.0.0.13" group-title="SPORT", beIN Sports 7
+http://51.15.8.16:8081/arbiarb/beinsports7/chunks.m3u8?
+
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_bein8_small1.png?v=2.0.0.13" group-title="SPORT", beIN Sports 8
+http://51.15.8.16:8081/arbiarb/beinsports8/chunks.m3u8?
+
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_bein9_small1.png?v=2.0.0.13" group-title="SPORT", beIN Sports 9
+http://51.15.8.16:8081/arbiarb/beinsports9/chunks.m3u8?
 
 #EXTINF:-1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/uk-btsport1.jpg" group-title="SPORT", BT Sport 1 HD
 https://www.livedoomovie.com/02_BTSPORTHD_1_720p/chunklist.m3u8
