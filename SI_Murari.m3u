@@ -650,7 +650,7 @@ http://cableserver1.cableguy.pro:82/live?cId=428&uId=2255&deviceUser=roggiemkd&d
 http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:jgoch/chunklist_b2288000.m3u8
 
 #EXTINF:-1 tvg-logo="http://vignette2.wikia.nocookie.net/outcastdatabase/images/a/ac/Fox_logo.png/revision/latest?cb=20150807073232" group-title="Movie", Fox 
-http://161.0.157.7/PLTV/88888888/224/3221226793/03.m3u8
+http://micine.club:25461/live/knicolemtz/knicolemtz/2022.m3u8
 
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/f/f0/Fox_Action_Movies.png/revision/latest?cb=20190313090329" group-title="Movie", Fox Action Movies Thai
 https://www.livedoomovie.com/02_FoxActionHD_720p/chunklist.m3u8
@@ -664,11 +664,15 @@ http://203.153.218.28:9981/stream/channelid/1949182550?ticket=07F04FD978CF0D1626
 #EXTINF:-1 tvg-logo="https://seeklogo.net/wp-content/uploads/2017/06/fox-movies-logo.png" group-title="Movie", Fox Movies
 http://161.0.157.6/PLTV/88888888/224/3221226321/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://www.cablebahamas.com/wp-content/uploads/2015/09/FOX-Premium-Cinema-Logo-300x98.png" group-title="Movie", Fox Premium
+http://161.0.157.7/PLTV/88888888/224/3221226793/03.m3u8
+
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/id/FX.id.png" group-title="Movie", FX 
 https://liveanevia.mncnow.id/live/eds/FX/sa_hls/FX-avc1_2499968=10-mp4a_98800_eng=3.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/800px-HBO_logo.svg.png" group-title="Movie", HBO
-http://95.170.215.118/hls/m3u8/HBO.m3u8
+http://218.202.220.2:5000/nn_live.ts?id=HBO
+
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8b/HBO_2_Logo.png" group-title="Movie", HBO 2
 http://95.170.215.118/hls/m3u8/HBO-2.m3u8
