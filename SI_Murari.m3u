@@ -17,17 +17,8 @@ http://id2.indostreamingtv.com/live/antv/index.m3u8
 #EXTINF:-1 tvg-logo="http://www.arematv.id/wp-content/uploads/2016/09/logo5.png" group-title="LOKAL", Arema TV
 http://wowza58.indostreamserver.com:1935/arematv/live/chunklist_w425722557.m3u8
 
-#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/c/c1/Baraya_TV.png/revision/latest?cb=20180920095655" group-title="LOKAL", Baraya TV
-http://stream1.ninmedia.tv/barayatv/rtmp.stream_360p/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://www.tikilive.com/public/files/shows/226/226513/48133-294x165-FFFFFF.jpg" group-title="LOKAL", Bayu TV
 http://wms.klikhost.com/bayutv/live/chunklist_w54273383.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/3/3f/CTV_Banten.png/200px-CTV_Banten.png" group-title="LOKAL", CTV Banten
-http://103.23.201.170:1935/live/livestream/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Indonesian" tvg-logo="https://i.imgur.com/PJyf6oq.png" tvg-country="ID" tvg-url="" group-title="LOKAL", DMI Channel
-http://stream1.ninmedia.tv/dmitv/udp.stream_360p/playlist.m3u8
 
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/hGcg87rw/elshintatv.png" group-title="LOKAL", Elshinta TV 
 http://45.126.83.51/qwr9ew/s/s10/01.m3u8
@@ -39,16 +30,16 @@ http://id6.indostreamingtv.com/live/tv1/index.m3u8
 http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:homelivinghd/chunklist_b2288000.m3u8
 
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/39/INDOSIAR_Logo.png" group-title="LOKAL", Indosiar
-https://delivery.macan.live/stream/id_indosiar/index.m3u8?token=MDuuD87q
+http://id1.indostreamingtv.com/live/indosiar/index.m3u8
 
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/39/INDOSIAR_Logo.png" group-title="LOKAL", Indosiar HD
-https://delivery.macan.live/stream/id_indosiar/index.m3u8?token=XZcdx7oB
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/39/INDOSIAR_Logo.png" group-title="LOKAL", Indosiar 2
+http://203.153.218.28:9981/stream/channelid/261435212?ticket=EB5DAF3F0F2103C3A892BE5937167DE35103F89B&profile=pass
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4SW04fg.png" group-title="LOKAL", JAKTV
-http://202.80.222.169:80/000001/2/ch00000090990000001695/index.m3u8?virtualDomain=000001.live_hls.zte.com
+https://livetvhooq.akamaized.net/7393cf95fc9644f59c57815f6d086522/ap-southeast-1/5493668622001/profile_0/chunklist.m3u8?hdnts=st=1578217916~exp=9007200832958907~acl=/7393cf95fc9644f59c57815f6d086522/*/profile_0/chunklist.m3u8*~hmac=b0e46a8555fc20b9692127b3fa54fddf6136779421465e59a66cfa8a19abd616
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/nV9mS0NW/kompastv.png" group-title="LOKAL", Kompas TV
-http://202.80.222.130/000001/2/ch00000090990000001730/index.m3u8?virtualDomain=000001.live_hls.zte.com
+https://livetvhooq.akamaized.net/cb5c7e6573b94277ae32a38d821865e5/ap-southeast-1/5493668622001/profile_1/chunklist.m3u8?hdnts=st=1572085928~exp=9007200826826919~acl=/cb5c7e6573b94277ae32a38d821865e5/*/profile_1/chunklist.m3u8*~hmac=d3a569bae5e46a62af82a7409ca830e92aed0285184735a245a7678572c02a18
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/c/c1/LogoMetroTVsince2010.svg/800px-LogoMetroTVsince2010.svg.png"  group-title="LOKAL", Metro TV
 http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/chunklist_w2006790992_b1492000_sleng.m3u8
@@ -84,10 +75,10 @@ https://liveanevia.mncnow.id/live/eds/SoccerChannel/sa_hls/SoccerChannel.m3u8
 http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6yIpjUJ.png" group-title="LOKAL", NET.
-http://id2.indostreamingtv.com/live/nettv/index.m3u8
+https://cdn-accedo-01.akamaized.net:443/Content/DASH/Live/channel%28404d689d-691f-4035-9801-ae8bfd8712e9%29/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/fb172pW8/rajawalitv.png" group-title="LOKAL", Rajawali TV
-http://202.80.222.130/000001/2/ch00000090990000001716/index.m3u8?virtualDomain=000001.live_hls.zte.com
+
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/d/dd/RCTI_logo_2015.svg/800px-RCTI_logo_2015.svg.png"  group-title="LOKAL", RCTI
 https://livetvhooq.akamaized.net/d182c52b34984076be9817e526e2bb5e/ap-southeast-1/5493668622001/profile_0/chunklist.m3u8?hdnts=st=1536005902~exp=9007200790746893~acl=/d182c52b34984076be9817e526e2bb5e/*/profile_0/chunklist.m3u8*~hmac=d3f38106d3b48f97b8cd3ff97e7e6d25a3f843a0875815c231a14b29bdd3ef34
@@ -96,7 +87,7 @@ https://livetvhooq.akamaized.net/d182c52b34984076be9817e526e2bb5e/ap-southeast-1
 https://live.rctiplus.id/rctiplus/rcti_720p.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/5a/Rajawali_Televisi.svg/375px-Rajawali_Televisi.svg.png" group-title="LOKAL", RTV
-http://202.80.222.171:80/000001/2/ch00000090990000001716/1001.m3u8?virtualDomain=000001.live_hls.zte.com&IASHttpSessionId=OTT2198020181031055334464619
+https://livetvhooq.akamaized.net/902d04d98a094dc6a78e73166d108e3d/ap-southeast-1/5493668622001/profile_1/chunklist.m3u8?hdnts=st=1572085873~exp=9007200826826864~acl=/902d04d98a094dc6a78e73166d108e3d/*/profile_1/chunklist.m3u8*~hmac=252a726bb20fdb977834f11d3b83aa67138e81da32ef16b763a871e5ed767748
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/e/e5/SCTV_Logo.png" group-title="LOKAL", SCTV
 http://id1.indostreamingtv.com/live/sctv/index.m3u8
@@ -128,79 +119,75 @@ http://210.210.155.35/qwr9ew/s/s11/01.m3u8
 http://stream2.ninmedia.tv/arektv/arek_360p/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/b/b9/BaliTV_2014.png" group-title="NINMEDIA", Bali TV
-http://202.80.222.171/000001/2/ch00000090990000001729/index.m3u8?virtualDomain=000001.live_hls.zte.com
+
 
 #EXTINF:-1 tvg-logo="https://ninmedia.tv/wp-content/uploads/2019/02/cropped-Ninmedia-Edit-183x42.png" group-title="NINMEDIA", BE TV
-http://stream1.ninmedia.tv/betv/rtmp.stream_360p/playlist.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://ninmedia.tv/wp-content/uploads/2019/02/cropped-Ninmedia-Edit-183x42.png" group-title="NINMEDIA", BMW TV
-http://stream1.ninmedia.tv/bmwtv/udp.stream_360p/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://ninmedia.tv/wp-content/uploads/2019/02/cropped-Ninmedia-Edit-183x42.png" group-title="NINMEDIA", DMI TV
-http://stream1.ninmedia.tv/dmitv/udp.stream_360p/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://ninmedia.tv/wp-content/uploads/2019/02/cropped-Ninmedia-Edit-183x42.png" group-title="NINMEDIA", GPR TV
-http://stream1.ninmedia.tv/gprtv/udp.stream_360p/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://ninmedia.tv/wp-content/uploads/2019/02/cropped-Ninmedia-Edit-183x42.png" group-title="NINMEDIA", INSPIRA TV
-http://stream1.ninmedia.tv/inspiratv/udp.stream_360p/playlist.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://ninmedia.tv/wp-content/uploads/2019/02/cropped-Ninmedia-Edit-183x42.png" group-title="NINMEDIA", JAMBI TV
-http://stream1.ninmedia.tv/jambitv/rtmp.stream_360p/playlist.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://ninmedia.tv/wp-content/uploads/2019/02/cropped-Ninmedia-Edit-183x42.png" group-title="NINMEDIA", JTV Surabaya
-http://202.80.222.175/000001/2/ch00000090990000001731/index.m3u8?virtualDomain=000001.live_hls.zte.com
+https://livetvhooq.akamaized.net/ae74dfdacfc1474ebacda1990c3dc338/ap-southeast-1/5493668622001/profile_0/chunklist.m3u8?hdnts=st=1578737355~exp=9007200833478346~acl=/ae74dfdacfc1474ebacda1990c3dc338/*/profile_0/chunklist.m3u8*~hmac=38fffe01dee4cdd681554c4a989a37ce79cb84f3d782a9ba5dd8997ddf403d67&hdnts=st=1578737356~exp=1578737476~acl=/*~id=69e868e0-65de-48a7-a997-65e76560ba94~data=36.75.70.213~hmac=8a97806bfb9c8ccb8bb2e6af1a63ffde0cedf4d14618ca0d3e7c8cd80fd10c6f
 
 #EXTINF:-1 tvg-logo="https://ninmedia.tv/wp-content/uploads/2019/02/cropped-Ninmedia-Edit-183x42.png" group-title="NINMEDIA", KITANESIA
-http://stream1.ninmedia.tv/kitanesia/udp.stream_360p/playlist.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://ninmedia.tv/wp-content/uploads/2019/02/cropped-Ninmedia-Edit-183x42.png" group-title="NINMEDIA", MALEO
-http://stream1.ninmedia.tv/maleo/udp.stream_360p/playlist.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://ninmedia.tv/wp-content/uploads/2019/02/cropped-Ninmedia-Edit-183x42.png" group-title="NINMEDIA", MI TV
 http://stream2.ninmedia.tv/mitv/rtmp.stream_360p/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://ninmedia.tv/wp-content/uploads/2019/02/cropped-Ninmedia-Edit-183x42.png" group-title="NINMEDIA", NABAWI TV
-http://stream2.ninmedia.tv/nabawitv/nabawitv_360p/playlist.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://ninmedia.tv/wp-content/uploads/2019/02/cropped-Ninmedia-Edit-183x42.png" group-title="NINMEDIA", NU CHANNEL
-http://stream1.ninmedia.tv/nuchannel/udp.stream_360p/playlist.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://ninmedia.tv/wp-content/uploads/2019/02/cropped-Ninmedia-Edit-183x42.png" group-title="NINMEDIA", OSHOP
-http://stream1.ninmedia.tv/oshop/udp.stream_360p/playlist.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://ninmedia.tv/wp-content/uploads/2019/02/cropped-Ninmedia-Edit-183x42.png" group-title="NINMEDIA", PAL TV
-http://stream1.ninmedia.tv/paltv/rtmp.stream_360p/playlist.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://ninmedia.tv/wp-content/uploads/2019/02/cropped-Ninmedia-Edit-183x42.png" group-title="NINMEDIA", POP MUSIK
-http://stream1.ninmedia.tv/popmusik/udp.stream_360p/playlist.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://ninmedia.tv/wp-content/uploads/2019/02/cropped-Ninmedia-Edit-183x42.png" group-title="NINMEDIA", RADAR TV LAMPUNG
-http://stream1.ninmedia.tv/radartvlampung/udp.stream_360p/playlist.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://ninmedia.tv/wp-content/uploads/2019/02/cropped-Ninmedia-Edit-183x42.png" group-title="NINMEDIA", RB TV
-http://stream1.ninmedia.tv/rbtv/rtmp.stream_360p/playlist.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://ninmedia.tv/wp-content/uploads/2019/02/cropped-Ninmedia-Edit-183x42.png" group-title="NINMEDIA", RCTV
-http://stream1.ninmedia.tv/rctv/rtmp.stream_360p/playlist.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/DmaMDCBU8AAfd45.png" group-title="NINMEDIA", RRI Net
-http://36.89.47.217:11935/rrinet/live/index.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://ninmedia.tv/wp-content/uploads/2019/02/cropped-Ninmedia-Edit-183x42.png" group-title="NINMEDIA", RUMAH TV
 http://stream2.ninmedia.tv/rumahtv/rtmp.stream_360p/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://ninmedia.tv/wp-content/uploads/2019/02/cropped-Ninmedia-Edit-183x42.png" group-title="NINMEDIA", SALING SAPA TV
-http://stream1.ninmedia.tv/salingsapa/rtmp.stream_360p/playlist.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://ninmedia.tv/wp-content/uploads/2019/02/cropped-Ninmedia-Edit-183x42.png" group-title="NINMEDIA", TABALONG TV
-http://stream1.ninmedia.tv/tabalongtv/udp.stream_360p/playlist.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://ninmedia.tv/wp-content/uploads/2019/02/cropped-Ninmedia-Edit-183x42.png" group-title="NINMEDIA", TRIBRATA TV
-http://stream1.ninmedia.tv/tribratatv/udp.stream_360p/playlist.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://ninmedia.tv/wp-content/uploads/2019/02/cropped-Ninmedia-Edit-183x42.png" group-title="NINMEDIA", TV DESA
-http://stream1.ninmedia.tv/tvdesa/udp.stream_360p/playlist.m3u8
+
 
 ###NEWS
 
@@ -478,10 +465,7 @@ http://livecdnh3.tvanywhere.ae/hls/boomerang/index.m3u8?fluxustv.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Boomerang_2014_logo.svg/1200px-Boomerang_2014_logo.svg.png" group-title="KIDS", Boomerang (Backup)
 https://liveanevia.mncnow.id/live/eds/Boomerang/sa_hls/Boomerang-avc1_2499968=10-mp4a_98800_ind=15.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/800px-Cartoon_Network_2010_logo.svg.png" tvg-country="ID" tvg-id="9836fd0e31a19540234d0fe226ec84af" tvg-language="Indonesian" group-title="KIDS", Cartoon Network
-http://203.153.218.28:9981/stream/channelid/251475608?ticket=5B6244F9555D96BA8A9DF1BBBA2BA2F8BDB05A86&profile=pass
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/800px-Cartoon_Network_2010_logo.svg.png" tvg-id="9836fd0e31a19540234d0fe226ec84af" group-title="KIDS", Cartoon Network (Backup)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/800px-Cartoon_Network_2010_logo.svg.png" group-title="KIDS", Cartoon Network
 https://liveanevia.mncnow.id/live/eds/CartoonNetwork/sa_hls/CartoonNetwork-avc1_2499968=10-mp4a_98800_ind=16.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/800px-Cartoon_Network_2010_logo.svg.png" group-title="KIDS", Cartoon Network HD
@@ -491,9 +475,6 @@ http://188.35.9.11:21151/udp/185f
 http://213.174.8.7:11111/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/2014_Disney_Channel_logo.svg/800px-2014_Disney_Channel_logo.svg.png" group-title="KIDS", Disney Channel
-http://203.153.218.28:9981/stream/channelid/31701170?ticket=02DB3A3E44B8E741CC4D2913B2F42F452A2C3AB9&profile=pass
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/2014_Disney_Channel_logo.svg/800px-2014_Disney_Channel_logo.svg.png" group-title="KIDS", Disney Channel ID
 https://liveanevia.mncnow.id/live/eds/DisneyChannel/sa_hls/DisneyChannel-avc1_2499968=7-mp4a_98800_ind=9.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/f/f4/Disney_Junior.jpg" group-title="KIDS", Disney Junior
@@ -515,7 +496,7 @@ http://51.254.215.79/appflux/gongmax/GONGMAX/gongmax_1280/chunks.m3u8
 http://83.167.253.110:5000/live/jimjam/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/in/KTV.in.png" group-title="KIDS", KTV
-http://www.elahmad.com/tv/m3u8/ktv.m3u8?id=ktv4
+
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/mD4VqZT/download.jpg" group-title="KIDS", Miao Mi
 https://d3kw4vhbdpgtqk.cloudfront.net/hls/miaomipcweb/prog_index.m3u8
@@ -523,17 +504,11 @@ https://d3kw4vhbdpgtqk.cloudfront.net/hls/miaomipcweb/prog_index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/5/59/KidsChannel.png" group-title="KIDS", My Kids
 http://210.210.155.35/qwr9ew/s/s30/index2.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/Nick.png" group-title="KIDS", Nick Asia
-http://203.153.218.28:9981/stream/channelid/648970596?ticket=72A19F89119921817ADF08AEBFF2D7E0009D1A20&profile=pass
-
 #EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2018/11/nick-jr-logo.png" group-title="KIDS", Nick JR
 http://213.174.8.7:9100/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/2/2a/NickToons_TV.svg/revision/latest/scale-to-width-down/200?cb=20091118204932" group-title="KIDS", NickToons
 http://213.252.252.17/live/eds/Nicktoons/HLS_encr/Nicktoons.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Nickelodeon_2009_logo.svg/800px-Nickelodeon_2009_logo.svg.png" group-title="KIDS", Nickelodeon Junior
-http://203.153.218.26:9981/stream/channelid/1474669592?ticket=34A2B30F83B9510A225AD259DCF94B2DFB4E4EE3&profile=pass
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Nickelodeon_2009_logo.svg/800px-Nickelodeon_2009_logo.svg.png" group-title="KIDS", Nickelodeon Junior ID
 https://liveanevia.mncnow.id/live/eds/Nickelodeon/sa_hls/Nickelodeon-avc1_1000000=8-mp4a_98800_eng=4.m3u8
