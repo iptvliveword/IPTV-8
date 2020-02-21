@@ -650,7 +650,7 @@ http://cableserver1.cableguy.pro:82/live?cId=428&uId=2255&deviceUser=roggiemkd&d
 http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:jgoch/chunklist_b2288000.m3u8
 
 #EXTINF:-1 tvg-logo="http://vignette2.wikia.nocookie.net/outcastdatabase/images/a/ac/Fox_logo.png/revision/latest?cb=20150807073232" group-title="Movie", Fox 
-http://streaming.wirenetserver.com.ar:1935/canal4/live_1/chunklist_w1691605234.m3u8
+https://liveanevia.mncnow.id/live/eds/FoxChannel/sa_hls/FoxChannel-avc1_2499968=11-mp4a_98800_eng=3.m3u8
 
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/f/f0/Fox_Action_Movies.png/revision/latest?cb=20190313090329" group-title="Movie", Fox Action Movies Thai
 https://www.livedoomovie.com/02_FoxActionHD_720p/chunklist.m3u8
@@ -659,20 +659,16 @@ https://www.livedoomovie.com/02_FoxActionHD_720p/chunklist.m3u8
 https://liveanevia.mncnow.id/live/eds/FoxCrime/sa_hls/FoxCrime-avc1_2499968=10-mp4a_98800_eng=3.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/d/df/FOX_Family_Movies_%282017%29.png" group-title="Movie", Fox Family Movies
-http://203.153.218.28:9981/stream/channelid/1949182550?ticket=07F04FD978CF0D1626AA28A8A68A1182729AC6EE&profile=pass
+http://203.153.218.28:9981/stream/channelid/1949182550?ticket=827D4321F9CAC5C5190A62ED52CF898B6AB6986F&profile=pass
 
 #EXTINF:-1 tvg-logo="https://seeklogo.net/wp-content/uploads/2017/06/fox-movies-logo.png" group-title="Movie", Fox Movies
-http://161.0.157.6/PLTV/88888888/224/3221226321/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.cablebahamas.com/wp-content/uploads/2015/09/FOX-Premium-Cinema-Logo-300x98.png" group-title="Movie", Fox Premium
-http://161.0.157.7/PLTV/88888888/224/3221226793/03.m3u8
+http://203.153.218.28:9981/stream/channelid/756717990?ticket=BC3F62962957A545FF2FCFFCDD109A630F050061&profile=pass
 
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/id/FX.id.png" group-title="Movie", FX 
 https://liveanevia.mncnow.id/live/eds/FX/sa_hls/FX-avc1_2499968=10-mp4a_98800_eng=3.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/800px-HBO_logo.svg.png" group-title="Movie", HBO
 http://218.202.220.2:5000/nn_live.ts?id=HBO
-
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8b/HBO_2_Logo.png" group-title="Movie", HBO 2
 http://95.170.215.118/hls/m3u8/HBO-2.m3u8
@@ -681,19 +677,13 @@ http://95.170.215.118/hls/m3u8/HBO-2.m3u8
 http://95.170.215.118/hls/m3u8/HBO-3.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/HBO_Family_logo.png" group-title="Movie", HBO Family
-http://203.153.218.28:9981/stream/channelid/1316004766?ticket=5F57E6E5C9291700E8B75D86F760C75666701FBB&profile=pass
+http://203.153.218.28:9981/stream/channelid/1316004766?ticket=12B8D0AFD0DF1E540112E98517F249D314CC37C4&profile=pass
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fc/HBOHits-ASIA.png" tvg-id="97187cf98cc3a3d2419955eea35c1bf5" group-title="Movie", HBO Hits HD 
-https://liveanevia.mncnow.id/live/eds/HBOHits/sa_hls/HBOHits.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fc/HBOHits-ASIA.png" tvg-id="97187cf98cc3a3d2419955eea35c1bf5" group-title="Movie", HBO Hits HD (Backup)
-http://203.153.218.28:9981/stream/channelid/2038175895?ticket=6BFD6BDBFA641B9E326D9F96C522A9CA148626C6&profile=pass
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fc/HBOHits-ASIA.png" group-title="Movie", HBO Hits
+http://203.153.218.28:9981/stream/channelid/2038175895?ticket=1C717A0D3F3350CBA4B8519503DABB156C09BFC2&profile=pass
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/HBO_Signature_Asia.png" group-title="Movie", HBO Signature
-http://203.153.218.28:9981/stream/channelid/1197019186?ticket=7BCDB753E026E4EE21551FA26F86591CDF9DA4A9&profile=pass
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/HBO_Signature_Asia.png" group-title="Movie", HBO Signature (Backup)
-https://liveanevia.mncnow.id/live/eds/HBOSignature/sa_hls/HBOSignature.m3u8
+http://203.153.218.28:9981/stream/channelid/1197019186?ticket=25D6186F63BD65A300657BDF78B9532138071EF9&profile=pass
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/HITS-WWW-Banner1.png/800px-HITS-WWW-Banner1.png" group-title="Movie", Hits
 http://210.210.155.35/session/b664cd50-6b66-11e9-88bd-a3eeb50c438d/uq2663/h/h37/index2.m3u8?fluxustv.m3u8
@@ -701,17 +691,20 @@ http://210.210.155.35/session/b664cd50-6b66-11e9-88bd-a3eeb50c438d/uq2663/h/h37/
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/HITS-WWW-Banner1.png/800px-HITS-WWW-Banner1.png" group-title="Movie", Hits (Backup)
 http://45.126.83.51/session/fd17d11c-313f-11ea-b063-b1a8a9f2548a/uq2663/h/h37/01.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ROytQu2.png" group-title="Movie" ,iFILM English SD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ROytQu2.png" group-title="Movie", iFILM English SD
 http://mn-nl.mncdn.com/ifilm/smil:ifilmen.smil/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ROytQu2.png" group-title="Movie", iFILM English HD
 http://mn-nl.mncdn.com/ifilm/smil:ifilmen.smil/chunklist_b1096000.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/2UQCl7M.png" group-title="Movie" ,iFILM 2 SD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2UQCl7M.png" group-title="Movie", iFILM 2 SD
 http://mn-nl.mncdn.com/ifilm/smil:ifilmfa2.smil/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2UQCl7M.png" group-title="Movie", iFILM 2 HD
 http://mn-nl.mncdn.com/ifilm/smil:ifilmfa2.smil/chunklist_b1096000.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/db/KIX_logo.jpg" group-title="Movie", KIX
+https://liveanevia.mncnow.id/live/eds/KIX/sa_hls/KIX-avc1_2499968=7-mp4a_98800_eng=3.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Rai_Premium_HD_-_Logo_2017.svg/1280px-Rai_Premium_HD_-_Logo_2017.svg.png" group-title="Movie", Rai Premium
 http://b2everyrai-lh.akamaihd.net/i/raipremium_1@181837/master.m3u8
@@ -728,10 +721,15 @@ http://195.181.170.48:25461/nurcholism22@gmail.com/0831zssVb0/29599?token=GkQJUB
 #EXTINF:0 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/7/7e/Thrill_logo.png/revision/latest/scale-to-width-down/240?cb=20170606050150" group-title="Movie", Thrill
 http://210.210.155.35/qwr9ew/s/s34/02.m3u8?token=regieaerlays.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_warner_small.png?v=2.0.0.13" tvg-language="Indonesian" group-title="Movie", Warner TV
-https://liveanevia.mncnow.id/live/eds/WarnerTV/sa_hls/WarnerTV-avc1_1000000=16-mp4a_98800_eng=5.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/zGsgKkrg/Waku-Waku-Japan.png" group-title="Movie", Waku-Waku Japan
+#EXTINF:0 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/7/7e/Thrill_logo.png/revision/latest/scale-to-width-down/240?cb=20170606050150" group-title="Movie", Thrill (Backup)
+https://liveanevia.mncnow.id/live/eds/Thrill/sa_hls/Thrill-avc1_2499968=7-mp4a_98800_eng=5.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_warner_small.png?v=2.0.0.13" tvg-language="Indonesian" group-title="Movie", Warner TV
+https://liveanevia.mncnow.id/live/eds/WarnerTV/sa_hls/WarnerTV-avc1_2499968=16-mp4a_98800_eng=5.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.dialog.lk/dialogdocroot/content/images/channel-highlights/waku-waku-large.png" group-title="Movie", Waku-Waku Japan
 https://liveanevia.mncnow.id/live/eds/WakuWakuJapan/sa_hls/WakuWakuJapan-avc1_2499968=11-mp4a_98800_eng=3.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XUVOX9K.png" group-title="Movie", Zee Bioskop 
