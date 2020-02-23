@@ -649,7 +649,7 @@ http://103.199.161.254/Content/b4umovies/Live/Channel(B4UMovies)/Stream(01)/inde
 http://livecdnh3.tvanywhere.ae/hls/b4uplus/04.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/a/af/CMC_English_full_color_black_text_2.jpg/800px-CMC_English_full_color_black_text_2.jpg" group-title="Movie", Celestial Movie
-
+https://www.doofree88.com/streaming/sd-celestial_480/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/611-cinemax.png" group-title="Movie", Cinemax
 
@@ -660,25 +660,27 @@ http://livecdnh3.tvanywhere.ae/hls/b4uplus/04.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/First_Media_logo.svg/800px-First_Media_logo.svg.png" group-title="Movie", First Movie
 http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:jgoch/chunklist_b2288000.m3u8
 
-#EXTINF:-1 tvg-logo="http://vignette2.wikia.nocookie.net/outcastdatabase/images/a/ac/Fox_logo.png/revision/latest?cb=20150807073232" group-title="Movie", Fox 
+#EXTINF:-1 tvg-logo="http://vignette2.wikia.nocookie.net/outcastdatabase/images/a/ac/Fox_logo.png/revision/latest?cb=20150807073232" group-title="Movie", Fox HD (TH)
+https://www.doofree88.com/streaming/hd-fox_720/index.m3u8 
 
-#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/f/f0/Fox_Action_Movies.png/revision/latest?cb=20190313090329" group-title="Movie", Fox Action Movies
-
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/f/f0/Fox_Action_Movies.png/revision/latest?cb=20190313090329" group-title="Movie", Fox Action Movies (TH)
+https://www.doofree88.com/streaming/hd-foxaction_720/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://assetsmysky.blob.core.windows.net/assetsmysky/production/plans-and-bundles/1562578594_fox-crime-lg.png" group-title="Movie", Fox Crime Movies
 https://liveanevia.mncnow.id/live/eds/FoxCrime/sa_hls/FoxCrime-avc1_2499968=10-mp4a_98800_eng=3.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/d/df/FOX_Family_Movies_%282017%29.png" group-title="Movie", Fox Family Movies
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/d/df/FOX_Family_Movies_%282017%29.png" group-title="Movie", Fox Family Movies (TH)
+https://www.doofree88.com/streaming/hd-foxfamily_720/index.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://seeklogo.net/wp-content/uploads/2017/06/fox-movies-logo.png" group-title="Movie", Fox Movies Premium
-
+#EXTINF:-1 tvg-logo="https://seeklogo.net/wp-content/uploads/2017/06/fox-movies-logo.png" group-title="Movie", Fox Movies Premium (TH)
+https://www.doofree88.com/streaming/hd-foxpremium_720/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/id/FX.id.png" group-title="Movie", FX 
 https://liveanevia.mncnow.id/live/eds/FX/sa_hls/FX-avc1_2499968=10-mp4a_98800_eng=3.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/800px-HBO_logo.svg.png" group-title="Movie", HBO 1
-
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/800px-HBO_logo.svg.png" group-title="Movie", HBO (TH)
+https://www.doofree88.com/streaming/hd-hbo-th_480/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8b/HBO_2_Logo.png" group-title="Movie", HBO 2
 
@@ -724,6 +726,9 @@ https://liveanevia.mncnow.id/live/eds/STARWorld/sa_hls/STARWorld.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/1/13/Starworldlogo.png" group-title="Movie", Star World
 http://livecdnh1.tvanywhere.ae/hls/star_world/05.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SAfu2jz.png" group-title="Movie", Star Movie HD
+https://www.doofree88.com/streaming/sd-starchineselegend_480/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Rai_Premium_HD_-_Logo_2017.svg/1280px-Rai_Premium_HD_-_Logo_2017.svg.png" group-title="Movie", Rai Premium
 http://b2everyrai-lh.akamaihd.net/i/raipremium_1@181837/master.m3u8
@@ -2281,6 +2286,3 @@ https://happywatch99-lh.akamaihd.net/i/live0916_live@704623/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/UPdXRdp.png" group-title="THAILAND",White Channel
 http://symc-cdn.violin.co.th:1935/tndedge/whitechannel/chunklist.m3u8
-
-###VOD
-
