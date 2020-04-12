@@ -90,7 +90,7 @@ http://wowza58.indostreamserver.com:1935/arematv/live/chunklist_w425722557.m3u8
 #EXTINF:-1 tvg-logo="https://www.tikilive.com/public/files/shows/226/226513/48133-294x165-FFFFFF.jpg" group-title="LOKAL DAERAH", Bayu TV
 http://wms.klikhost.com/bayutv/live/chunklist_w54273383.m3u8
 
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/hGcg87rw/elshintatv.png" group-title="LOKAL", Elshinta TV 
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/hGcg87rw/elshintatv.png" group-title="LOKAL DAERAH", Elshinta TV 
 http://45.126.83.51/qwr9ew/s/s10/01.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/b/b9/BaliTV_2014.png" group-title="LOKAL DAERAH", Bali TV
@@ -383,16 +383,13 @@ http://wowza58.indostreamserver.com:1935/wesaltv/live/chunklist_w1050078582.m3u8
 ###KIDS
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/Animax.png" group-title="KIDS", Animax
-http://210.210.155.35:80/dr9445/h/h144/index2.m3u8
+https://liveanevia.mncnow.id/live/eds/Animax/sa_hls/Animax-avc1_2499968=11-mp4a_98800_eng=3.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/Animax.png" group-title="KIDS", Animax HD
-http://rr1.dens.tv/h/h144/01.m3u8?app_type=web&userid=1xk5f71bb6a&tkn=ZKRMJMGW9Y6VNVASVC4NFTORG5HEEC1L&chname=Animax_HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/Animax.png" group-title="KIDS", Animax ID
+http://210.210.155.35/session/abf8e08c-7c62-11ea-a7a4-b82a72d63267/dr9445/h/h144/01.m3u8?app_type=web&userid=1xk5f71bb6a&tkn=ZKRMJMGW9Y6VNVASVC4NFTORG5HEEC1L&chname=Animax_HD
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b8/Aniplus_Asia_Logo.png" group-title="KIDS", Aniplus 
-http://210.210.155.35/session/0d216142-f3f5-11e8-ab67-89df93dc8d44/dr9445/h/h02/01.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b8/Aniplus_Asia_Logo.png" group-title="KIDS", Aniplus 
-http://rr1.dens.tv/h/h02/01.m3u8?app_type=web&userid=1xk5f71bb6a&tkn=ZKRMJMGW9Y6VNVASVC4NFTORG5HEEC1L&chname=ANIPLUS
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b8/Aniplus_Asia_Logo.png" group-title="KIDS", Aniplus ID
+http://210.210.155.35/session/9d02e154-7c62-11ea-a7a4-b82a72d63267/dr9445/h/h02/01.m3u8?app_type=web&userid=1xk5f71bb6a&tkn=ZKRMJMGW9Y6VNVASVC4NFTORG5HEEC1L&chname=ANIPLUS
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/45/BabyTV.png" group-title="KIDS", Baby TV
 
@@ -580,7 +577,7 @@ http://203.153.218.28:9981/stream/channelid/756717990?ticket=B63A8893B7D332F2F7A
 
 
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/id/FX.id.png" group-title="Movie", FX 
-https://liveanevia.mncnow.id/live/eds/FX/sa_hls/FX.m3u8?
+
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/800px-HBO_logo.svg.png" group-title="Movie", HBO 1
 
