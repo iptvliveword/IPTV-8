@@ -3,12 +3,15 @@
 ###LOKAL
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/f/fd/Antv_logo%282009%29.png" group-title="LOKAL", Antv
-http://id2.indostreamingtv.com/live/antv/index.m3u8
+http://202.80.222.130/000001/2/ch14061215034900095272/index.m3u8?virtualDomain=000001.live_hls.zte.com
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/3/37/Logo_Global_TV_2012.png" group-title="LOKAL", Global TV
-https://livetvhooq.akamaized.net/23cf552372cb459795ca683f9cc306d8/ap-southeast-1/5493668622001/profile_1/chunklist.m3u8?hdnts=st=1536005897~exp=9007200790746888~acl=/23cf552372cb459795ca683f9cc306d8/*/profile_1/chunklist.m3u8*~hmac=41e55cd90f1806ca59b56a1c266cc150ab4d70047b87019fc7db29c07c678d42
+http://202.80.222.182:80/000001/2/ch14041511505498448705/index.m3u8?virtualDomain=000001.live_hls.zte.com
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/3/37/Logo_Global_TV_2012.png" group-title="LOKAL", Global TV++
+http://202.80.222.130/000001/2/ch14041511505498448705/index.m3u8?virtualDomain=000001.live_hls.zte.com
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/3/37/Logo_Global_TV_2012.png" group-title="LOKAL", Global TV+++
 http://id6.indostreamingtv.com/live/tv1/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/6/62/MNC_HomeLiving.jpeg" group-title="LOKAL", Home & Living
@@ -402,7 +405,7 @@ http://wowza58.indostreamserver.com:1935/wesaltv/live/chunklist_w1050078582.m3u8
 ###KIDS
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/Animax.png" group-title="KIDS", Animax 
-https://liveanevia.mncnow.id/live/eds/Animax/sa_hls/Animax-avc1_2499968=11-mp4a_98800_eng=3.m3u8
+http://210.210.155.35/session/83bc2526-da69-11e8-881b-c81f66f89318/dr9445/h/h144/index2.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/Animax.png" group-title="KIDS", Animax++
 http://210.210.155.35/session/abf8e08c-7c62-11ea-a7a4-b82a72d63267/dr9445/h/h144/01.m3u8?app_type=web&userid=1xk5f71bb6a&tkn=ZKRMJMGW9Y6VNVASVC4NFTORG5HEEC1L&chname=Animax_HD
@@ -421,6 +424,9 @@ http://ms003.happytv.com.tw/live/F9YMztT5DcwWEr1f/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Boomerang_2014_logo.svg/1200px-Boomerang_2014_logo.svg.png" group-title="KIDS", Boomerang
 http://livecdnh3.tvanywhere.ae/hls/boomerang/index.m3u8?fluxustv.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Boomerang_2014_logo.svg/1200px-Boomerang_2014_logo.svg.png" group-title="KIDS", Boomerang++
+http://data.m2pj.ml:80/joaquim1/joaquim1/29803
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/800px-Cartoon_Network_2010_logo.svg.png" group-title="KIDS", Cartoon Network ID
 http://203.153.218.28:9981/stream/channelid/251475608?ticket=5B6244F9555D96BA8A9DF1BBBA2BA2F8BDB05A86&profile=pass
 
@@ -428,7 +434,7 @@ http://203.153.218.28:9981/stream/channelid/251475608?ticket=5B6244F9555D96BA8A9
 http://203.153.218.28:9981/stream/channelid/251475608?ticket=3CBFB27E68B1DFEAB62E7781784EE2C7BFA92754&profile=pass
 
 #EXTINF:-1,tvg-logo="http://www.da-vinci-learning.com/wp-content/uploads/2018/09/Da_Vinci_Learning_Kids.png" group-title="KIDS", Davinci Kids
-http://213.174.8.7:11111/index.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/2014_Disney_Channel_logo.svg/800px-2014_Disney_Channel_logo.svg.png" group-title="KIDS", Disney Channel ID
 http://203.153.218.28:9981/stream/channelid/31701170?ticket=02DB3A3E44B8E741CC4D2913B2F42F452A2C3AB9&profile=pass
@@ -437,7 +443,7 @@ http://203.153.218.28:9981/stream/channelid/31701170?ticket=02DB3A3E44B8E741CC4D
 http://103.47.132.164/PLTV/88888888/224/3221226011/04.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/53/Ducktv-logo.jpg" group-title="KIDS", Duck TV
-http://livecdnh3.tvanywhere.ae/hls/duck/06.m3u8
+http://livecdnh3.tvanywhere.ae/hls/duck/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/c/cb/AKR20120628019000005_01_i.jpg/revision/latest?cb=20180629203515" group-title="KIDS", EBS KIDS
 http://ebsonair.ebs.co.kr:1935/ebsutablet500k/tablet500k/playlist.m3u8
@@ -460,13 +466,12 @@ https://d3kw4vhbdpgtqk.cloudfront.net/hls/miaomipcweb/prog_index.m3u8?fluxustv.m
 
 
 #EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2018/11/nick-jr-logo.png" group-title="KIDS", Nick JR
-http://213.174.8.7:9100/index.m3u8
+https://liveanevia.mncnow.id/live/eds/NickJr/sa_hls/NickJr.m3u8
 
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/2/2a/NickToons_TV.svg/revision/latest/scale-to-width-down/200?cb=20091118204932" group-title="KIDS", NickToons
 
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Nickelodeon_2009_logo.svg/800px-Nickelodeon_2009_logo.svg.png" group-title="KIDS", Nickelodeon Asia
-http://203.153.218.28:9981/stream/channelid/648970596?ticket=72A19F89119921817ADF08AEBFF2D7E0009D1A20&profile=pass
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Nickelodeon_2009_logo.svg/800px-Nickelodeon_2009_logo.svg.png" group-title="KIDS", Nickelodeon ID
+https://liveanevia.mncnow.id/live/eds/Nickelodeon/sa_hls/Nickelodeon.m3u8
 
 #EXTINF:-1 tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/rai-gulp-logo-png-.png" group-title="KIDS", Rai Gulp
 http://b2everyrai-lh.akamaihd.net/i/raigulp_1@66350/master.m3u8
@@ -475,7 +480,10 @@ http://b2everyrai-lh.akamaihd.net/i/raigulp_1@66350/master.m3u8
 http://b2everyrai-lh.akamaihd.net/i/raiyoyo_1@191405/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/2b/Spacetoon_logo.png" group-title="KIDS", Spacetoon
-http://95.170.215.109:80/hls/m3u8/Spacetoon-Backup.m3u8
+http://livecdnh2.tvanywhere.ae/hls/spacetoon/04.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/2b/Spacetoon_logo.png" group-title="KIDS", Spacetoon++
+http://livecdnh2.tvanywhere.ae/hls/spacetoon/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Indonesian" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/e/e3/Spacetoon.png/300px-Spacetoon.png" tvg-country="ID" tvg-url="" group-title="KIDS", Spacetoon ID
 
@@ -558,13 +566,13 @@ http://103.199.161.254/Content/b4umovies/Live/Channel(B4UMovies)/Stream(01)/inde
 http://livecdnh3.tvanywhere.ae/hls/b4uplus/04.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/a/af/CMC_English_full_color_black_text_2.jpg/800px-CMC_English_full_color_black_text_2.jpg" group-title="Movie", Celestial Classic Movie
-http://iliketot.dyndns.tv/1c2276a2f1884b269ce281c3334e8f85.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni82LzIwMTggMjo1Nzo0OCBBTSZoYXNoX3ZhbHVlPVAwSk5CRlBPTGwvRXJDRFMrTFZBS0E9PSZ2YWxpZG1pbnV0ZXM9MSZpZD1zazJrNGJwfDkxMnx1cGxheXwxNTI4MjUzODY4fDIwMi4yOC40MS4xNDQ=
+
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/611-cinemax.png" group-title="Movie", Cinemax
-http://203.153.218.28:9981/stream/channelid/255605374?ticket=8419D5E6A24EE915F246B23011407540BE9B0E50&profile=pass
+http://data.m2pj.ml:80/joaquim1/joaquim1/29795
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/611-cinemax.png" group-title="Movie", Cinemax HD
-
+http://data.m2pj.ml:80/joaquim1/joaquim1/29794
 
 #EXTINF:-1 tvg-logo="http://assets.stickpng.com/thumbs/5a0ac9495a997e1c2cea10b8.png" group-title="Movie", CineWorld
 http://45.126.83.51/uq2663/h/h04/index2.m3u8
@@ -610,12 +618,14 @@ http://203.153.218.28:9981/stream/channelid/756717990?ticket=D9CDD7DB18E80023C22
 
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/id/FX.id.png" group-title="Movie", FX 
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/uZCd7Ur.png" group-title="Movie",Galaxy TV
+https://dl.dropbox.com/s/8s2jwrvobrtx05m/Galaxy.m3u8?dl=1
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/800px-HBO_logo.svg.png" group-title="Movie", HBO
-http://203.153.218.28:9981/stream/channelid/1299824667?ticket=EDA811CE90A26AD414D02B63E0A9171A68A9454C&profile=pass
+http://data.m2pj.ml:80/joaquim1/joaquim1/29691
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8b/HBO_2_Logo.png" group-title="Movie", HBO 2
-
+http://data.m2pj.ml:80/joaquim1/joaquim1/29690
 
 #EXTINF:-1 tvg-logo="https://www.hrvatskitelekom.hr/webresources/images/maxtv-new/programi/hbo3.png" group-title="Movie", HBO 3
 
@@ -632,10 +642,10 @@ http://203.153.218.28:9981/stream/channelid/2038175895?ticket=6BFD6BDBFA641B9E32
 http://203.153.218.28:9981/stream/channelid/78064174?ticket=4490D953FCAC1483DE94BE2C4D1F241E5319BCD8&profile=pass
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/HBO_Signature_Asia.png" group-title="Movie", HBO Signature
-http://203.153.218.28:9981/stream/channelid/1197019186?ticket=7BCDB753E026E4EE21551FA26F86591CDF9DA4A9&profile=pass
+https://liveanevia.mncnow.id/live/eds/HBOSignature/sa_hls/HBOSignature-avc1_2499968=7-HBOSignature-mp4a_98800_eng=3.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/HBO_Signature_Asia.png" group-title="Movie", HBO Signature++
-http://203.153.218.28:9981/stream/channelid/1197019186?ticket=96AB9AD0536B1000E515E3219100C78A9625CAE3&profile=pass
+http://data.m2pj.ml:80/joaquim1/joaquim1/29681
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/HITS-WWW-Banner1.png/800px-HITS-WWW-Banner1.png" group-title="Movie", Hits
 http://210.210.155.35/session/b664cd50-6b66-11e9-88bd-a3eeb50c438d/uq2663/h/h37/index2.m3u8?fluxustv.m3u8
@@ -672,10 +682,17 @@ http://b2everyrai-lh.akamaihd.net/i/raimovie_1@67348/master.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5f/Sony_PIX.png" group-title="Movie", Sony PIX
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/1/13/Starworldlogo.png" group-title="Movie", Star World
-http://livecdnh1.tvanywhere.ae/hls/star_world/05.m3u8
+http://livecdnh1.tvanywhere.ae/hls/star_world/index.m3u8?fluxustv.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/SAfu2jz.png" group-title="Movie", Star Movies
-http://livecdnh1.tvanywhere.ae/hls/star_movies/05.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/1/13/Starworldlogo.png" group-title="Movie", Star World++
+http://livecdnh1.tvanywhere.ae/hls/star_world/05.m3u8?fluxustv.m3u8
+
+#EXTINF:-1 tvg-logo="http://upload.wikimedia.org/wikipedia/id/f/f1/Star_movies_hd.png" group-title="Movie", Star Movies
+http://livecdnh1.tvanywhere.ae/hls/star_movies/index.m3u8?fluxustv.m3u8
+
+#EXTINF:-1 tvg-logo="http://upload.wikimedia.org/wikipedia/id/f/f1/Star_movies_hd.png" group-title="Movie", Star Movies++
+http://livecdnh1.tvanywhere.ae/hls/star_movies/05.m3u8?fluxustv.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/7/7e/Thrill_logo.png/revision/latest/scale-to-width-down/240?cb=20170606050150" group-title="Movie", Thrill
 http://210.210.155.35/qwr9ew/s/s34/index.m3u8
@@ -695,163 +712,145 @@ https://livetvhooq.akamaized.net/ed9f674616594d96bbe00f93ab8d7672/eu-central-1/5
 ###Music
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/e7lLlLn.png" group-title="MUSIC", Ava Music
-http://51.15.236.137/hls/stream.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://b.kisscc0.com/20180813/vaw/kisscc0-concert-logo-music-computer-icons-concert-logo-5b71426396c973.8649285815341492196176.png" group-title="MUSIC" ,B Music Session
-https://livetvhooq.akamaized.net:443/94d7194614e148059bca126206f13321/ap-southeast-1/5493668622001/profile_0/chunklist.m3u8?hdnts=st=1573599727~exp=9007200828340718~acl=/94d7194614e148059bca126206f13321/*/profile_0/chunklist.m3u8*~hmac=4e62bad0407e078c42fceb6a3757dc833dd2d0c3b7394304a1c078d093cd2097
 
 #EXTINF:-1 tvg-logo="" group-title="MUSIC", BOOGELE BOOLYWOOD
-http://live.agmediachandigarh.com/booglebollywood/774e3ea9f3fa9bcdac47f445b83b6653.sdp/index.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Box_hits.svg/800px-Box_hits.svg.png" group-title="MUSIC", BOX Hits
-http://csm-e.tm.yospace.com/csm/extlive/boxplus01,boxhits-desktop.m3u8?yo.up=http%3a%2f%2fboxtv-origin-elb.cds1.yospace.com%2fuploads%2fboxhits%2f
+
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MUSIC", California Music Channel
-http://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMC-TV/.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rAZBgir.png" group-title="MUSIC", Canadian Arab TV
-http://192.226.228.32:8080/hls/catv/index.m3u8?fluxustv.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/pTCWWT9.png" group-title="MUSIC", Cine Voice
-http://live.wmncdn.net/cinevoice/508a8ec9dfdb9c61df9823aac272b719.sdp/mono.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/8/80/CLUBBING_TV_HD_2014.png/revision/latest/scale-to-width-down/340?cb=20191025112332" group-title="MUSIC", Clubbing TV
-https://livetvhooq.akamaized.net/923e04bf28d6488e85831094a2cfc33d/eu-central-1/5493668622001/profile_2/chunklist.m3u8?hdnts=st=1574859145~exp=9007200829600136~acl=/923e04bf28d6488e85831094a2cfc33d/*/profile_2/chunklist.m3u8*~hmac=f08709f141d2907969261ab7dc1b638b736757339dffbc26332eccee434e6654
+
 
 #EXTINF:0 tvg-id="ext" group-title="MUSIC", Dangdutz TV
-http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:dangdutch/chunklist_b2288000.m3u8
+
 
 #EXTINF:-1 tvg-logo="" group-title="MUSIC", DIL SE
-http://linear07hun-lh.akamaihd.net/i/dilse_1@673921/master.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQEqBekJgxnow7bJYYKDoQMtOfUO22uP9bEzSVCYYUGTJABQ8-c" group-title="MUSIC", Karaoke Indonesia
-http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:karaokech/chunklist_b420000.m3u8
+
 
 #EXTINF:-1 tvg-id="KissTV" tvg-name="KISS" tvg-logo="http://vtpi.best/chansicons/kissfm.png" group-title="MUSIC",KISS
-http://siptv.vip:27373/b10664/nhzefw/20127
+
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3iTeSYy.png" group-title="MUSIC", MBC Masr
-http://livecdnh2.tvanywhere.ae:80/hls/mbc_msr/index.m3u8
+
 
 #EXTINF:-1 tvg-logo="" group-title="MUSIC", Hungama - Bhaarat Sagar
-http://linear02hun-lh.akamaihd.net/i/bhaktisagar_1@665239/master.m3u8
+
 
 #EXTINF:-1 tvg-logo="" group-title="MUSIC", Hungama - Bhakti Sagar
-http://linear02hun-lh.akamaihd.net/i/bhaktisagar_1@665239/master.m3u8
+
 
 #EXTINF:-1 tvg-logo="" group-title="MUSIC", Hungama - Dhamaal
-http://linear06hun-lh.akamaihd.net/i/dhamaal_1@665243/master.m3u8
+
 
 #EXTINF:-1 tvg-logo="" group-title="MUSIC", Hungama - Dil Se
-http://linear07hun-lh.akamaihd.net/i/dilse_1@673921/master.m3u8
+
 
 #EXTINF:-1 tvg-logo="" group-title="MUSIC", Hungama - Kadak Hits
-http://linear01hun-lh.akamaihd.net/i/faaduhits_1@660838/master.m3u8
+
 
 #EXTINF:-1 tvg-logo="" group-title="MUSIC", Hungama - Nazrana
-http://linear08hun-lh.akamaihd.net/i/nazrana_1@673935/master.m3u8
+
 
 #EXTINF:-1 tvg-logo="" group-title="MUSIC", Hungama - Pop Pataka
-http://linear04hun-lh.akamaihd.net/i/poppataka_1@665241/master.m3u8
+
 
 #EXTINF:-1 tvg-logo="" group-title="MUSIC", Hungama - Punjabi Tadka
-http://linear05hun-lh.akamaihd.net/i/punjabitadka_1@665242/master.m3u8
+
 
 #EXTINF:-1 tvg-logo="" group-title="MUSIC", Hungama - Sakkat
-http://linear03hun-lh.akamaihd.net/i/sakkat_1@665240/master.m3u8
+
 
 #EXTINF:-1 tvg-logo="" group-title="MUSIC", JPUNJABI
-http://159.203.9.134/hls/jhanjar_music/jhanjar_music.m3u8
+
 
 #EXTINF:-1 tvg-logo="" group-title="MUSIC", M20 MUSIC
-http://203.130.206.115:9981/stream/channelid/481132763
+
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3iTeSYy.png" group-title="MUSIC", MBC Masr
-http://livecdnh2.tvanywhere.ae:80/hls/mbc_msr/index.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3GBgEQD.png" group-title="MUSIC", Maleo
-http://stream1.ninmedia.tv/maleo/udp.stream_360p/playlist.m3u8
+
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MUSIC", MiX MUSIC
-http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:mixch/playlist.m3u8
+
 
 #EXTINF:-1 tvg-logo="" group-title="MUSIC", MIX MUSIC (Backup)
-http://edge.linknetott.swiftserve.com/channelgroup2/cg220production/ch364/05.m3u8
+
 
 #EXTINF:-1 tvg-logo="" group-title="MUSIC", MUSICB
-http://zaman-now.com/﻿zxtvxz﻿/MusicB
+
 
 #EXTINF:-1 tvg-logo="https://b.kisscc0.com/20180813/vaw/kisscc0-concert-logo-music-computer-icons-concert-logo-5b71426396c973.8649285815341492196176.png" group-title="MUSIC",Music Concert
-https://livetvhooq.akamaized.net:443/f17ef07681bb44069d2e2f376e92e9c0/ap-southeast-1/5493668622001/profile_0/chunklist.m3u8?hdnts=st=1573599812~exp=9007200828340803~acl=/f17ef07681bb44069d2e2f376e92e9c0/*/profile_0/chunklist.m3u8*~hmac=10bc23dba3cb21b86ba9ef7ea7eaa63d0e977673c431f0921878deda7b6ad638
+
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTE0y1Jo7mTOM6X78bwRQ8BoZ6TgHZnXk2hZE9wmOEfhtrOIae7" group-title="MUSIC",Music Top
-http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/chunklist_w767435128_b2028000_sleng.m3u8
+
 
 #EXTINF:-1 tvg-logo="http://pluspng.com/img-png/mtv-logo-png-open-2000.png" group-title="MUSIC", MTV
-http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/master.m3u8?fluxustv.m3u8
+
 
 #EXTINF:-1 tvg-logo="http://pluspng.com/img-png/mtv-logo-png-open-2000.png" group-title="MUSIC", MTV (Bakcup)
-http://161.0.157.7/PLTV/88888888/224/3221226825/index.m3u8
+
 
 #EXTINF:-1 tvg-id="MTV" tvg-name="MTV" tvg-logo="http://vtpi.best/chanicons/UK/MTV.png" group-title="MUSIC", MTV
-http://siptv.vip:27373/b10664/nhzefw/20085
+
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/MTV_Logo.svg/426px-MTV_Logo.svg.png" group-title="MUSIC", MTV+
-http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/master.m3u8
+
 
 #EXTINF:-1 tvg-logo="" group-title="MUSIC", MTV ASiA
-http://www.livedoomovie.com/02_MTV_Asia_720p/chunklist.m3u8
  
 #EXTINF:-1 tvg-id="MTVBase" tvg-name="MTV Base" tvg-logo="http://vtpi.best/chansicons/7960214c07b79cc89dc65dc6e702b54c.png" group-title="MUSIC", MTV Base
-http://siptv.vip:27373/b10664/nhzefw/20129
  
 #EXTINF:-1 tvg-id="MTVClassic" tvg-name="MTV Classic" tvg-logo="http://vtpi.best/chansicons/d072c4b027cf5893778ef9c6069e456b.png" group-title="MUSIC", MTV Classic
-http://siptv.vip:27373/b10664/nhzefw/20130
 
 #EXTINF:-1 tvg-id="MTVDance" tvg-name="MTV Dance" tvg-logo="http://vtpi.best/chansicons/60e7040b33c6ae35553270046cbaaed0.png" group-title="MUSIC", MTV Dance
-http://siptv.vip:27373/b10664/nhzefw/20131
  
 #EXTINF:-1 tvg-id="MTVHits" tvg-name="MTV Hits" tvg-logo="http://vtpi.best/chansicons/ad067a3111eec7edf767f5d36f394342.png" group-title="MUSIC", MTV Hits
-http://siptv.vip:27373/b10664/nhzefw/20132
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2a/MTV_Live_HD_2013.png" group-title="MUSIC", MTV Live
-https://www.livedoomovie.com/02_MTV_Live_HD_720p/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="MTVMusic" tvg-name="MTV Music" tvg-logo="http://vtpi.best/chansicons/mtvmusic.png" group-title="MUSIC",MTV Music
-http://siptv.vip:27373/b10664/nhzefw/20133
 
 #EXTINF:-1 tvg-id="MTVRocks" tvg-name="MTV Rocks" tvg-logo="http://vtpi.best/chansicons/mtvrocks.png" group-title="MUSIC",MTV Rocks
-http://siptv.vip:27373/b10664/nhzefw/20134
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRTQ8BvoLcW9Mn7Sx7XEpzTDvcOlRUlIYdWFkBRKPbAKp4RGP4g" group-title="MUSIC",One Music
-http://rtmp.one.by:1300
 
 #EXTINF:-1 tvg-logo="" group-title="MUSIC", PBN Music
-http://live.wmncdn.net/pbnmusic/b437d1e185b4c95b08b9c830a9d97cff.sdp/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ZuvHze2.png" group-title="MUSIC" tvg-language="Indonesian" group-title="MUSIC", Pop Music
-http://stream1.ninmedia.tv/popmusik/udp.stream_360p/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="MUSIC", RADIO M20
-http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-p.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="MUSIC", RETRO
-http://89.185.253.55/retrotv/retrotvHQ1/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7b/Retro_Music_TV_logo.png" group-title="MUSIC", Retro Music TV
-http://89.185.253.55/retrotv/retrotvHQ1/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="MUSIC", ROTANA AFLAM
-http://livecdnh3.tvanywhere.ae/hls/rotaflam/index.m3u8
+
 
 #EXTINF:-1 tvg-logo="" group-title="MUSIC", ROTANA Clip
-http://livecdnh3.tvanywhere.ae/hls/rotclip/index.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="MUSIC", ROTANA Musik
-http://livecdnh3.tvanywhere.ae/hls/rotmusic/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/AuYEozR.png" group-title="MUSIC", Wanasah
-http://livecdnh2.tvanywhere.ae/hls/wanasah/04.m3u8
 
 ###Entertainment
 
@@ -968,47 +967,46 @@ http://slive.ytn.co.kr:1935/dmb/ydlive_20140419_1/playlist.m3u8
 http://mediaworks-i.akamaihd.net/hls/live/220435/3812193411001/3news_live/master_1500.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/Animal_Planet.png" group-title="Knowledge", Animal Planet ID
-http://203.153.218.28:9981/stream/channelid/1943600623?ticket=694FA36A0D756D8572C705243A10521FAF796351&profile=pass
+https://liveanevia.mncnow.id/live/eds/AnimalPlanet/sa_hls/AnimalPlanet.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/Animal_Planet.png" group-title="Knowledge", Animal Planet HD
+http://data.m2pj.ml:80/joaquim1/joaquim1/29819
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/44/BBC_Earth_logo.png" group-title="Knowledge", BBC Earth
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1b/Blue_Ocean_Network_logo.png" group-title="Knowledge", Blue Ocean Network TV
 http://188.35.9.5:10007/stolen/122v/parasite.install
 
-#EXTINF:-1,tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2019_Discovery_logo.svg/800px-2019_Discovery_logo.svg.png" group-title="Knowledge", Discovery Channel 
+#EXTINF:-1,tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2019_Discovery_logo.svg/800px-2019_Discovery_logo.svg.png" group-title="Knowledge", Discovery Channel
+http://83.167.253.110:5000/live/discovery/playlist.m3u8
 
-#EXTINF:-1,tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2019_Discovery_logo.svg/800px-2019_Discovery_logo.svg.png" group-title="Knowledge", Discovery Channel  ID
-https://vcdnjt.useetv.com/joss/15/disco/chunklist_w1683347992_b894100_sleng.m3u8?enc=nOhqjC3eP-qWUfqr4LlDCA&exp=1584799014
+#EXTINF:-1,tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2019_Discovery_logo.svg/800px-2019_Discovery_logo.svg.png" group-title="Knowledge", Discovery Channel++
+http://www.livedoomovie.com/02_DiscoveryHDWorld/chunklist.m3u8
+
+#EXTINF:-1,tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2019_Discovery_logo.svg/800px-2019_Discovery_logo.svg.png" group-title="Knowledge", Discovery Channel+++
+http://data.m2pj.ml:80/joaquim1/joaquim1/29786
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/DocuBox_HD_logo.png" group-title="Knowledge", Docubox
 http://livecdnh3.tvanywhere.ae/hls/docubox/05.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/0/07/History_channel_us.png" group-title="Knowledge", History Channel ID
-https://vcdnjt.useetv.com/joss/15/history/chunklist_w451542495_b894100_sleng.m3u8?enc=oCZ0triif_wAfn3aoXufFA&exp=1584800485
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/0/07/History_channel_us.png" group-title="Knowledge", History Channel ID (Backup)
 http://203.153.218.28:9981/stream/channelid/1868154562?ticket=A6B5FCF4BEA85CDC157E4CF8DAE0FE22C9FA8432&profile=pas
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/0/07/History_channel_us.png" group-title="Knowledge", History Channel JP
+http://192.240.127.34:1935/live/cs14.stream/playlist.m3u8?wowzasessionid=1203854395
+
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b3/History2_Canada.png" group-title="Knowledge", History Channel 2
-http://livecdnh1.tvanywhere.ae/hls/h2/05.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/Logo_Chaine_National_Geographic_Channel.png" group-title="Knowledge", National Geographic
-http://livecdnh1.tvanywhere.ae/hls/nat_geo/05.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/Logo_Chaine_National_Geographic_Channel.png" group-title="Knowledge", National Geographic ID
-https://vcdnjt.useetv.com/joss/15/natgeo/chunklist_w1680774976_b894100_sleng.m3u8?enc=PL4RRkYEmUOCNiIZPKaZMQ&exp=1584798450
+http://livecdnh1.tvanywhere.ae/hls/nat_geo/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/NatGeo_People_logo.png" group-title="Knowledge", NatGeo People
 http://livecdnh1.tvanywhere.ae/hls/nat_geo_people/05.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/NatGeo_People_logo.png" group-title="Knowledge", NatGeo People ID
-https://vcdnjt.useetv.com/joss/15/natgeopeople/chunklist_w1088444012_b894100_sleng.m3u8?enc=-H087jEyZOHcD_P_ZoYvnQ&exp=1584798584
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/f/f6/NatGeo_Wild.png" group-title="Knowledge", NatGeo Wild
-http://livecdnh1.tvanywhere.ae/hls/nat_geo_wild/04.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/f/f6/NatGeo_Wild.png" group-title="Knowledge", NatGeo Wild ID
-https://vcdnjt.useetv.com/joss/15/natgeowild/chunklist_w1546557041_b894100_sleng.m3u8?enc=0nlAg7W6fEOf0QuY_aeW-w&exp=1584798739
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/VX4uHSO.png" group-title="Knowledge", NASA TV
 http://iphone-streaming.ustream.tv/uhls/6540154/streams/live/iphone/playlist.m3u8
@@ -1020,7 +1018,7 @@ http://iphone-streaming.ustream.tv/uhls/10414700/streams/live/iphone/playlist.m3
 http://210.210.155.35/uq2663/h/h23/index1.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/eb/Outdoor_Channel_2017.png" group-title="Knowledge", Outdoor Channel
-https://livetvhooq.akamaized.net/4333904e5f68426cae808a645e882206/eu-central-1/5493668622001/profile_2/chunklist.m3u8?hdnts=st=1576672231~exp=9007200831413222~acl=/4333904e5f68426cae808a645e882206/*/profile_2/chunklist.m3u8*~hmac=d22ed12147e6fe5936f8198fcf71838cb4651880f2ac0f4fdea39fb2b8a054b7
+http://84.22.33.254/unicast.outdoorchannel/index.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Knowledge", OCEAN
 http://188.35.9.5:10007/stolen/122v/parasite.install
