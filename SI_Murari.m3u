@@ -434,13 +434,9 @@ http://210.210.155.35/session/9d02e154-7c62-11ea-a7a4-b82a72d63267/dr9445/h/h02/
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/45/BabyTV.png" group-title="KIDS", Baby TV
 
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/thebabyeinstein/images/d/d0/Babyfirst-logo.png/revision/latest?cb=20190505153610" group-title="KIDS", Baby First
-http://ms003.happytv.com.tw/live/F9YMztT5DcwWEr1f/index.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Boomerang_2014_logo.svg/1200px-Boomerang_2014_logo.svg.png" group-title="KIDS", Boomerang
-http://chronostv.com:80/iw9k4n/nwg3lb/69035
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Boomerang_2014_logo.svg/1200px-Boomerang_2014_logo.svg.png" group-title="KIDS", Boomerang++
-http://chronostv.com:80/iw9k4n/nwg3lb/69034
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/800px-Cartoon_Network_2010_logo.svg.png" group-title="KIDS", Cartoon Network ID
 http://203.153.218.28:9981/stream/channelid/251475608?ticket=5B6244F9555D96BA8A9DF1BBBA2BA2F8BDB05A86&profile=pass
@@ -450,7 +446,6 @@ http://203.153.218.28:9981/stream/channelid/251475608?ticket=3CBFB27E68B1DFEAB62
 
 #EXTINF:-1,tvg-logo="http://www.da-vinci-learning.com/wp-content/uploads/2018/09/Da_Vinci_Learning_Kids.png" group-title="KIDS", Davinci Kids
 
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/2014_Disney_Channel_logo.svg/800px-2014_Disney_Channel_logo.svg.png" group-title="KIDS", Disney Channel ID
 http://203.153.218.28:9981/stream/channelid/31701170?ticket=02DB3A3E44B8E741CC4D2913B2F42F452A2C3AB9&profile=pass
 
@@ -458,7 +453,6 @@ http://203.153.218.28:9981/stream/channelid/31701170?ticket=02DB3A3E44B8E741CC4D
 http://103.47.132.164/PLTV/88888888/224/3221226011/04.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/53/Ducktv-logo.jpg" group-title="KIDS", Duck TV
-http://livecdnh3.tvanywhere.ae/hls/duck/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/c/cb/AKR20120628019000005_01_i.jpg/revision/latest?cb=20180629203515" group-title="KIDS", EBS KIDS
 http://ebsonair.ebs.co.kr:1935/ebsutablet500k/tablet500k/playlist.m3u8
@@ -475,21 +469,16 @@ http://51.254.215.79/appflux/gongmax/GONGMAX/gongmax_1280/chunks.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/mD4VqZT/download.jpg" group-title="KIDS", Miao Mi
-https://d3kw4vhbdpgtqk.cloudfront.net/hls/miaomipcweb/prog_index.m3u8?fluxustv.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/mD4VqZT/download.jpg" group-title="KIDS", Miao Mi++
-https://d3kw4vhbdpgtqk.cloudfront.net/hls/miaomipcweb/prog_index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/5/59/KidsChannel.png" group-title="KIDS", My Kids
 
 
 #EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2018/11/nick-jr-logo.png" group-title="KIDS", Nick JR
-https://liveanevia.mncnow.id/live/eds/NickJr/sa_hls/NickJr.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/2/2a/NickToons_TV.svg/revision/latest/scale-to-width-down/200?cb=20091118204932" group-title="KIDS", NickToons
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Nickelodeon_2009_logo.svg/800px-Nickelodeon_2009_logo.svg.png" group-title="KIDS", Nickelodeon ID
-https://liveanevia.mncnow.id/live/eds/Nickelodeon/sa_hls/Nickelodeon.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Nickelodeon_2009_logo.svg/800px-Nickelodeon_2009_logo.svg.png" group-title="KIDS", Nickelodeon
 
 #EXTINF:-1 tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/rai-gulp-logo-png-.png" group-title="KIDS", Rai Gulp
 http://b2everyrai-lh.akamaihd.net/i/raigulp_1@66350/master.m3u8
@@ -498,16 +487,8 @@ http://b2everyrai-lh.akamaihd.net/i/raigulp_1@66350/master.m3u8
 http://b2everyrai-lh.akamaihd.net/i/raiyoyo_1@191405/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/2b/Spacetoon_logo.png" group-title="KIDS", Spacetoon
-http://livecdnh2.tvanywhere.ae/hls/spacetoon/04.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/2b/Spacetoon_logo.png" group-title="KIDS", Spacetoon++
-http://livecdnh2.tvanywhere.ae/hls/spacetoon/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Indonesian" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/e/e3/Spacetoon.png/300px-Spacetoon.png" tvg-country="ID" tvg-url="" group-title="KIDS", Spacetoon ID
-
 
 #EXTINF:-1 logo="https://www.satlogo.com/hires/tt/toonmax_cn.png" group-title="KIDS", ToonMax
-
 
 #EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQjMXQ2d2qv8-AWoxKOWboph0KAwgc6qJ7DWL1AZf6w0mCMqIl1" group-title="KIDS",Tom & Jerry TV
 https://ws.flv.nimo.tv/live/su1599512427554r538093ee8e9c2edd24251f82cda6fd16_high.flv?fluxustv.flv
@@ -577,9 +558,6 @@ http://ws.flv.nimo.tv/live/su1599512427559r6319ab6314a165d28a228bf5917d1fe0_high
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/6/60/AXN_2015_logo.png" group-title="Movie", AXN
 http://203.153.218.28:9981/stream/channelid/882386103?ticket=79046258DC0E930E01197AF56D3D1298958EEE07&profile=pass
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/6/60/AXN_2015_logo.png" group-title="Movie", AXN++
-http://tvku.live:8888/abi3/abi3/9
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/54/B4U_Movies_logo.png" group-title="Movie", B4U Movies
 http://103.199.161.254/Content/b4umovies/Live/Channel(B4UMovies)/Stream(01)/index.m3u8
 
@@ -587,28 +565,18 @@ http://103.199.161.254/Content/b4umovies/Live/Channel(B4UMovies)/Stream(01)/inde
 http://livecdnh3.tvanywhere.ae/hls/b4uplus/04.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d3/Blue_ant_extreme_logo.png" group-title="Movie", Blue Ant Extreme
-http://tvku.live:8888/abi3/abi3/811
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/a/af/CMC_English_full_color_black_text_2.jpg/800px-CMC_English_full_color_black_text_2.jpg" group-title="Movie", Celestial Classic Movie
-http://tvpremiumhd.club/lista-gratuita/213011/on/live.php?id=210.210.155.35/qwr9ew/s/s33/01.m3u8&checkedby:iptvcat.com
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_celestialmovie_small.png" group-title="Movie", Celestial Movies
-http://tvku.live:8888/abi3/abi3/5
+
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/611-cinemax.png" group-title="Movie", Cinemax
-http://tvku.live:8888/abi3/abi3/2156
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/611-cinemax.png" group-title="Movie", Cinemax++
-http://tvku.live:8888/abi3/abi3/26599
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/611-cinemax.png" group-title="Movie", Cinemax+++
-http://tvku.live:8888/abi3/abi3/30185
 
 #EXTINF:-1 tvg-logo="http://assets.stickpng.com/thumbs/5a0ac9495a997e1c2cea10b8.png" group-title="Movie", CineWorld
 http://45.126.83.51/uq2663/h/h04/index2.m3u8
 
-#EXTINF:-1 tvg-logo="http://assets.stickpng.com/thumbs/5a0ac9495a997e1c2cea10b8.png" group-title="Movie", CineWorld++
-http://tvku.live:8888/abi3/abi3/1194
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/e/e6/Diva_Universal.png" group-title="Movie", Diva
 http://tvpremiumhd.club/lista-gratuita/213011/on/live.php?id=210.210.155.35/uq2663/h/h11/01.m3u8&checkedby:iptvcat.com
@@ -621,26 +589,13 @@ http://203.153.218.28:9981/stream/channelid/1910872088?ticket=972D8B718BDDBE3414
 #EXTINF:-1 tvg-logo="http://vignette2.wikia.nocookie.net/outcastdatabase/images/a/ac/Fox_logo.png/revision/latest?cb=20150807073232" group-title="Movie", Fox HD++
 http://203.153.218.28:9981/stream/channelid/1910872088?ticket=9527FC229C33A71FBAF7DEF7D4ADD74FA1D1F1D5&profile=pass
 
-#EXTINF:-1 tvg-logo="http://vignette2.wikia.nocookie.net/outcastdatabase/images/a/ac/Fox_logo.png/revision/latest?cb=20150807073232" group-title="Movie", Fox HD+++
-http://tvku.live:8888/abi3/abi3/95
-
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/f/f0/Fox_Action_Movies.png/revision/latest?cb=20190313090329" group-title="Movie", Fox Action Movies 
 http://203.153.218.28:9981/stream/channelid/1910872088?ticket=1FE514A47371AF385F3866E79BE3A4D04BB182F4&profile=pass
 
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/f/f0/Fox_Action_Movies.png/revision/latest?cb=20190313090329" group-title="Movie", Fox Action Movies++
 http://203.153.218.28:9981/stream/channelid/1744735983?ticket=07E4904EDFA549D56E57107CB6140923FE593775&profile=pass
 
-#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/f/f0/Fox_Action_Movies.png/revision/latest?cb=20190313090329" group-title="Movie", Fox Action Movies+++
-http://tvku.live:8888/abi3/abi3/1478
-
 #EXTINF:-1 tvg-logo="https://assetsmysky.blob.core.windows.net/assetsmysky/production/plans-and-bundles/1562578594_fox-crime-lg.png" group-title="Movie", Fox Crime Movies
-http://tvku.live:8888/abi3/abi3/2257
-
-#EXTINF:-1 tvg-logo="https://assetsmysky.blob.core.windows.net/assetsmysky/production/plans-and-bundles/1562578594_fox-crime-lg.png" group-title="Movie", Fox Crime Movies++
-http://tvku.live:8888/abi3/abi3/763
-
-#EXTINF:-1 tvg-logo="https://assetsmysky.blob.core.windows.net/assetsmysky/production/plans-and-bundles/1562578594_fox-crime-lg.png" group-title="Movie", Fox Crime Movies+++
-http://tvku.live:8888/abi3/abi3/3334
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/d/df/FOX_Family_Movies_%282017%29.png" group-title="Movie", Fox Family Movies
 http://203.153.218.28:9981/stream/channelid/1949182550?ticket=C4FE458C6B9C4686BA0966E59174C0D6805DBB39&profile=pass
@@ -648,42 +603,28 @@ http://203.153.218.28:9981/stream/channelid/1949182550?ticket=C4FE458C6B9C4686BA
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/d/df/FOX_Family_Movies_%282017%29.png" group-title="Movie", Fox Family Movies++
 http://203.153.218.28:9981/stream/channelid/1949182550?ticket=07F04FD978CF0D1626AA28A8A68A1182729AC6EE&profile=pass
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/d/df/FOX_Family_Movies_%282017%29.png" group-title="Movie", Fox Family Movies+++
-http://tvku.live:8888/abi3/abi3/14994
-
 #EXTINF:-1 tvg-logo="https://seeklogo.net/wp-content/uploads/2017/06/fox-movies-logo.png" group-title="Movie", Fox Movies
 http://203.153.218.28:9981/stream/channelid/756717990?ticket=B63A8893B7D332F2F7ACFD3C14E761032035F66E&profile=pass
 
 #EXTINF:-1 tvg-logo="https://seeklogo.net/wp-content/uploads/2017/06/fox-movies-logo.png" group-title="Movie", Fox Movies++
 http://203.153.218.28:9981/stream/channelid/756717990?ticket=D9CDD7DB18E80023C22954FE693F71DB745D5CE7&profile=pass
 
-#EXTINF:-1 tvg-logo="https://seeklogo.net/wp-content/uploads/2017/06/fox-movies-logo.png" group-title="Movie", Fox Movies+++
-http://tvku.live:8888/abi3/abi3/1205
-
 #EXTINF:-1 tvg-logo="" group-title="Movie", Film HD
 
 #EXTINF:-1 tvg-logo="" group-title="Movie", Film HD 2
 
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/id/FX.id.png" group-title="Movie", FX 
-http://tvku.live:8888/abi3/abi3/776
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/uZCd7Ur.png" group-title="Movie",Galaxy TV
-https://dl.dropbox.com/s/8s2jwrvobrtx05m/Galaxy.m3u8?dl=1
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/uZCd7Ur.png" group-title="Movie",Galaxy TV++
-http://tvku.live:8888/abi3/abi3/29604
-
-#EXTINF:-1 group-title="Movie" tvg-logo="https://www.useetv.com/assets/images/channel/logo_galaxy_small1.png", Galaxy Premium SD
-http://tvku.live:8888/abi3/abi3/29603
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/800px-HBO_logo.svg.png" group-title="Movie", HBO
-http://tvku.live:8888/abi3/abi3/26595
+
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/800px-HBO_logo.svg.png" group-title="Movie", HBO++
-http://tvku.live:8888/abi3/abi3/210
+
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/800px-HBO_logo.svg.png" group-title="Movie", HBO+++
-http://tvku.live:8888/abi3/abi3/1496
+
 
 #EXTINF:-1 tvg-logo="https://www.hrvatskitelekom.hr/webresources/images/maxtv-new/programi/hbo3.png" group-title="Movie", HBO 3
 
@@ -693,35 +634,20 @@ http://203.153.218.28:9981/stream/channelid/1316004766?ticket=5F57E6E5C9291700E8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/HBO_Family_logo.png" group-title="Movie", HBO Family++
 http://203.153.218.28:9981/stream/channelid/1316004766?ticket=8603609D96360D7B639AB97584FF09E1086B3284&profile=pass
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/HBO_Family_logo.png" group-title="Movie", HBO Family+++
-http://tvku.live:8888/abi3/abi3/30184
-
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/id/HBOHits.id.png" group-title="Movie", HBO Hits 
 http://203.153.218.28:9981/stream/channelid/2038175895?ticket=6BFD6BDBFA641B9E326D9F96C522A9CA148626C6&profile=pass
 
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/id/HBOHits.id.png" group-title="Movie", HBO Hits++
 http://203.153.218.28:9981/stream/channelid/78064174?ticket=4490D953FCAC1483DE94BE2C4D1F241E5319BCD8&profile=pass
 
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/id/HBOHits.id.png" group-title="Movie", HBO Hits+++
-http://tvku.live:8888/abi3/abi3/11492
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/HBO_Signature_Asia.png" group-title="Movie", HBO Signature
-http://tvku.live:8888/abi3/abi3/26597
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/HBO_Signature_Asia.png" group-title="Movie", HBO Signature++
-http://tvku.live:8888/abi3/abi3/873
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/HBO_Signature_Asia.png" group-title="Movie", HBO Signature+++
-http://tvku.live:8888/abi3/abi3/1498
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/HITS-WWW-Banner1.png/800px-HITS-WWW-Banner1.png" group-title="Movie", Hits
-http://210.210.155.35/session/b664cd50-6b66-11e9-88bd-a3eeb50c438d/uq2663/h/h37/index2.m3u8?fluxustv.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/HITS-WWW-Banner1.png/800px-HITS-WWW-Banner1.png" group-title="Movie", Hits ID
-https://liveanevia.mncnow.id/live/eds/HitsMovies/sa_hls/HitsMovies.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/HITS-WWW-Banner1.png/800px-HITS-WWW-Banner1.png" group-title="Movie", Hits (Backup)
-https://liveanevia.mncnow.id/live/eds/HITS/sa_hls/HITS.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ROytQu2.png" group-title="Movie", iFILM English SD
 http://mn-nl.mncdn.com/ifilm/smil:ifilmen.smil/index.m3u8
@@ -741,9 +667,6 @@ http://210.210.155.35/session/e269237c-7e3d-11e8-a249-b82a72d63267/uq2663/h/h07/
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/db/KIX_logo.jpg" group-title="Movie", Kix++
 http://tvpremiumhd.club/lista-gratuita/213011/on/live.php?id=210.210.155.35/uq2663/h/h07/01.m3u8&checkedby:iptvcat.com
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/db/KIX_logo.jpg" group-title="Movie", Kix+++
-http://tvku.live:8888/abi3/abi3/8
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Rai_Premium_HD_-_Logo_2017.svg/1280px-Rai_Premium_HD_-_Logo_2017.svg.png" group-title="Movie", Rai Premium
 http://b2everyrai-lh.akamaihd.net/i/raipremium_1@181837/master.m3u8
 
@@ -751,7 +674,6 @@ http://b2everyrai-lh.akamaihd.net/i/raipremium_1@181837/master.m3u8
 http://b2everyrai-lh.akamaihd.net/i/raimovie_1@67348/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/7/70/REDBYHBO.png/revision/latest?cb=20160516085732" group-title="Movie", Red by HBO
-http://tvku.live:8888/abi3/abi3/4832
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5f/Sony_PIX.png" group-title="Movie", Sony PIX
 
@@ -762,16 +684,15 @@ http://livecdnh1.tvanywhere.ae/hls/star_world/index.m3u8?fluxustv.m3u8
 http://livecdnh1.tvanywhere.ae/hls/star_world/05.m3u8?fluxustv.m3u8
 
 #EXTINF:-1 tvg-logo="http://upload.wikimedia.org/wikipedia/id/f/f1/Star_movies_hd.png" group-title="Movie", Star Movies
-http://livecdnh1.tvanywhere.ae/hls/star_movies/index.m3u8?fluxustv.m3u8
+=
 
 #EXTINF:-1 tvg-logo="http://upload.wikimedia.org/wikipedia/id/f/f1/Star_movies_hd.png" group-title="Movie", Star Movies++
-http://livecdnh1.tvanywhere.ae/hls/star_movies/05.m3u8?fluxustv.m3u8
-
+=
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/f/f0/Star_chinese_movies_2012.png" group-title="Movie" , Star Chinese Movies
-http://tvku.live:8888/abi3/abi3/1859
+
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/f/f0/Star_chinese_movies_2012.png" group-title="Movie" , Star Chinese Movies++
-http://tvku.live:8888/abi3/abi3/780
+
 
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/7/7e/Thrill_logo.png/revision/latest/scale-to-width-down/240?cb=20170606050150" group-title="Movie", Thrill
 http://210.210.155.35/qwr9ew/s/s34/index.m3u8
@@ -780,10 +701,6 @@ http://210.210.155.35/qwr9ew/s/s34/index.m3u8
 http://210.210.155.35/session/c8a974dc-7e3d-11e8-bf09-b82a72d63267/qwr9ew/s/s34/01.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_warner_small.png?v=2.0.0.13" group-title="Movie", Warner TV
-https://vcdnjt.useetv.com/joss/15/warner/chunklist_w550071413_b494100_sleng.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_warner_small.png?v=2.0.0.13" group-title="Movie", Warner TV++
-http://tvku.live:8888/abi3/abi3/1533
 
 #EXTINF:-1 tvg-logo="https://www.dialog.lk/dialogdocroot/content/images/channel-highlights/waku-waku-large.png" group-title="Movie", Waku-Waku Japan
 https://vcdnjt.useetv.com/joss/15/wakuwaku/chunklist_w1175449473_b494100_sleng.m3u8?enc=gDjBhzte23UB_Ngo-rb0IQ&exp=1584803306
@@ -1049,10 +966,7 @@ http://slive.ytn.co.kr:1935/dmb/ydlive_20140419_1/playlist.m3u8
 http://mediaworks-i.akamaihd.net/hls/live/220435/3812193411001/3news_live/master_1500.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/Animal_Planet.png" group-title="Knowledge", Animal Planet
-https://liveanevia.mncnow.id/live/eds/AnimalPlanet/sa_hls/AnimalPlanet.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/Animal_Planet.png" group-title="Knowledge", Animal Planet++
-http://80.80.160.168/live/1/live.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/44/BBC_Earth_logo.png" group-title="Knowledge", BBC Earth
 
@@ -1060,12 +974,6 @@ http://80.80.160.168/live/1/live.m3u8
 http://188.35.9.5:10007/stolen/122v/parasite.install
 
 #EXTINF:-1,tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2019_Discovery_logo.svg/800px-2019_Discovery_logo.svg.png" group-title="Knowledge", Discovery Channel
-http://83.167.253.110:5000/live/discovery/playlist.m3u8
-
-#EXTINF:-1,tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2019_Discovery_logo.svg/800px-2019_Discovery_logo.svg.png" group-title="Knowledge", Discovery Channel++
-http://www.livedoomovie.com/02_DiscoveryHDWorld/chunklist.m3u8
-
-
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/DocuBox_HD_logo.png" group-title="Knowledge", Docubox
 http://livecdnh3.tvanywhere.ae/hls/docubox/05.m3u8
@@ -1083,13 +991,13 @@ http://192.240.127.34:1935/live/cs14.stream/playlist.m3u8?wowzasessionid=1203854
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/Logo_Chaine_National_Geographic_Channel.png" group-title="Knowledge", National Geographic
-http://livecdnh1.tvanywhere.ae/hls/nat_geo/index.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/NatGeo_People_logo.png" group-title="Knowledge", NatGeo People
-http://livecdnh1.tvanywhere.ae/hls/nat_geo_people/05.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/f/f6/NatGeo_Wild.png" group-title="Knowledge", NatGeo Wild
-http://livecdnh1.tvanywhere.ae/hls/nat_geo_wild/05.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/VX4uHSO.png" group-title="Knowledge", NASA TV
 http://iphone-streaming.ustream.tv/uhls/6540154/streams/live/iphone/playlist.m3u8
@@ -1101,7 +1009,6 @@ http://iphone-streaming.ustream.tv/uhls/10414700/streams/live/iphone/playlist.m3
 http://210.210.155.35/uq2663/h/h23/index1.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/eb/Outdoor_Channel_2017.png" group-title="Knowledge", Outdoor Channel
-http://84.22.33.254/unicast.outdoorchannel/index.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Knowledge", OCEAN
 http://188.35.9.5:10007/stolen/122v/parasite.install
@@ -1121,49 +1028,6 @@ https://livetvhooq.akamaized.net/c37364587aeb4050bd51a0b8068e976f/eu-central-1/5
 https://livetvhooq.akamaized.net/8eb1108c494240ef94c5c8ae7e572c29/eu-central-1/5493668622001/profile_2/chunklist.m3u8?hdnts=st=1575560046~exp=9007200830301037~acl=/8eb1108c494240ef94c5c8ae7e572c29/*/profile_2/chunklist.m3u8*~hmac=63478ab3ea286fb358e2fdb6aceaf9bc19bb79dfcd13ecd3b820ca7eff0c19b7
 
 ###Sport
-
-
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logogrey/grey_logo_bein1_small1.png?v=2.0.0.13" group-title="SPORT", beIN Sports 1
-http://best-servers.xyz:8000/adli2020/2020adli/8471
-
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logogrey/grey_logo_bein2_small1.png?v=2.0.0.13" group-title="SPORT", beIN Sports 2
-http://best-servers.xyz:8000/adli2020/2020adli/8472
-
-#EXTINF:-1 tvg-logo="" group-title="SPORT", beIN Sports 3
-http://best-servers.xyz:8000/adli2020/2020adli/8539
-
-#EXTINF:-1 tvg-logo="" group-title="SPORT", beIN Sports 4
-http://best-servers.xyz:8000/adli2020/2020adli/8690
-
-#EXTINF:-1 tvg-logo="" group-title="SPORT", beIN Sports 5
-http://best-servers.xyz:8000/adli2020/2020adli/8689
-
-#EXTINF:-1 tvg-logo="" group-title="SPORT", beIN Sports 6
-http://best-servers.xyz:8000/adli2020/2020adli/9984
-
-#EXTINF:-1 tvg-logo="" group-title="SPORT", beIN Sports 7
-http://best-servers.xyz:8000/adli2020/2020adli/10928
-
-#EXTINF:-1 tvg-logo="" group-title="SPORT", beIN Sports 8
-http://best-servers.xyz:8000/adli2020/2020adli/14724
-
-#EXTINF:-1 tvg-logo="" group-title="SPORT", beIN Sports 9
-http://best-servers.xyz:8000/adli2020/2020adli/14723
-
-#EXTINF:-1 tvg-logo="" group-title="SPORT", beIN Sports 10
-http://best-servers.xyz:8000/adli2020/2020adli/14722
-
-#EXTINF:-1 tvg-logo="" group-title="SPORT", beIN Sports 11
-http://dpiptvlink.ddns.net:8080/prinicipado157/0mb4b6at6/667466
-
-#EXTINF:-1 tvg-logo="" group-title="SPORT", beIN Sports 12
-http://dpiptvlink.ddns.net:8080/prinicipado157/0mb4b6at6/54715
-
-#EXTINF:-1 tvg-logo="" group-title="SPORT", beIN Sports 13
-http://dpiptvlink.ddns.net:8080/prinicipado157/0mb4b6at6/663994
-
-#EXTINF:-1 tvg-logo="" group-title="SPORT", beIN Sports 
-
 
 
 ###24/7 WORLD NEWS
